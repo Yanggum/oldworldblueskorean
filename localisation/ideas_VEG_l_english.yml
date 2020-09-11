@@ -1,0 +1,189 @@
+﻿l_english:
+  veg_command_from_afar: "Command From Afar"
+  veg_command_from_afar_desc: "All of Vegas' command structures are forced to be based around well established areas of control, especially with signals required to effectively command robots in the field."
+
+  stableOS: "안정적인 OS"
+  stableOS_desc: ""
+
+  vegasprime2: "최고 지침"
+  vegasprime2_desc: " "
+
+  handh: "로봇 생산 설비"
+  handh_desc: ""
+
+  securitron1: "시큐리트론"
+  securitron1_desc: ""
+
+  securitron2: "시큐리트론"
+  securitron2_desc: ""
+
+  mrhandys: "미스터 핸디"
+  mrhandys_desc: ""
+
+  mrgutsys: "미스터 것시"
+  mrgutsys_desc: ""
+
+  robobrains: "로보 브레인"
+  robobrains_desc: ""
+
+  sentrybots: "센트리 봇"
+  sentrybots_desc: ""
+
+  sanitarycity: "깨끗한 도시"
+  sanitarycity_desc: ""
+
+  unstableOS: "불안정한 OS"
+  unstableOS_desc: ""
+
+  omertas: "오메르타"
+  omertas_desc: ""
+
+  omertas2: "오메르타"
+  omertas2_desc: ""
+
+  consigs: "합의 사항"
+  consigs_desc: ""
+
+  consigs2: "합의 사항"
+  consigs2_desc: ""
+
+  consigs3: "합의 사항"
+  consigs3_desc: ""
+
+  militarypriorities: "군사 우선 순위"
+  militarypriorities_desc: ""
+
+  goodbusiness: "좋은 사업"
+  goodbusiness_desc: ""
+
+  goodbusiness2: "좋은 사업"
+  goodbusiness2_desc: ""
+
+  goodbusiness3: "좋은 사업"
+  goodbusiness3_desc: ""
+
+  wealthyclientele: "부유한 고객"
+  wealthyclientele_desc: ""
+
+  middleclassclientele: "중산층 고객"
+  middleclassclientele_desc: ""
+
+  followerknowledge: "추종자 지식"
+  followerknowledge_desc: ""
+
+  concretefortress: "콘크리트 요새"
+  concretefortress_desc: ""
+
+  unifiedvegas: "통합된 베가스"
+  unifiedvegas_desc: ""
+
+  trueindependence: "진정한 독립"
+  trueindependence_desc: ""
+
+  boomeragreement: "부머 협정"
+  boomeragreement_desc: ""
+
+  militiaarms: "민병대 무기"
+  militiaarms_desc: ""
+
+  yesman: "예스맨"
+  yesman_desc: ""
+
+  robcosilver: "롭코 실버"
+  robcosilver_desc: ""
+
+  brightlights: "밝은 빛"
+  brightlights_desc: ""
+
+  chairmen: "체어맨"
+  chairmen_desc: ""
+
+  housealwayswins: "하우스는 언제나 승리한다"
+  housealwayswins_desc: ""
+
+  kings: "킹"
+  kings_desc: ""
+
+  whitegloves: "하얀 장갑"
+  whitegloves_desc: ""
+
+  whitegloves2: "하얀 장갑"
+  whitegloves2_desc: ""
+
+  whitegloves3: "하얀 장갑"
+  whitegloves3_desc: ""
+
+  whitegloves4: "하얀 장갑"
+  whitegloves4_desc: ""
+
+  false_khaganate2: "거짓 칸국"
+  false_khaganate2_desc: ""
+
+  false_khaganate: "거짓 칸국"
+  false_khaganate_desc: ""
+
+  false_khaganate3: "진정한 칸과 묶이다"
+  false_khaganate3_desc: "칸과의 관계를 강화한 이후, 우리는 라스베가스에서 개최했던 가짜 칸을 없애고 진정한 칸과 함께 평의회를 가졌습니다. 그들의 충고는 매우 유익합니다."
+
+  pretender_khan: "뉴베가스 출신의 칸"
+  pretender_khan_desc: "라스베가스 정권의 보호 아래 뉴 베가스에는 가짜 칸이 살고 있습니다. 그는 우리의 정당성을 훼손하고 있습니다! \n§R이 아이디어는 뉴 베가스와 같은 파벌이거나, 뉴 베가스를 점령하거나 또는 뉴 베가스의 존재에 의해 제거 될 수 있습니다.§!"
+
+  loyalsubordinates: "충성스런 부하"
+  loyalsubordinates_desc: ""
+
+  potentialcoup: "잠재적 쿠데타"
+  potentialcoup_desc: ""
+
+  theking: "킹"
+  theking_desc: ""
+
+  thejoker: "조커"
+  thejoker_desc: ""
+
+  freesidesupport: "외부 지원"
+  freesidesupport_desc: ""
+
+  followeradvisors: "추종자 조언가"
+  followeradvisors_desc: ""
+
+  emilyortal: "에밀리 오탈"
+  emilyortal_desc: ""
+
+  threefamilies: "세 가문"
+  threefamilies_desc: ""
+
+  threefamilies2: "세 가문"
+  threefamilies2_desc: ""
+
+  cultofpersonality: "개성의 숭배"
+  cultofpersonality_desc: ""
+
+  repaiddebt: "상환된 부채"
+  repaiddebt_desc: ""
+
+  narcissism: "자기애"
+  narcissism_desc: ""
+
+  bennynewdeal: "베니의 새로운 거래"
+  bennynewdeal_desc: ""
+
+  robcoreborn: "롭코 부활"
+  robcoreborn_desc: ""
+
+  benny: "베니"
+  benny_desc: ""
+
+  the_king: "킹"
+  the_king_desc: ""
+
+  nero: "네로"
+  nero_desc: ""
+
+  majorie: "마저리"
+  majorie_desc: ""
+
+  platinumOS: "백금 OS"
+  platinumOS_desc: ""
+
+  securitron_vault: "시큐리트론 볼트"
+  securitron_vault_desc: ""

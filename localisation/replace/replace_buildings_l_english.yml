@@ -1,0 +1,11 @@
+﻿l_english:
+  arms_factory: "무기 작업장"
+  arms_factory_plural: "무기 작업장"
+  industrial_complex: "민간 작업장"
+  industrial_complex_plural: "민간 작업장"
+  bunker: "전초기지"
+  bunker_plural: "전초기지"
+  bunker_desc: "이 건물은 전투 중인 공격자에게 각 요새 레벨 마다 $VALUE|+%0$ 만큼 공격 페널티를 부과합니다. 여러 방향에서 공격하면 요새 효과가 감소합니다."
+  bunker2: "벙커"
+  bunker2_plural: "벙커"
+  bunker2_desc: "이 건물은 전투 중인 공격자에게 각 요새 레벨 마다 §R-30%§! 만큼 공격 페널티를 부과합니다. 이 건물은 전초 기지보다 2배 높은 가치를 제공합니다."

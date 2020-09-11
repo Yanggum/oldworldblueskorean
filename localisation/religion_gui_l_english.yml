@@ -1,0 +1,7 @@
+﻿l_english:
+  CONVERTED_STATE_TT: "[Root.ConvertedState]"
+  CONVERSION_POSSIBLE_TT: "[Root.ConvertableState]"
+  HEA_CONVERTED_TEXT: "이 주는 증기로 정화되었습니다."
+  NCN_CONVERTED_TEXT: "이 주는 참된 신앙으로 개종되었습니다."
+  HEA_CONVERTABLE_TEXT: "이 주는 §R반드시§! 증기로 정화해야 합니다."
+  NCN_CONVERTABLE_TEXT: "이 주는 참된 신앙으로 개종 될 수 있습니다."

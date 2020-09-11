@@ -1,0 +1,237 @@
+﻿l_english:
+  bunkerblues: "벙커 블루스"
+  bunkerblues_desc: ""
+
+  bosdigin: "형제단 전장 요새화"
+  bosdigin_desc: ""
+
+  bunkerblues2: "벙커 블루스 II"
+  bunkerblues2_desc: ""
+
+  roomtogrow: "재배실"
+  roomtogrow_desc: ""
+
+  scribecouncil: "서기관 의회"
+  scribecouncil_desc: ""
+
+  paladincouncil: "성기사 의회"
+  paladincouncil_desc: ""
+
+  discoveryknights: "기사 발견"
+  discoveryknights_desc: ""
+
+  certaintyknights: "확실한 기사"
+  certaintyknights_desc: ""
+
+  bosspineless: "없어진 가시"
+  bosspineless_desc: ""
+
+  bosvengeful: "불타는 복수심"
+  bosvengeful_desc: ""
+
+  steelconquerors: "강철 정복자"
+  steelconquerors_desc: ""
+
+  maxsonsbulwark: "맥슨의 보루"
+  maxsonsbulwark_desc: ""
+
+  bosdevelopedslums: "개발된 빈민굴"
+  bosdevelopedslums_desc: ""
+
+  elijahgenius: "엘라이자의 천재"
+  elijahgenius_desc: ""
+
+  hardintactics: "하딘의 전술"
+  hardintactics_desc: ""
+
+  bosdrills: "하딘의 전술"
+  bosdrills_desc: ""
+
+  bosmojaveequip: "하딘의 전술"
+  bosmojaveequip_desc: ""
+
+  boslogistictech: "하딘의 전술"
+  boslogistictech_desc: ""
+
+  losthillsdatabase: "로스트 힐즈 데이터베이스"
+  losthillsdatabase_desc: ""
+
+  microfusion: "미세 융합"
+  microfusion_desc: ""
+
+  focuslens: "초점 렌즈"
+  focuslens_desc: ""
+
+  reactionchambers: "반응 챔버"
+  reactionchambers_desc: ""
+
+  bosoldworldfocuses: "구세계 초점"
+  bosoldworldfocuses_desc: ""
+
+  bossimpledesigns: "구세계 디자인"
+  bossimpledesigns_desc: ""
+
+  powermanagement: "센트리봇 재개장"
+  powermanagement_desc: ""
+
+  maintenanceroutines: "정기 유지 관리"
+  maintenanceroutines_desc: ""
+
+  servoupkeep: "서보 유지"
+  servoupkeep_desc: ""
+
+  alloyfoundries: "합금 주조 공장"
+  alloyfoundries_desc: ""
+
+  superioralloys: "우수한 합금"
+  superioralloys_desc: ""
+
+  armingmaxson: "맥슨 무장"
+  armingmaxson_desc: ""
+
+  supplyingmaxson: "맥슨 보급"
+  supplyingmaxson_desc: ""
+
+  maxsonrecruitmentdrive: "맥슨 모집"
+  maxsonrecruitmentdrive_desc: ""
+
+  brotherhoodtacticslexicon: "전술 사전"
+  brotherhoodtacticslexicon_desc: ""
+
+  bosprewarindustry: "전쟁전 산업"
+  bosprewarindustry_desc: ""
+
+  bossalvagedindustry: "인양 산업"
+  bossalvagedindustry_desc: ""
+
+  vandenbergidea: "반덴버그 아이디어"
+  vandenbergidea_desc: ""
+
+  navarroscribes: "나바로 서기관"
+  navarroscribes_desc: ""
+
+  navarrosecrets: "나바로 비밀"
+  navarrosecrets_desc: ""
+
+  shisecrets: "쉬 비밀"
+  shisecrets_desc: ""
+
+  vertibirdrepairs: "버티버드 수리"
+  vertibirdrepairs_desc: ""
+
+  vertibirdequip: "버티버드 장비 업그레이드"
+  vertibirdequip_desc: ""
+
+  zeppelinfoundry: "제플린 주조 공장"
+  zeppelinfoundry_desc: ""
+
+  forbiddensecrets: "금지된 비밀"
+  forbiddensecrets_desc: ""
+
+  forbiddenweapons: "금지된 무기"
+  forbiddenweapons_desc: ""
+
+  shi_secrets: "쉬 비밀"
+  shi_secrets_desc: ""
+
+  armyknowledge: "육군 지식"
+  armyknowledge_desc: ""
+
+  bosdrillsergeants: "드릴 상사"
+  bosdrillsergeants_desc: ""
+
+  siliconvalley: "실리콘 밸리"
+  siliconvalley_desc: ""
+
+  scribecontractors: "서기관 도급자"
+  scribecontractors_desc: ""
+
+  foodforservice: "엘라이자의 천재"
+  foodforservice_desc: ""
+
+  drawnsword: "드론소드"
+  drawnsword_desc: ""
+
+  navarroornothing: "나바로 또는 아무것도"
+  navarroornothing_desc: ""
+
+  steelcitadel: "강철 성채"
+  steelcitadel_desc: ""
+
+  newsteel: "새로운 강철"
+  newsteel_desc: ""
+
+  ghoulrecruitment: "구울 모집"
+  ghoulrecruitment_desc: ""
+
+  arizonanweapons: "애리조나 무기"
+  arizonanweapons_desc: ""
+
+  bosncrdrive: "NCR 선봉"
+  bosncrdrive_desc: ""
+
+  brotherhoodlogistics: "형제단 보급"
+  brotherhoodlogistics_desc: ""
+
+  advancedcommunications: "고급 통신 시스템"
+  advancedcommunications_desc: ""
+
+  securitronsoftware: "엘라이자의 천재"
+  securitronsoftware_desc: ""
+
+  securitronhardware: "엘라이자의 천재"
+  securitronhardware_desc: ""
+
+  repconnencryption: "렙콘 본사"
+  repconnencryption_desc: ""
+
+  robcoprototypes: "롭코 프로토타입"
+  robcoprototypes_desc: ""
+
+  robcorockets: "롭코 로켓"
+  robcorockets_desc: ""
+
+  robcodesign: "롭코 디자인"
+  robcodesign_desc: ""
+
+  plasmatrials: "플라즈마 시험"
+  plasmatrials_desc: ""
+
+  robotsalvage: "롭코 인양"
+  robotsalvage_desc: ""
+
+  scraprefinement: "고철 정제"
+  scraprefinement_desc: ""
+
+  industrialservos: "산업용 서보"
+  industrialservos_desc: ""
+
+  alloyconstruct: "합금 건설"
+  alloyconstruct_desc: ""
+
+  losthillsrefurb: "로스트 힐즈 재개장"
+  losthillsrefurb_desc: ""
+
+  oldguard: "친위대"
+  oldguard_desc: ""
+
+  outsider_recruitment: "외부인 모집"
+  outsider_recruitment_desc: ""
+
+  wasteland_conscripts: "황무지 징집"
+  wasteland_conscripts_desc: ""
+
+  laserfocusfoundry: "레이저 집중 주조 공장"
+  laserfocusfoundry_desc: ""
+
+  shiclosethedoors: "쉬의 닫힌 문"
+  shiclosethedoors_desc: "쉬는 우리에게 문호를 닫았습니다."
+
+  steelcivilians: "강철 시민"
+  steelcivilians_desc: ""
+
+  steelmilitia: "강철 민병대"
+  steelmilitia_desc: ""
+
+  powerarmourdevelopment: "파워 아머 개발"
+  powerarmourdevelopment_desc: ""

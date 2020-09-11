@@ -1,0 +1,99 @@
+﻿l_english:
+  desertrangers: "데저트 레인저"
+  desertrangers_desc: ""
+
+  raiderconscripts: "레이더 징집"
+  raiderconscripts_desc: ""
+
+  rangercores: "레인저 부대"
+  rangercores_desc: ""
+
+  rangerintervention: "레인저 개입"
+  rangerintervention_desc: ""
+
+  nevadarecruitment: "네바다 징집"
+  nevadarecruitment_desc: ""
+
+  knighttactics: "야간 전술\n§Y모든 보병 & 차량/기계§!§W:§! §W돌파:§! §G+5%§!"
+  knighttactics_desc: ""
+
+  rangersworkbench: "레인저의 작업대"
+  rangersworkbench_desc: ""
+
+  wastelandprotect: "황무지 보호"
+  wastelandprotect_desc: ""
+
+  slayinggiants: "거인 살해\n§Y모든 보병 & 차량/기계§!§W:§!\n    §W돌파:§! §G+10%§!\n    §W대인 공격:§! §G+10%§!"
+  slayinggiants_desc: ""
+
+  rangersquartermaster: "레인저 병참 장교"
+  rangersquartermaster_desc: ""
+
+  rangersmechanic: "레인저 기계공"
+  rangersmechanic_desc: ""
+
+  rangersrecruiter: "레인저 징집원"
+  rangersrecruiter_desc: ""
+
+  rangerspropaganda: "레인저 선전"
+  rangerspropaganda_desc: ""
+
+  rangersoutreach: "레인저 구제 활동"
+  rangersoutreach_desc: ""
+
+  rangersarmouries: "레인저 무기고"
+  rangersarmouries_desc: ""
+
+  rangerdepot: "레인저 창고"
+  rangerdepot_desc: ""
+
+  rangersaviation: "레인저 항공술"
+  rangersaviation_desc: ""
+
+  standingtall: "높이 서다"
+  standingtall_desc: ""
+
+  reorganizedrangers: "재편성된 레인저"
+  reorganizedrangers_desc: ""
+
+  ncrfunding: "NCR 자금"
+  ncrfunding_desc: ""
+
+  bosfunding_tt: "BoS 자금"
+  bosfunding_tt_desc: " "
+
+  opjericho: "제리코"
+  opjericho_desc: ""
+
+  rangerslegionwar: "레인저-군단 전쟁\n§Y모든 보병 & 차량/기계§!§W: 회복율:§! §G+10%§!"
+  rangerslegionwar_desc: ""
+
+  rangersnewthreat: "레인저의 새로운 위협\n§Y모든 보병 & 차량/기계§!§W:§!\n    §W돌파:§! §G+10%§!\n    §W대인 공격:§! §G+10%§!"
+  rangersnewthreat_desc: ""
+
+  rangermarch: "레인저 3월"
+  rangermarch_desc: ""
+
+  ncrhonours: "NCR 명예"
+  ncrhonours_desc: ""
+
+  nationalguard: "국가 방위군"
+  nationalguard_desc: ""
+
+  armyrangers: "육군 레인저"
+  armyrangers_desc: ""
+
+  acceptcrim: "수감된 범죄자"
+  acceptcrim_desc: ""
+
+  acceptpetty: "수감된 사소한 범죄자"
+  acceptpetty_desc: ""
+
+  kickcrim: "퇴출된 범죄자"
+  kickcrim_desc: ""
+
+  rangerinterventionism: "레인저 개입주의"
+  rangerinterventionism_desc: " "
+
+  DES_army_corps_of_engineers: "육군 엔지니어 부대"
+  DES_army_corps_of_engineers_desc: ""

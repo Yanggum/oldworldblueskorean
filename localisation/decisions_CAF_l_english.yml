@@ -1,0 +1,147 @@
+﻿l_english:
+
+  caf_trade_decisions:0 "커피 무역 임무"
+  caf_trade_decisions_desc:0 "현재 오프맵 공장: §G[?caf_trade_factory_total]§!"
+
+  caf_trade_decisions_external:0 "재정적 결정"
+  caf_trade_decisions_external_desc:0 ""
+
+  caf_trade_external:0 "커피 해안에 투자"
+  caf_trade_external_desc:0 ""
+
+  caf_trade_external_mission:0 "투자자 요구 충족"
+  caf_trade_external_mission_desc:0 "다른 나라들이 우리 회사에 투자하기 시작하면서, 우리의 주식 가치는 계속해서 상승하겠지만, 만약 우리가 성장에 대한 투자자들의 기대를 충족시키지 못한다면, 우리 두 나라 모두 그로 인해 고통을 받게 될 것입니다."
+
+  caf_investors_tooltip:0 "우리는 현재 투자자의 요구를 충족시키기 위해 §G[?current_industry]§! 자유 민간 공장이 필요합니다."
+
+  caf_available_factories_tooltip_1:0 "이 무역 임무를 시작하려면 §G1§!개의 오프맵 공장이 필요합니다."
+  caf_available_factories_tooltip_2:0 "이 무역 임무를 시작하려면 §G2§!개의 오프맵 공장이 필요합니다."
+  caf_available_factories_tooltip_3:0 "이 무역 임무를 시작하려면 §G3§!개의 오프맵 공장이 필요합니다."
+  caf_available_factories_tooltip_4:0 "이 무역 임무를 시작하려면 §G4§!개의 오프맵 공장이 필요합니다."
+  caf_available_factories_tooltip_5:0 "이 무역 임무를 시작하려면 §G5§!개의 오프맵 공장이 필요합니다."
+
+
+
+  caf_trade_internal:0 "내부 투자"
+  caf_trade_internal_desc:0 ""
+
+  caf_internal_investment_tt:0 "지속적인 내부 투자를 통해 외부 거래 능력을 높일 수 있을 것입니다."
+
+  caf_trade_aztlan:0 "아즈틀란에 무역 임무 준비"
+  caf_trade_aztlan_desc:0 "아즈틀란은 우리 커피 무역의 핵심이지만 그렇다고 해서 이 고객들을 당연하게 받아들일 수 있는 것은 아닙니다. 아즈탈란 국경도시로의 새로운 무역 계획은 커피 체인 제국의 첫 방문지입니다."
+
+  caf_trade_aztlan_mission:0 "아즈틀란 무역 이익"
+  caf_trade_aztlan_mission_desc:0 ""
+
+  caf_trade_honduras:0 "온두라스로 무역 임무 준비"
+  caf_trade_honduras_desc:0 "온두라스는 야생의 장소이며, 끝없이 펼쳐진 공포와 정글에 대한 최후의 방어선입니다. 아마도 우리는 그들에게 문명에 대한 그들의 서비스에 대해 할인을 해 줄 수 있을 것입니다."
+
+  caf_trade_honduras_mission:0 "온두라스 무역 이익"
+  caf_trade_honduras_mission_desc:0 ""
+
+  caf_trade_tzotzil:0 "초칠에 무역 임무 준비"
+  caf_trade_tzotzil_desc:0 "초칠과의 우리의 입장은...불안하긴 합니다. 하지만 다가올 피비린내 나는 전쟁의 위협이 좋은 사업에 방해가 되도록 하는 것은 우리와는 거리가 멉니다!"
+
+  caf_trade_tzotzil_mission:0 "초칠 무역 이익"
+  caf_trade_tzotzil_mission_desc:0 ""
+
+  caf_trade_cartels:0 "카르텔에 무역 임무 준비"
+  caf_trade_cartels_desc:0 ""
+
+  caf_trade_cartels_mission:0 "카르텔 무역 이익"
+  caf_trade_cartels_mission_desc:0 ""
+
+  caf_trade_gente:0 "태양의 사람들에 무역 임무 준비"
+  caf_trade_gente_desc:0 ""
+
+  caf_trade_gente_mission:0 "태양의 사람들 무역 이익"
+  caf_trade_gente_mission_desc:0 ""
+
+  caf_trade_tohono:0 "토호노에 무역 임무 준비"
+  caf_trade_tohono_desc:0 ""
+
+  caf_trade_tohono_mission:0 "토호노 무역 이익"
+  caf_trade_tohono_mission_desc:0 ""
+
+  caf_trade_banditos:0 "바하 도적단에 무역 임무 준비"
+  caf_trade_banditos_desc:0 ""
+
+  caf_trade_baja:0 "바하에 무역 임무 준비"
+  caf_trade_baja_desc:0 ""
+
+  caf_trade_banditos_mission:0 "바하 무역 이익"
+  caf_trade_banditos_mission_desc:0 ""
+
+  caf_trade_ncr:0 "N.C.R.에 무역 임무 준비"
+  caf_trade_ncr_desc:0 ""
+
+  caf_trade_ncr_mission:0 "캘리포니아 무역 이익"
+  caf_trade_ncr_mission_desc:0 ""
+
+  caf_trade_arroyo:0 "마지막 통화 포트"
+  caf_trade_arroyo_desc:0 ""
+
+  caf_trade_arroyo_mission:0 "아로요 무역 이익"
+  caf_trade_arroyo_mission_desc:0 ""
+
+  caf_trade_bellingham:0 "극북 무역 무역 준비"
+  caf_trade_bellingham_desc:0 ""
+
+  caf_trade_bellingham_mission:0 "북부 무역 이익"
+  caf_trade_bellingham_mission_desc:0 ""
+
+  caf_trade_victoria:0 "얼어 붙은 섬에 무역 임무 준비"
+  caf_trade_victoria_desc:0 ""
+
+  caf_trade_victoria_mission:0 "왕실 무역 이익"
+  caf_trade_victoria_mission_desc:0 ""
+
+  caf_trade_brotherhood:0 "강철의 형제단에 대한 무역 임무 준비"
+  caf_trade_brotherhood_desc:0 ""
+
+  caf_dependence:0 "거래의 예술"
+  caf_dependence_desc:0 "우리의 독립이 그렇게 관대하게 마무리되었으니, 우리가 아즈틀란인들을 도와 그들의 초기 레이더 문제를 돕는것이 공평합니다. \nItza Pissed-off-O-meter:  §R[?caf_itz_fucking_pissed]§!"
+  caf_dependence_disrupt_river_traffic:0 "수로 교통 방해"
+  caf_dependence_agitate_tzotzil:0 "초칠 파르티잔과 접촉"
+  caf_dependence_honduran_partisans:0 "온두라스 파르티잔과 접촉"
+  caf_dependence_economic_pressure:0 "이트사 통상 금지"
+
+  caf_dependence_economic_refugees:0 "이트사 난민 수용"
+  caf_dependence_war_readiness:0 "국경 닫기"
+
+  caf_independence:0 "나쁜 사업"
+  caf_independence_desc:0 "사심은 없다,아가야. \nAztlan Pissed-off-O-meter:  §R[?caf_ate_fucking_pissed]§!"
+  
+  caf_ate_fucking_pissed_tooltip:0 "우리는 적어도 §R7§!개의 독립 포인트가 필요합니다."
+  caf_itz_fucking_pissed_tooltip:0 "이트사를 통상 금지시키기 위해서는 최소한 §R7§!개의 무역 포인트가 필요합니다."
+
+  caf_independence_disrupt_sea_trade:0 "해상 무역 방해"
+  caf_independence_water_down:0 "커피에 물을 뿌리다"
+  caf_independence_disrupt_advisors:0 "아즈틀란 조언자 퇴출"
+  caf_independence_tariffs:0 "식품 가격 인상"
+  caf_independence_propaganda:0 "반 아즈틀란 선전 문제"
+  caf_independence_trade_itza:0 "악마와의 거래"
+
+  caf_war_profiteering:0 "전쟁 이윤"
+  caf_arms_trade:0 "무기 거래"
+
+  caf_invest_tooltip:0 "커피 해안이 우리나라로 무역로를 건설했습니다."
+  caf_investor:0 "투자자"
+  investors:0 "투자자"
+  current_industry:0 "현재 산업"
+  caf_trade_success:0 "성공적인 무역 임무"
+  caf_trade_failure:0 "실패한 무역 임무"
+
+  caf_ncr_crisis:0 "민주주의의 기계 정리"
+  caf_bribe_congress:0 "의회에 뇌물 투자"
+  caf_reduce_addictiveness:0 "중독성 화학 물질 감소"
+  caf_free_samples:0 "무료 샘플!"
+  caf_allgood_support:0 "올굿 압박"
+  caf_ncr_legislation_mission:0 "N.C.R.이 커피를 금지하다!"
+
+  caf_ncr_clean_flag:0 "마약을 갑자기 끊다"
+
+
+  caf_axp_cost:0 "§H25§!£army_experience"
+
+  caf_axp_cost_blocked:0 "§R25§!£army_experience"

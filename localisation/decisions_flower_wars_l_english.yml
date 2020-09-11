@@ -1,0 +1,18 @@
+﻿l_english:
+  flower_war_peacetime_countdown: "국경에의 정전"
+  flower_war_peacetime_countdown_desc: "최근 일련의 대규모 국경 충돌 이후,  [ROOT.flw_enemy]와 우리 모두 전면전을 유발하지 않기 위해, 그리고 다음 번에는 반드시 승리할 수 있도록, 분쟁 지역에서 잠시 철수했습니다. 하지만 싸움은 곧 재개될 것입니다,의심할 여지가 없이 말이죠."
+  flower_war_gotime_countdown: "국경에의 긴장!"
+  flower_war_gotime_countdown_desc: "최근 국경에서 벌어진 사소한 교전이 소규모 전투로 번지기 시작했습니다. 당장이라도 [ROOT.flw_enemy]와의 국경에서 전쟁이 일어날 것 같습니다!"
+
+  # Categories
+  flower_wars: "플라워 전쟁"
+  flower_wars_desc: "수십 년 동안, 우리와 [ROOT.flw_enemy] 사이에서는 국경 충돌이 격렬하게 이루어져 왔습니다. 이 충돌은 멕시코 시티등의 세 가지 주요 주를 중심으로 진행되었습니다. 이 주들을 소유하는 것은 우리에게 큰 안정도 보너스를 주고, 또한 적에게 주요한 디버프를 줍니다. 국경에서는 3, 4개월마다 충돌이 발생하며, 우리와  [ROOT.flw_enemy] 사이에서 엎치락 뒤치락 중입니다.만약 강경파들의 요구대로 국경 전쟁에 불을 붙이지 못하면 가혹한 결과를 맞게 될 것입니다..."
+
+  # Tooltips
+  has_flw_inititive: "우리는 플라워 전쟁에서 주도권을 가지고 있습니다"
+  flw_cancelled: "§Y플라워 전쟁§!은 전쟁, 외교 또는 기타 사건으로 인해 중단되었습니다"
+  flw_following_happen: "§R이 미션이 완료되면 다음이 발생합니다.§! \n"
+
+  # Scripted loc keys
+  flw_ate_name: "[ATE.GetNameDef]"
+  flw_itz_name: "[ITZ.GetNameDef]"

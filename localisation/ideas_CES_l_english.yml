@@ -1,0 +1,176 @@
+﻿l_english:
+  national_spirit_rejection_of_automation: "자동화 거부"
+  national_spirit_rejection_of_automation_desc: "시저는 조화롭게 함께 일하는 사회를 구상했습니다. 기계 및 다른 전쟁전 도구를 다시 도입하면 시저가 자신의 주제에서 제시 한 미래 제시를 손상시킬 수 있습니다."
+
+  cultofmars: "마르스 숭배"
+  cultofmars_desc: "군단은 시저를 전쟁의 신인 마르스의 아들로 믿고 그의 아들이 모든것을 정복 할 수 있도록 땅을 정화하는 불을 가져 왔습니다. 그들은 시저에게 열렬히 헌신하고 있습니다."
+
+  legion_nf_shottol_god_of_dogs: "쇼톨, 개들의 신"
+  legion_nf_shottol_god_of_dogs_desc: ""
+
+  legion_nf_goddess_diana: "다이아나 여신"
+  legion_nf_goddess_diana_desc: ""
+
+  legion_nf_caesar_the_godslayer_desc: ""
+
+  legion_nf_cult_of_nas: "나스의 숭배"
+  legion_nf_cult_of_nas_desc: ""
+
+  legion_nf_cult_of_nas_minor: "나스의 숭배"
+  legion_nf_cult_of_nas_minor_desc: ""
+
+  legion_nf_wyatt_the_demon: "악마 와이엇"
+  legion_nf_wyatt_the_demon_desc: ""
+
+  legion_nf_legion_outlaws: "군단 무법자"
+  legion_nf_legion_outlaws_desc: ""
+
+  legion_nf_the_twin_temples: "트윈 사원"
+  legion_nf_the_twin_temples_desc: ""
+
+  legion_nf_nas_scriptures: "나스의 성서"
+  legion_nf_nas_scriptures_desc: ""
+
+  legion_nf_enslaved_dogs: "노예가 된 개"
+  legion_nf_enslaved_dogs_desc: ""
+
+  legion_nf_flagstaff_slaves: "플래그스태프 노예"
+  legion_nf_flagstaff_slaves_desc: ""
+
+  legion_nf_phoenix_slaves: "피닉스 노예"
+  legion_nf_phoenix_slaves_desc: ""
+
+  legion_nf_two_sun_slaves: "투 선 노예"
+  legion_nf_two_sun_slaves_desc: ""
+
+  legion_nf_warcamp_slaves: "전쟁 캠프 노예"
+  legion_nf_warcamp_slaves_desc: ""
+
+  legion_nf_homestead_slaves: "농가 노예"
+  legion_nf_homestead_slaves_desc: ""
+
+  legion_nf_numeri: "숫자"
+  legion_nf_numeri_desc: ""
+
+  legion_nf_centurions: "백부장\n§Y모든 보병 & 차량/기계§!§W:§! §W조직력:§! §G+5%§!"
+  legion_nf_centurions_desc: ""
+
+  legion_nf_lay_of_the_land: "땅의 배치"
+  legion_nf_lay_of_the_land_desc: ""
+
+  legion_nf_legionary_grit: "군단병의 투지"
+  legion_nf_legionary_grit_desc: ""
+
+  legion_nf_praetorian: "프레토리언"
+  legion_nf_praetorian_desc: ""
+
+  legion_nf_vexillarius: "기수\n§Y모든 보병 & 차량/기계§!§W:§! §W계획:§! §G+7%§!"
+  legion_nf_vexillarius_desc: ""
+
+  legion_nf_meritocracy: "실력주의"
+  legion_nf_meritocracy_desc: ""
+
+  legion_nf_legionary_blacksmiths: "군단 대장장이"
+  legion_nf_legionary_blacksmiths_desc: ""
+
+  legion_nf_enslaved_scribes: "서기관 노예화"
+  legion_nf_enslaved_scribes_desc: ""
+
+  legion_nf_gladiator: "검투사"
+  legion_nf_gladiator_desc: ""
+
+  legion_nf_deconstructing_perfection: "완벽 해체"
+  legion_nf_deconstructing_perfection_desc: ""
+
+  legion_nf_burned_man_rumours: "불탄 남자의 소문"
+  legion_nf_burned_man_rumours_desc: ""
+
+  legion_nf_the_bulls_wounds: "황소의 상처"
+  legion_nf_the_bulls_wounds_desc: ""
+
+  legion_nf_worthy_foe: "가치있는 적"
+  legion_nf_worthy_foe_desc: ""
+
+  legion_nf_nova_roma: "노바 로마"
+  legion_nf_nova_roma_desc: ""
+
+  legion_nf_vegas_strip: "베가스의 빛"
+  legion_nf_vegas_strip_desc: ""
+
+  legion_nf_overextension: "과대확장"
+  legion_nf_overextension_desc: ""
+
+  legion_nf_new_thesis: "새로운 이론"
+  legion_nf_new_thesis_desc: ""
+
+  legion_nf_immortal_empire: "불멸의 제국"
+  legion_nf_immortal_empire_desc: ""
+
+  legion_nf_spqr: "S.P.Q.R"
+  legion_nf_spqr_desc: ""
+
+  legion_nf_pax_romana: "로마의 평화"
+  legion_nf_pax_romana_desc: ""
+
+  legion_nf_fort_focus: "요새 건설 노력"
+  legion_nf_fort_focus_desc: ""
+
+  legion_nf_factory_focus: "산업 건설 노력"
+  legion_nf_factory_focus_desc: ""
+
+  legion_nf_follower_slaves: "추종자 노예"
+  legion_nf_follower_slaves_desc: ""
+
+  legion_nf_servus: "공공 노예"
+  legion_nf_servus_desc: ""
+
+  legion_nf_slave_collars: "노예 목걸이"
+  legion_nf_slave_collars_desc: ""
+
+  legion_nf_freemen: "자유민"
+  legion_nf_freemen_desc: ""
+
+  legion_nf_foundries_of_mars: "마르스의 주조공장"
+  legion_nf_foundries_of_mars_desc: ""
+
+  legion_nf_pax_per_bellum: "실력을 통한 평화"
+  legion_nf_pax_per_bellum_desc: ""
+
+  legion_nf_child_soldiers: "소년병"
+  legion_nf_child_soldiers_desc: ""
+
+  legion_nf_warriors_of_mars: "마르스의 전사\n§Y보병§!§W:§!\n    §W대인 공격:§! §G+10%§!\n    §W돌파:§! §G+25%§!"
+  legion_nf_warriors_of_mars_desc: ""
+
+  legion_nf_hoover_dam: "후버 댐"
+  legion_nf_hoover_dam_desc: ""
+
+  legion_nf_rubicon_crossed: "루비콘 횡단"
+  legion_nf_rubicon_crossed_desc: ""
+
+  legion_nf_weapon_maintenance: "무기 유지 보수"
+  legion_nf_weapon_maintenance_desc: ""
+
+  legion_nf_unit_tactics: "군단병 전술"
+  legion_nf_unit_tactics_desc: ""
+
+  legion_nf_explosives_creation: "폭발물질 제조"
+  legion_nf_explosives_creation_desc: ""
+
+  legion_nf_ridgers_pyre: "Ridgers Pire"
+  legion_nf_ridgers_pyre_desc: ""
+
+  legion_nf_kaibab_crucifiction: "카이밥 십자가형"
+  legion_nf_kaibab_crucifiction_desc: ""
+
+  legion_nf_fredonian_arena: "프레도니안 아레나"
+  legion_nf_fredonian_arena_desc: ""
+
+  legion_nf_profligate_destruction: "방탕자 말살"
+  ilegion_nf_profligate_destruction_desc: ""
+
+  legion_nf_divide_et_impera: "분할된 제국"
+  legion_nf_divide_et_impera_desc: ""
+
+  legion_nf_decimatio: "십분의 일형"
+  legion_nf_decimatio_desc: ""

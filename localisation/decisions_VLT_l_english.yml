@@ -1,0 +1,48 @@
+﻿l_english:
+  vault_tec_calling_category: "볼트-텍의 부름!"
+  vault_tec_calling_category_desc: "이제는 우리가 황무지의 소수 부족들과 외교 관계를 시작 했으므로, 우리는 몇몇 특별한 임무를 수행할 수 있습니다."
+
+  vault_3: "볼트 3 탐색"
+  vault_3_desc: "볼트3의 거주민들은 악당에 의해 도살당했지만 볼트 자체는 귀중한 자원을 보유하고 있을수도 있습니다."
+
+  vault_6: "볼트 6 탐색"
+  vault_6_desc: "이 비밀스러운 볼트는 그 구조가 유용하다고 증명되었지만 야생 구울 무리에 지켜지고 있습니다."
+
+  vault_13: "볼트 13 탐색"
+  vault_13_desc: "많은 중요한 사건이 벌어진 장소이지만, 그곳은 거의 신성시 되고 있는것 처럼 보입니다."
+
+  vault_15: "볼트 15 탐색"
+  vault_15_desc: "버려진 지 오래되었고 완전히 폐허가 된 이 볼트를 탐색하는 것은 위험한 열정에 지나지 않습니다."
+
+  vault_19: "볼트 19 탐색"
+  vault_19_desc: ""
+
+  vault_21: "볼트 21 탐색"
+  vault_21_desc: "위층에는 꽤 많은 공간이 있는것 같지만, 이 볼트의 바닥은 이미 무너져 내렸습니다."
+
+  vault_22: "볼트 22 청소"
+  vault_22_desc: "첫번째 조사팀은 우리와 연락이 끊겼고 표면팀이 중간에 끊긴 메시지를 보냈습니다.'식물들이 ㅅ...'"
+
+  vault_34: "부머와 접촉"
+  vault_34_desc: "이 볼트의 거주자들은 자신들을 위해 꽤 많은 무기를 비축해 놓은것 같습니다.우리는 그들이 나올수 있도록 도울 동료가 있는지 알아봐야 합니다."
+
+  vault_70: "볼트70 탐색"
+  vault_70_desc: "가나안 사람들이 몇 년 전에 버린 이 볼트는 거의 작동하지 않습니다."
+
+  vault_polyphemus: "폴리페모스 모집"
+  vault_polyphemus_desc: "폴리페무스는 사이클롭스 부족의 외눈박이 신이었고, 그의 무술은 황무지에서는 놀라울 정도로 인상적이었습니다. 어쩌면 우리의 시민권이 그를 우리쪽으로 넘어올수 있게 할수 있지 않을까요?"
+
+  vault_raise_flock: "페일 민병대 소집"
+  vault_raise_flock_desc: "페일 폴크는 오랫동안 지하의 은신처에 숨어 있었지만, 지금의 상황을 고려할때 그들을 무장시키고 우리를 위해 주변을 방어 하게 만들수 있습니다."
+
+  vault_brain_category: "새로운 돌연변이 생성"
+  vault_brain_category_desc: ""
+
+  vault_dip_cyclops: "사이클롭스 부족 공격"
+  vault_dip_cyclops_des: ""
+
+  vault_dip_pale: "페일 폴크 공격"
+  vault_dip_pale_desc: ""
+
+  vault_dip_yakuza: "야쿠자 공격"
+  vault_dip_yakuza_desc: ""

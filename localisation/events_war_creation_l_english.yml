@@ -1,0 +1,13 @@
+﻿l_english:
+  war_creation.1.t: "국경 분쟁"
+  war_creation.1.d: "국경분쟁 인공지능 이벤트"
+  war_creation.1.a: "임의의 이웃국가가 우리에게 소유권 주장을하는 이벤트를받습니다."
+
+  war_creation.2.t: "국경 분쟁"
+  war_creation.2.d: "[From.GetNameDef]는 국경의 정당성에 대해 이의를 제기하고 자신들이 토지의 정당한 소유자라고 주장합니다. 그들의 지도자인, [From.GetLeader]는 접촉을 거부했고 협상할 의사가 없는 것 같습니다. 이러한 주장은 분명히 부정적이지만, 향후 이 근거로 전쟁에 나설 수도 있습니다."
+  war_creation.2.a: "우리는 그들을 위한 준비를 할 것입니다."
+  war_creation.2.a.tt: "[From.GetName]는 우리 국경 지방 중 한 곳에 청구를 받는다."
+
+  war_creation.3.t: "AI는 국경분쟁으로 부터 정당성을 얻습니다."
+  war_creation.3.d: "대상 국가가 이벤트를 받은 후 이 국가는 해당 이벤트에 대한 정당성을 획득했습니다."
+  war_creation.3.a: "임의의 이웃 국가 정당성 획득"

@@ -1,0 +1,10 @@
+﻿l_english:
+  EFFECT_REMOVE_FM_LEADER: "$NAME|H$이(가) 사령관을 그만두었습니다.\n"
+  EFFECT_REMOVE_CC_LEADER: "$NAME|H$이(가) 장군을 그만두었습니다.\n"
+  EFFECT_CREATE_FM_LEADER: "$NAME|H$이(가) 사령관이 되었습니다.\n"
+  EFFECT_CREATE_CC_LEADER: "$NAME|H$이(가) 장군이 되었습니다.\n"
+  EFFECT_ADD_BUFF_TO_UNITS: "장군이 컨트롤하는 유닛에 버프를 추가합니다."
+  EFFECT_IMPROVE_PLANNING: "장군이 관리하는 유닛의 계획을 향상시킵니다."
+  EFFECT_PROMOTE_LEADER: "§H사령관§!으로 승격됩니다."
+  EFFECT_DEMOTE_LEADER: "§H장군§!으로 강등됩니다."
+  EFFECT_EVERY_UNIT_LEADER_STARTS: "모든 장군"

@@ -1,0 +1,42 @@
+﻿l_english:
+
+  # categories
+  technology_decisions:0 "과학"
+  technology_decisions_desc:0 "새로운 기술 및 때로는 사용할 수 없는 기술 연구에 관한 특별 프로젝트입니다."
+
+  # decisions
+  elite_melee_decision_research:0 "강화된 근접 무기"
+  elite_melee_decision_research_desc:0 "현장에서의 경험에 비추어 볼 때, 보통 능력 이상의 기술에 접근할 수 있을 것입니다."
+  improved_laser_weaponry_decision_research:0 "평범한 에너지 무기"
+  improved_laser_weaponry_decision_research_desc:0 "현장에서의 경험에 비추어 볼 때, 보통 능력 이상의 기술에 접근할 수 있을 것입니다."
+  advanced_laser_weaponry_decision_research:0 "고급 에너지 무기"
+  advanced_laser_weaponry_decision_research_desc:0 "현장에서의 경험에 비추어 볼 때, 보통 능력 이상의 기술에 접근할 수 있을 것입니다."
+  improved_ballistic_decision_research:0 "평범한 탄도 무기"
+  improved_ballistic_decision_research_desc:0 "현장에서의 경험에 비추어 볼 때, 보통 능력 이상의 기술에 접근할 수 있을 것입니다."
+  advanced_ballistic_decision_research:0 "고급 탄도 무기"
+  advanced_ballistic_decision_research_desc:0 "현장에서의 경험에 비추어 볼 때, 보통 능력 이상의 기술에 접근할 수 있을 것입니다."
+  unit_training_1_decision_research:0 "부대 훈련"
+  unit_training_1_decision_research_desc:0 "현장에서의 경험에 비추어 볼 때, 보통 능력 이상의 기술에 접근할 수 있을 것입니다."
+  unit_training_2_decision_research:0 "부대 훈련"
+  unit_training_2_decision_research_desc:0 "현장에서의 경험에 비추어 볼 때, 보통 능력 이상의 기술에 접근할 수 있을 것입니다."
+
+  # custom costs
+  army_xp_more_than_30:0 "§H30§!£army_experience"
+  army_xp_more_than_30_blocked:0 "§R30§!£army_experience"
+  army_xp_more_than_30_tooltip:0 "It costs 30£army_experience to select this."
+  army_xp_more_than_60:0 "§H60§!£army_experience"
+  army_xp_more_than_60_blocked:0 "§R60§!£army_experience"
+  army_xp_more_than_60_tooltip:0 "It costs 60£army_experience to select this."
+  air_xp_more_than_30:0 "§H30§!£air_experience"
+  air_xp_more_than_30_blocked:0 "§R30§!£air_experience"
+  air_xp_more_than_30_tooltip:0 "It costs 30£air_experience to select this."
+  navy_xp_more_than_30:0 "§H30§!£navy_experience"
+  navy_xp_more_than_30_blocked:0 "§R30§!£navy_experience"
+  navy_xp_more_than_30_tooltip:0 "It costs 30£navy_experience to select this."
+  navy_xp_more_than_60: "§H60§!£navy_experience"
+  navy_xp_more_than_60_blocked:0 "§R60§!£navy_experience"
+  navy_xp_more_than_60_tooltip:0 "It costs 60£navy_experience to select this."
+
+  # ideas
+  research_decision_malus:0 "특별 프로젝트 추진"
+  research_decision_malus_desc:0 "평상시와는 다른 기술들을 연구하면서 우리는 지치게 되었습니다. 우리 과학자들은 당분간 회복해야 합니다."

@@ -1,0 +1,6 @@
+﻿l_english:
+  CONSTRUCTION_USED_FACTORIES: "사용된 작업장: $USED|H$"
+  CONSTRUCTION_MAX_FACTORIES: "최대 작업장: $MAX|H$"
+  CONSTRUCTION_MAPMODE_CONVERT_PROVINCE_TOOLTIP: "전환을 시작하려면 민간 작업장 또는 군수 작업장 아이콘을 클릭하십시오."
+  CONSTRUCTION_CONVERT_IC_TOOLTIP: "§Y전환§!\n민간 작업장을 군수 작업장으로 전환하거나 그 반대로 전환"
+  CONSTRUCTION_FACTORIES_AMOUNT: "작업장의 수"

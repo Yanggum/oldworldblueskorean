@@ -1,0 +1,381 @@
+﻿l_english:
+  bos_justice: "정의"
+  bos_justice_desc: "2077년 10월 10일, 핵의 불길로 인해 모든 것이 파괴되기 일주일도 채 남지 않은 시점에서, 로버트 맥슨과 그의 추종자들은 자원과 물자를 찾기를 바라며 웨스트-텍 시설로 내려갔습니다. 대신 그들은 괴물들의 쇼와 악몽 같은 FEV, 그리고 미친 과학자를 발견했습니다. 로버트는 분노했고,이 미친 사람들에게 무엇을하기로 결심했는지는 수세기에 걸쳐 울려 퍼질 것입니다."
+
+  bos_glow: "빛"
+  bos_glow_desc: "2134 년 강철 형제단이 공식적으로 결성 된 후, 맥슨의 병사 중 한 명인 데니스 알렌은 기술적인 공예품을 찾아 웨스트-텍 시설로 돌아갈 수있는 허가를 요청했습니다. 이것이 가장 위험한 임무였음을 충분히 이해하고 평의회에 제출 한 그는 자신의 좋은 평판을 믿고 허락을 얻었습니다."
+
+  bos_vipers: "바이퍼스"
+  bos_vipers_desc: "바이퍼스와의 전쟁은 다른 여느 순찰대들과 마찬가지로 소규모의 총격전을 벌이는 전투가 주를 이룹니다. 하지만 이번에는 달랐고, 사상자가 발생했습니다. 맥슨 자신은 라드스콜피온의 독에 고통스러워하며 교전한지 몇 시간 만에 사망했습니다. 이 고통스럽고 끔찍한 죽음은 강철 형제단 사이에서 분노로 이어졌습니다."
+
+  bos_oldamerica: "구세계 아메리카"
+  bos_oldamerica_desc: "형제단은 미국의 종말에서 살아남은 유일한 전쟁전의 군부대가 아니었습니다. 그리고 그것은 엔클레이브의 부상과 함께 압도적으로 명백해졌습니다. 수년간의 수동적인 관찰과 미묘한 기동을 거친 강철 형제단은 나바로 전초기지에서 벌어진 마지막 전투에서 NCR에 합류했습니다. 이것은 여러 면에서 강철의 형제단을 위한 새로운 장이 열리게 된 것입니다."
+
+ # Underground Hangars sub-tree
+
+  bos_hangars: "지하 격납고"
+  bos_hangars_desc: "일부 전쟁 전 군용 벙커에는 지하 항구가 설치되어 있습니다. 버티버드는 상대적으로 안전하거나 불명확한 곳에서 승하할 수 있습니다. 이러한 시설들 중 다수는 수리를 위한 시설과 충분한 연료를 보관할 수 있는 시설을 갖추고 있습니다. 전원장치의 보호를 위해 이것을 온라인 상태로 전환해야 합니다."
+
+  bos_fighters: "전투기 개발"
+  bos_fighters_desc: "수많은 공항은 조종사를 훈련시키는 장치를 포함하고 있지만, 그러한 사람들을 훈련시키는 것은 필요한 기계 없이는 무의미합니다. 의회의 명령에 따라 수많은 성기사 분대가 폐허로 보내져 구세계의 난파된 비행기들을 복구하는데 필요한 정보를 확인하고 복구하고 있습니다."
+
+  bos_support: "지원 전술"
+  bos_support_desc: "마지막 시대에는 통합 공군 전술이 거의 필수적이었고, 거의 모든 교전에서 지상 보병을 지원하기 위한 폭격기와 저공폭격전술이 존재했습니다. 이상적으로는 그런 전술을 익히고 다시 황무지의 전투에 도입할 수 있다면 그 어떤 파벌이라도 압도적인 이점을 얻을 수 있겠지만, 이렇게 하려면 어떻게 해야 할까요? 먼저 이러한 지원 용량을 가진 비행기를 찾아 수리해야 합니다."
+
+  bos_airlexicon: "항공 전투 사전"
+  bos_airlexicon_desc: "황무지에서 우리의 노력이 헛되지 않았습니다! 공군 시설의 깊은 곳에서, 로보브레인 한 대가 발견되었고, 우리는 미 공군이 이전에 사용했던 전술과 규정의 기록 보관소를 찾기 위해 애쓰고 있습니다. 그 축복으로, 우리는 미래에 사용할 수 있도록 이 정보의 복사본을 만들 수 있었습니다."
+
+  bos_behemoths: "에어 베히모스"
+  bos_behemoths_desc: "구세계의 우월한 전투기들은 압도적으로 강력하고, 유지하기가 엄청나게 어렵습니다. 강력한 연료와 탄약을 필요로 하는 형제단의 많은 사람들은 그들의 전투 효율이 그것을 생산하는 비용보다 훨씬 더 크다고 주장합니다."
+
+  bos_bombers: "요새 폭격기"
+  bos_bombers_desc: "구세계의 요새 폭격기들은 보기에도 악몽 같은 존재이며, 가장 강화된 위치를 제외한 모든 것을 폭격할 수 있고 탑재물을 보호하기 위한 기관총과 자동 터렛이 즐비한 공중의 요새입니다. 그것은 비용이 많이 들지만, 이 새로운 시대에 그것에 대한 생존 가능성을 부정할 수 있는 사람은 거의 없습니다. 보복의 위험 없이 적을 파괴할 수 있는 능력이 모두에게 어필되고 있습니다."
+
+  bos_scourge: "재앙"
+  bos_scourge_desc: "과거에는 강철의 형제단이 수송선을 소형 비행선으로 충분히 활용했지만, 최근에는 부유식 무기 플랫폼이 떠오르면서 소형 비행선을 새롭게 사용할 수 있는 아이디어가 떠올랐습니다. 이러한 작업을 수행하려면 사용자의 상황별 용도에 대한 이해와 이러한 사실을 밝혀내는 데 필요한 모든 기술에 대한 심층적인 지식이 필요합니다."
+
+ # San-Francisco Harbour sub-tree
+
+  bos_harbours: "샌프란시스코 항구"
+  bos_harbours_desc: "샌프란시스코 항구는 군사적이든 아니든 전 세계로부터 수백 척의 거대한 선박을 선적한 적이 있습니다. 구시대의 배들은 아직도 폐허가 된 선착장에 놓여 있습니다. 이러한 난파선을 치우는 것은 여러 가지 기본적인 수리 기술과 결합되어 새로 부상하고 있는 우리 해군에게 무수한 집결지를 열어줄 수 있습니다."
+
+  bos_seatrials: "해군 모집"
+  bos_seatrials_desc: "바다에 들어오는 사람들은 드물지만, 전혀 들어본 적이 없는 것은 아닙니다. 해안의 레이더들은 대형 선박을 빨리 잡기 위해 해변의 얕은 물길을 배회합니다. 이에 대한 일반적인 대답은 민첩한 작은 함대입니다. 이 함대는 그러한 적들을 포로로 잡고 무장해제할 수 있습니다."
+
+  bos_navallexicon: "해군 전술 사전"
+  bos_navallexicon_desc: "우리는 전 미 제독임을 자처하는 구울에 의해 주어진 정보를 이용하여, 향후 수십 년간 해전에 대한 우리의 접근방식의 기초가 될 거친 해군 어휘 목록에서의 해군 전술과 교전규칙에 대한 정보를 수집하기 시작했습니다."
+
+  bos_screening: "선박 차단"
+  bos_screening_desc: "바다에 들어오는 사람들은 드물지만, 전혀 들어본 적이 없는 것은 아닙니다. NCR 순찰대는 광범위한 해안을 소규모 함대와 함께 순찰하고 있습니다.그들의 배는 전투가 아닌, 공격용 선박을 위협하도록 설계된 해양선입니다. 만약 우리가 바다에서 그들에게 도전한다면, 우리는 우리만의 더 큰 배가 필요할 것입니다."
+
+  bos_seabehemoths: "시 베히모스"
+  bos_seabehemoths_desc: "전함의 개념은 형제단 내의 모든 사람들에게 매력적입니다. 샌프란시스코 만 지역에 대한 우리의 통제권을 완전히 확보하고 공격적 함대를 파괴할 수 있는 불굴의 무기가 만들어졌습니다."
+
+  bos_aircatapults: "전투기 발사기"
+  bos_aircatapults_desc: "몇몇 사람들에 의해 스틸 케이지라 불리는 전함이 우리 함대의 정점이 되었습니다. 전쟁 전 화물선에는 중형 레이저 대포와 신형 원자로가 탑재됐습니다. 그것의 무장은 거의 불가항력이고, 많은 사람들은 이 함선이 우리의 바다에서의 지배력을 확인한다고 느낍니다."
+
+  bos_steelcage: "스틸 케이지"
+  bos_steelcage_desc: "몇몇 사람들에 의해 스틸 케이지라 불리는 전함이 우리 함대의 정점이 되었습니다. 전쟁 전 화물선에는 중형 레이저 대포와 신형 원자로가 탑재됐습니다. 그것의 무장은 거의 불가항력이고, 많은 사람들은 이 함선이 우리의 바다에서의 지배력을 확인한다고 느낍니다."
+
+ # Brotherhood Expansion sub-tree
+
+  bos_expansion: "브라더후드 확장"
+  bos_expansion_desc: "민간인과 군인 모두 지하 시설을 확장하고 정기적으로 청소하는 것은 형제단 확장의 가장 중요한 부분입니다. 그렇게함으로써 우리는 장래에 새로운 전초 기지와 지부를 설립 할 수있게 되었습니다."
+
+  bos_optics: "광학 정찰"
+  bos_optics_desc: ""
+
+  bos_sword: "검을 그리다"
+  bos_sword_desc: "NCR이 감히 우리를 상대로 전쟁을 벌입니다! 우리는 그들에게 그들 방법의 오류를 보여 줄 것입니다! 지금도 열심인 어린 연습생 수십 명이 강사들에게 시범을 보여 달라고 사정하고 있습니다. 전투 지역보다 기사들을 훈련시키는데 더 좋은 장소는 어디겠습니까?"
+
+  bos_navarro: "나바로 또는 아무것도"
+  bos_navarro_desc: "나바로의 통제는 나바로의 전투에 이은 형제단의 유일한 대가였습니다. NCR은 우리가 다음의 평화 협정에서 얻은 것을 항상 거부하고 혐오하고 있으며, 그것을 되찾을려고 노력할 것입니다. 따라서 장로님의 말씀은 이렇습니다! 나바로 또는 아무것도!"
+
+  bos_citadel: "강철의 요새"
+  bos_citadel_desc: "강철의 형제단은 오랜 세월 동안 이와 같은 전투에서 시험받지 못했습니다.우리를 물리칠 수 있는 능력을 가진 적들과의 공개적인 전쟁 말입니다.우리는 NCR의 소굴에 맞서는 강철의 요새가 되어야 합니다."
+
+  bos_newsteel: "새로운 강철"
+  bos_newsteel_desc: "갑자기 파워 아머를 대량 생산 및 수리해야 하는 상황이 발생함에 따라 장갑 내부에서 불필요하고 중복된 시스템과 기능이 발견되었으며, 이 시스템을 제거하면 생산 설비가 빠르게 진행될 수 있습니다."
+
+  bos_ghouls: "구울 모집"
+  bos_ghouls_desc: "형제단에 속한 사람들은 절박한시기에 필사적 인 조치가 필요하다고 느낍니다. NCR은 지난 수십 년 동안 셀 수없는 숫자의 구울들을 소외 시켰습니다. 그 중 많은 사람들이 NCR에대해 재고한다면 기꺼이 우리편으로 들일수 있을것 입니다."
+
+  bos_victoryforge: "승리의 제철소"
+  bos_victoryforge_desc: "전쟁 제철소는 민간 제조 및 일반 경제와 같이 우리가 종종 저지른 것들에 대한 세련된 필요성으로 그 어느 때보다 강해졌습니다. 절약 할 수있는 자원을 사용하여 우리는 큰 발전을 이룩할 수 있을것 입니다."
+
+  bos_victoryordeath: "승리 또는 죽음"
+  bos_victoryordeath_desc: " "
+
+ # Internal Restructuring sub-tree
+
+  bos_restructure: "내부 구조 조정"
+  bos_restructure_desc: "강철의 형제단은 수십 년 동안 인력 문제로 어려움을 겪어왔는데, 이는 외부의 원조를 받아들이는일을 거절한것이 크게 기인하고있습니다. 그러나, 그러한 것들은 불변의 것이며, 황무지가 변함에 따라 우리가 변화해야 할 것이라는 것이 점점 분명해지고 있습니다."
+
+  bos_outsiders: "외부인 모집"
+  bos_outsiders_desc: "외부 인사, 충성스러운 사람들, 그리고 강철의 형제단에 가입하는 것에 관심을 표명해 온 사람들, 이것이 우리가 채용을 추진하는 첫 번째이자 가장 큰 단계입니다. 비록 그들이 우리 조직 밖의 많은 사람들로부터 분개하고 있지만, 이러한 외견상의 것들은 그 계급을 살리는 데 도움이 될 것입니다."
+
+  bos_wastelandconscripts: "황무지 징병제"
+  bos_wastelandconscripts_desc: "이전부터 황무지 징병제는 장로들이 가장 절실하게 생각한 것입니다. 우리가 지켜주는 마을에있는 유능하고 강한 신체 능력이있는 남성과 여성들은 조직 내에서 원시적이며 명백한 폭압으로 간주되기 때문입니다."
+
+  bos_techreallocation: "기술 재배치"
+  bos_techreallocation_desc: "형제단조차 완벽한 보급이 부족하고, 창고와 벙커에 엄청난 양의 기술이 버려지고 있습니다. 장부를 다시 확인하고 낭비되는 것이 거의 없는지 확인하는 것은 우리를 더욱 멀리 데려다 줄 것입니다."
+
+  bos_advancedcommunication: "고급 통신"
+  bos_advancedcommunication_desc: "이상하게 들리겠지만, 황무지 안의 대부분의 그룹은 파일과 귀중한 문서에 대한 기본적인 암호화를 시도조차 하지 않습니다. 반면, 형제단은 이해해야 할 사람들만 이해할 수 있도록 방화벽과 코딩 방법을 지속적으로 개선하고 있습니다."
+
+  bos_surfacetensions: "표면화된 긴장"
+  bos_surfacetensions_desc: "수십 년 동안 강철의 형제단은 외부 활동에 참여하지 않고 기술을 모으는 수익성있는 운영에만 집착하고 영역내에 있는 주민들의 보호에 관해서는 황무지 사람들을 사지로 이끌었습니다. 이것은 대중의 이미지를 손상시킬뿐만 아니라 선을 위한 힘으로서의 도덕성을 해쳤습니다. 이제는 형제단이 다시 성숙 할 때입니다."
+
+# Old Bonds sub-tree
+
+  bos_oldbonds: "옛 유대""
+  bos_oldbonds_desc: "형제단과 NCR은 과거에 서로를 지켜왔습니다. 둘 다 이 험한 황무지에서 문명의 보루이기 때문입니다. 하지만, NCR은 다른 어떤 것과 달리 적에게 위협을 받고 있습니다. 그 적은 너무 거대해서 NCR의 강력한 버클조차 압박을 받고 있습니다. 만약 캘리포니아에서 살아남기 위해서는, 우리는 행동해야 합니다."
+
+  bos_logistics: "물류 지원"
+  bos_logistics_desc: "NCR은 그들의 보급 지원에 자부심을 가지고 있습니다. 왜 그런지 알겠죠. 엉망진창이고, 그들은 가장 기본적인 구조 외에는 모두 부족한 것 같습니다. 그들의 통신 네트워크에 대한 간단한 조언과 사소한 업그레이드는 그들을 무시할 수 없는 존재로 만들것 입니다."
+
+  bos_recruitment: "대대적 모집"
+  bos_recruitment_desc: "군단은 수없이 많은 적입니다. 우리가 효과적인 능력을 발휘하기 위해서는 새로운 성기사와 병사가 필요합니다."
+
+  bos_ncrforge: "NCR 제철소"
+  bos_ncrforge_desc: "오랜 기간 축적된 엄청난 양의 부와 기술이 NCR의 전쟁 노력에 투입되고 있고, 그들의 경제는 압력에 시달리고 있습니다. 몇몇 장로들은 NCR 산업의 심장인 셰이디 샌즈를 보강하여 대세에 역행하는 것이 낫다고 제안하였습니다."
+
+ # Common Ground with Savages sub-tree
+
+  bos_commonground: "야만인과의 공통점"
+  bos_commonground_desc: "북쪽으로 멀리 떨어진 움브라 부족은 캘리포니아의 마지막 독립민으로 남아 있습니다. 하지만 지금도 NCR은 이 사람들을 문명화하거나 퇴거시키기 위해 움직이고 있습니다. 북부의 확장을 확보하기 위해, 그들은 우리의 세력권 안으로 유입되어야 합니다."
+
+  bos_union: "동지애 연합"
+  bos_union_desc: "아로요를 다스리는 선택받은 자는 우리의 도움으로 황무지를 구한 적이 있습니다. 그런 만큼, 우리는 그 이후로 그들과 좋은 관계를 유지하고 있습니다.  그런 좋은 은혜를 부르며 그것을 겹쳐서 가져올 시간입니다. 북쪽의 혼돈에 대한 완충지 상태이며 NCR의 끊임없는 팽창주의의 한계점이 될겁니다."
+
+  bos_seize: "아로요 점령"
+  bos_seize_desc: "힘이있는데 왜 대화를 사용합니까? 아로요의 사람들은 단연코 우리보다 훨씬 약합니다. 그리고 우리는 그들을 동맹으로 이끌 수 있지만, 우리는 그들의 자원과 장비를 우리의 것으로 삼음으로써 훨씬 더 잘 할 것입니다. 우리가 그들을 향해 진군하기로 결정한다면, 그들은 우리를 막기 위해 할수있는것이 아무것도 없을것 입니다."
+
+  bos_homefront: "국내 전선 문제"
+  bos_homefront_desc: "쉬와의 긴장은 결코 특별히 좋았던 적이 없지만, 두 기술 강국이 이렇게 서로 가깝게 살면 무엇을 기대할 수 있을까요? 비록 최근의 사건들이 상호 이해를 위협하고 있지만, 그들이 그들 자신의 첨단 무기와 기술에 대한 통제권을 유지하는 것은 우리의 선의에 의해서만 가능합니다."
+
+  bos_scrapsilicon: "실리콘 밸리 폐기"
+  bos_scrapsilicon_desc: "실리콘 밸리는 형제단 정찰병들과 서기관들이 새로운 희귀한 기술을 찾기를 바라며 수십 년 동안 탐험해 왔습니다. 하지만 최근 들어 형제단에 필요한 것은 단순한 자원일 수도 있다는 것이 압도적으로 분명해졌습니다. 가장 최근의 탐험의 목적을 바꾸는게 좋겠습니까?"
+
+  bos_exploresilicon: "실리콘 밸리 탐색"
+  bos_exploresilicon_desc: "금속과 같은 원자재에 대한 우리의 필요성에도 불구하고, 강철의 형제단은 그것의 핵심 기능인 고대 유물과 기술 캐시의 복구에 충실할 것입니다. 가장 최근의 실리콘 밸리 원정은 현재의 목표를 유지할 것입니다."
+
+  bos_strip: "서브 제거"
+  bos_strip_desc: "미국에 쉬를 가져온 서브의 비어있는 유물은 수십 년 동안 항만에 안정적으로 머물러 있는 고품질 자원의 원천 이었지만 군용 등급의 강철과 금속에 도달하기는 어려웠습니다. 이 선박을 복구하고 폐기하면 합리적인 자원이 확보 될 수 있습니다."
+
+  bos_slums: "슬럼가 개발"
+  bos_slums_desc: "만 지역 사람들은 오래 전부터 사람들이 기대하는 것에 시달려 왔습니다. 깨끗한 물, 특정한 범죄, 지저분한 주거가 부족합니다. 이 사람들에게 원조를 제공하는데 시간을 들인다면 형제단에 대한 장기적인 충성심을 보장할 수 있을 것이고, 이 지역에 일련의 고품질 물 필터를 설치할 수 있는 명분을 줄 수 있을 것입니다."
+
+  bos_destroy: "허브올로지 파괴"
+  bos_destroy_desc: "허브과학자들은 수십 년 동안 기술을 낭비해 왔습니다. 자살로켓 실험, 로봇의 문명화 시도, 그리고 재난으로 끝난 수많은 난해한 프로젝트들이 있습니다. 그들은 그들의 미친 추구에 헤아릴 수 없이 많은 양의 기술을 낭비했지만, 더 이상은 그렇지 않아야 합니다!"
+
+  bos_civilians: "민간 기업 장려"
+  bos_civilians_desc: "만 지역 사람들은 가게 문을 열거나 사업과 유사한 어떤 것을 만들려고 할 때 종종 두려워합니다. 왜냐하면 그러한 것들은 종종 약탈자나 갱단의 주요 목표물이 되기 때문입니다. 하지만, 형제단의 보호 약속으로, 우리는 강철의 형제단에 충성하는 새로운 세대의 시민들을 안내할 수 있었습니다."
+
+  bos_curbstomp: "레이더 침략 억제"
+  bos_curbstomp_desc: "만 지역의 약탈자들은 수십 년 동안 강철의 형제단의 작전에 있어서 골칫거리였습니다. 순찰대를 괴롭히고 희귀한 자원과 장비를 우리가 손에 넣기 전에 밀반출하는 사이였습니다. 우리가 처리해야 할 일이 분명해진것 같습니다."
+
+  bos_expand: "민간 산업 확대"
+  bos_expand_desc: "주어진 지역의 안전을 보장하기 위한 부분 중 하나는 사람들이 잘 무장되어 있고 순찰대가 없을 때 스스로를 보호할 수 있도록 하는 것입니다. 따라서, 만 지역에서 민간 무기 산업을 발전시키는 것은 우리의 지속적인 PR 시도를 위해 필요합니다."
+
+  bos_steelrain: "강철의 비"
+  bos_steelrain_desc: "너무 오랫동안 우리는 쉬와 싸우고 있습니다. 그들의 기술주의적 방식과 우리의 영향력 아래에서 범죄를 용인하려는 의지는 형제단의 계급 체계 내에서 사람들에게 그들이 우리의 목표에 반대한다는 것을 분명히 보여주었고, 따라서 그들은 반드시 굴복해야 합니다."
+
+  bos_shichapter: "쉬 챕터 설립"
+  bos_shichapter_desc: "쉬는 우리 군대에 의해 쉽게 정복될 수 있지만, 형제단 내부의 많은 사람들은 그러한 행동의 선택이 비밀스러운 기술 자료의 대량 파괴로 이어질 것을 우려하고 있습니다. 대신 다른 방법이 제안되었습니다... 그냥 초대하면 되는것 아닙니까?"
+
+  bos_demand: "만 요구"
+  bos_demand_desc: "최근 쉬에 대한 우리의 무력시위가 강력한 NCR을 뒤흔들고 있습니다. 이 순간을 이용해 NCR 소유의 지점인 포인트 그린 구역을 요구할 수 있습니다."
+
+  bos_emperor: "황제의 청중"
+  bos_emperor_desc: "쉬의 황제는 우리 지부가 창설된 이후, 우리를 정식 회합할 가치가 있다고 여겼습니다. 그는 기막힌 기계이고, 많은 사람들이 이 AI의 존재에 불편함을 느끼지만, 더 많은 사람들은 그가 우리에게 가르쳐 줄 수 있는 비밀을 듣고 싶어 합니다."
+
+  bos_shisecrets: "도난당한 비밀"
+  bos_shisecrets_desc: "쉬의 지상 보병들이 가우스 무기를 가지고 옵니다. 이런 종류의 무기들은 황무지의 다른 어떤 곳에서도 생산될 수 없습니다. 그들의 제조 분야를 통제함으로써, 우리는 그들의 생산자들로부터 그러한 무기들을 빼앗을 수 있습니다."
+
+  bos_shiseize: "군대 장악"
+  bos_shiseize_desc: "쉬 군대는 항복했지만 형제단 내에는 여전히 목적이 있을 수 있습니다. 비록 그들이 분개하고 있지만, 그들 중 다수는 단지 쉬에 의해 징집되었고, 새로운 지도체제로의 전환으로 감당할 수 있어야 합니다."
+
+  bos_gauss: "군사 기밀"
+  bos_gauss_desc: "가우스의 비밀은 황제 자신이 우리에게 준 것입니다. 그가 아끼는 무기들은 우정과 지속적인 동맹의 상징으로 제공되었습니다. 우릴 달래려고 하지 않으면 우리가 배신할까봐 걱정하는 건 아닐까요? 어느 쪽이든 우리의 이익입니다."
+
+  bos_vertibirds: "버티버드 도면"
+  bos_vertibirds_desc: "수년 전 엔클레이브에서 도난당한 버티버드 도안은 오랫동안 쉬의 탐나는 비밀이었는데, 쉬의 제조 공단에 완전히 익숙해지지 못했습니다. 하지만, 우리의 지식을 결합한다면, 우리는 이전의 엔클레이브의 경쟁자일지라도 그것을 확실히 이해할 수 있을 것입니다."
+
+ # Mojave Veterans sub-tree
+
+  bos_mojavevets: "모하비 베테랑"
+  bos_mojavevets_desc: "모하비 챕터의 사람들은 우리의 가장 먼 친척 중 하나이며, 소통이 부족하고 이해심이 부족하지 않습니다. 말하자면, 그들조차도 기꺼이 부름에 응하고, 형제단이 부른다면 의용군들을 보내죠."
+
+  bos_mojavesignal: "모하비 신호"
+  bos_mojavesignal_desc: "For the longest time, the primary issue barring us from active communication with our Brothers in the Mojave has been their fault communication equipment, which is largely incapable of long distance signalling. The delivery of some of our own equipment to them should help to ease this burden."
+
+  bos_genius: "엘라이자의 천재"
+  bos_genius_desc: "Elder Elijah is a controversial figure on the best of days, due to his overt interest in the pursuit of wonder weapons and technological miracles that he feels can save the wasteland. He is the embodiment of our ideals in their most extreme, and is willing to throw away anything for technology."
+
+  bos_hardin: "하딘의 전술"
+  bos_hardin_desc: "Head Paladin Hardin is the man that the vast majority of Elders now wish had been elected to take over the Mojave Chapter, if only because many suspect that the genius of Elijah has been wasted. Hardin is the man's man, a Paladin who honours the tactics and ideals of the Brotherhood, while also understanding the necessity of political flexibility."
+
+  bos_foodforservice: "서비스를위한 음식"
+  bos_foodforservice_desc: "The Mojave Brotherhood have had been hoarding ancient pieces of technology and data that could drastically improve the quality of life for farmers in rougher areas. Requesting these could give us leverage when it comes to conscription."
+
+  bos_drills: "권투 훈련"
+  bos_drills_desc: "Hardin is classical in more ways than one, and his insistence on basic hand to hand training for all soldiers is considered to be subtle genius in the eyes of many elders. Instilling the habit of sporting combat in our warriors makes them more capable of taking and recovering blows, and more likely to maintain fitness without prodding."
+
+  bos_software: "시큐리트론 소프트웨어 연구"
+  bos_software_desc: "Elijah has spent decades working on reverse engineering the works of Doctor House, not the least of which has involved taking apart and analysing what it is that makes Securitrons more capable than the average robot. "
+
+  bos_mojaveequip: "모하비 장비"
+  bos_mojaveequip_desc: "The Mojave Brotherhood of Steel works in what might be the most inhospitable heat imaginable, and have developed a number of specialized weapon maintenance routines to keep their weapons in working order."
+
+  bos_hardware: "시큐리트론 하드웨어 연구"
+  bos_hardware_desc: "Years of taking Securitrons apart has given Elijah a deep insight into many of a secrets and techniques used by RobCo to outdo their rivals. As the Securitrons were among the most advanced robots ever created by Pre War America."
+
+  bos_logisticaltech: "병참 기술"
+  bos_logisticaltech_desc: "Due in part to their deep tendency to resort to deep reconnaissance behind enemy lines, the men and women under Hardin's command can easily teach us how to do more with less. Supplies are everything to a soldier in the field."
+
+  bos_plantations: "산업 플랜테이션"
+  bos_plantations_desc: "Elijah has requested that we provide him with the fixings necessary to expand his own industry and general logistical capacity. Providing him with such will continue to earn this wildcard's loyalty."
+
+  bos_foundry: "레이저 주조 공장"
+  bos_foundry_desc: "Hardin has asked what we expected of him, the means of producing weapons so that he might better protect the interests of his chapter, and thus the Brotherhood at large."
+
+  bos_plant: "사르사파릴라 공장"
+  bos_plant_desc: "An expeditionary team has been sent to the Sunset Sarsaparilla plant in the Mojave with the intent of recovering a series of rare technological caches and half functional robots that could be repaired and repurposed for war."
+
+  bos_militia: "조직화된 민병대"
+  bos_militia_desc: "Hardin is more willing that most members of the Brotherhood to resort to taking outside help, and getting involved in outside conflicts. To this end, we find that he has garnered the attention and adoration of a number of smaller militia groups, some of whom he is willing to send to us."
+
+  bos_recallelder: "장로 복귀"
+  bos_recallelder_desc: "The Mojave Chapter has operated as a Semi-Independent entity for far too long now, recalling their Elder to meet with the council should hopefully remind them who it is they serve, and bring them back into the fold of our overall goals."
+
+ # Blueprint Recovery sub-tree
+
+  bos_blueprints: "청사진 복구"
+  bos_blueprints_desc: "We have gathered, over the last few hundred years, innumerable computers with hidden information. While we have stockpiled them endlessly, often we have not bothered to extract their secrets. How many blueprints and schematics have we ignored?"
+
+  bos_viperlogs: "바이퍼 전투 로그"
+  bos_viperlogs_desc: "The first true conflict we ever engaged in was our Viper Conflict, which took the life of Elder Maxson and in many ways, introduced us to the horrifying zeal of some wasteland factions. To this day, we analyse these conflicts again and again, so that we might never forget these lessons."
+
+  bos_scribemaintenance: "서기관 유지 계획"
+  bos_scribemaintenance_desc: "The Duty of a scribe is a sacred thing, for a scribe must constantly work to improve their knowledge of machines and technology, all the while striving to improve upon and master their construction and maintenance. "
+
+  bos_mutantramblings: "확산하는 뮤턴트"
+  bos_mutantramblings_desc: "Despite what one might think, the vast majority of mutants are hardcoded warriors with an innate understanding of military tactics and doctrine. Analysis of their ramblings and recordings has delivered us with valuable tactical data in the past."
+
+  bos_armmaxson: "맥슨 무장
+  bos_armmaxson_desc: "The state of Maxson is where we draw the vast majority of our lesser conscripts, who are unworthy of our more advanced equipment. That being said, developing our ability to arm them in ways comparable or superior to the NCR is a necessary element of our self-defence."
+
+  bos_reactionchambers: "레이저 집중 주조 공장"
+  bos_reactionchambers_desc: "The focusing crystals in a given laser rifle are incredibly hard to recreate, and up until this point in time, impossible to mass produce. Thankfully, that has changed, following the recovery in essential blueprints."
+
+  bos_navarrotacticaldata: "나바로 전술 데이터"
+  bos_navarrotacticaldata_desc: "The tactical information gained from the War with the Enclave give the Brotherhood of Steel something it had never before had to deal with. Battle with a technologically superior foe. Teaching our soldiers to be more reliant on their combat abilities, instead of depending on superior technology."
+
+  bos_supplymaxson: "맥슨 보급"
+  bos_supplymaxson_desc: "The men and women of Maxson are our first line against invasion, the shield that allows the hammer of the Brotherhood of Steel to fall upon a foe. Supplying them with firearms and the ability to make their own is an essential piece of defensive stratagem."
+
+  bos_simplified: "단순화된 설계"
+  bos_simplified_desc: "The Common Laser Rifle has been the reliable companion to the Brotherhood of Steel for many generations. While many within the organization are pushing towards newer weapons, the older weapons are more than sufficient when it comes to dealing with any foe. "
+
+  bos_oldworld: "구세계 집중"
+  bos_oldworld_desc: "The Advanced Energy Weapons that we are currently prototyping are both incredibly effective and incredibly hard to make. Looking towards the future will be essential if we ever want to make use of them, which means gearing our equipment towards their production now."
+
+  bos_superioralloys: "우수한 합금"
+  bos_superioralloys_desc: "The Metallic Alloys used in the creation of power armour are hard to come by, and harder still to recreate. While we have managed to perfect this art to a degree, it remains limited to older, somewhat inferior suits of armour."
+
+  bos_scraprefinement: "장비 세밀화"
+  bos_scraprefinement_desc: "Our ability to find and repair more advanced pieces of power armour is becoming more important with each passing day. Gearing and training more of our scribes to work on these projects will vastly increase our ability to later sustain their production."
+
+  bos_surge: "연구 급증"
+  bos_surge_desc: "Tesla Weaponry has been a long coveted and studied without our most secretive labs. Recent innovations have finally made the secrets of long-hidden magnetic coil management known to us. Soon, we shall be able to roll these weapons out!"
+
+  bos_powermanage: "전력 관리"
+  bos_powermanage_desc: "Sentry Bots are, without a doubt, the pinnacle of robotic engineering, and something that the Brotherhood has long coveted the construction of. Even as we prepared to study and produce these machines, we are finding ways to incorporate experimental power cores into their design, for greater weapon effectiveness."
+
+  bos_alloyconstruction: "합금 공사"
+  bos_alloyconstruction_desc: "Sentry Bots are, without a doubt, the pinnacle of robotic engineering, and something that the Brotherhood has long coveted the construction of. Even as we prepared to study and produce these machines, we are finding ways to incorporate experimental alloys into their design, for greater armour effectiveness."
+
+ # Securing Equipment sub-tree
+
+  bos_secureequipment: "보안 장비"
+  bos_secureequipment_desc: "The NCR has long maintained vast quantities of technology that they are incapable of using with the intent of denying us access. For not the first time, we shall offer them technology and lesser equipment in exchange for these vital machines."
+
+  bos_developmaxson: "맥슨 개발"
+  bos_developmaxson_desc: "What money we do put into the development of Maxson is invariably put into defensive outposts and locations. These help keep raiders at bay, and help to remind the NCR that it is our banners that fly here."
+
+  bos_navarrooutpost: "나바로 전초기지 프로토콜"
+  bos_navarrooutpost_desc: "Navarro is a fortress onto itself, but the surrounding area is largely lacking in any form of viable defensive position. Investing in fortifications in these key locations will help us to maintain our northern security."
+
+  bos_welcomingcommittee: "환영 위원회"
+  bos_welcomingcommittee_desc: "Our newest allies shall soon receive our welcoming committee, which consists of no small number of veteran Paladins, sent to train them in the use of our technology and protect their holdings."
+
+  bos_bayarea: "만 지역 재건"
+  bos_bayarea_desc: "The San Francisco Bay area houses an impossibly vast number of people and a nearly endless supply of technological caches and mundane resources. Investing in this area will bring us closer to these goods, and more so, bring the people closer to sharing them with us."
+
+  bos_refurbishment: "로스트 힐 정비 계획"
+  bos_refurbishment_desc: "Despite what one might think, many of our older bunkers are in desperate need of repair. Even the Lost Hills, the seat of our power, experiences near regular blackouts and has issues with filtration systems. Simple repair efforts will help us prepare for an ambitious expansion scheme, meant to turn the bunker into a true underground complex."
+
+  bos_maxsonoutpost: "맥슨 전초 기지"
+  bos_maxsonoutpost_desc: "Further Fortifications in Maxson have come not because the elders have suggested them, but because the locals have demanded them. Enthusiasm is at an all-time high, and no raiders dare strike against those who stand under our banner."
+
+  bos_rangerpaladins: "레인저 팔라딘"
+  bos_rangerpaladins_desc: "The Rangers have joined our just cause! They are not truly members of the Brotherhood of Steel until they are clad in our armour. We are sending scribes to share these precious secrets with our newest allies. Let us hope they use them well."
+
+  bos_recreatemilits: "군사 산업 재창조"
+  bos_recreatemilits_desc: "The Bay Area was once the heart of America's military-industrial complex on the western coast. While much of it lies in ruins, the framework is there to revitalize and rearm numerous arms factories."
+
+  bos_industrialcore: "산업 핵심부"
+  bos_industrialcore_desc: "The storehouses and foundries within the lost hills bunker are among the best of their kind, and a further expansion of the facilities that house them is the key to developing a new Industrial Core."
+
+  bos_maxsonrecruitment: "맥슨 모집령"
+  bos_maxsonrecruitment_desc: "The Men and Women of Maxson are happy to stand under our banner, but one must ask the important question. How many would happily serve under it?"
+
+  bos_navarrohangars: "나바로 격납고 확장"
+  bos_navarrohangars_desc: "The Hangers of Navarro have been in shambles ever since we destroyed them during the Enclave War. Our efforts to reconstruct them have long been underfunded and lacking in enthusiasm, but as we turn our gaze northwards in search of better expansion, we may yet again find the will to work."
+
+  bos_generatordesign: "발전기 재설계"
+  bos_generatordesign_desc: "San Rafael has a large series of military-grade nuclear generators, cooled by endlessly flowing seawater, that have been dormant for decades. Rewiring these machines and connecting them with our facilities would give us an ample supply of energy."
+
+  bos_brotherhoodarms: "브라더후드 후원 무기"
+  bos_brotherhoodarms_desc: "We have things that the Rangers lack and they have things that we lack. A simple trade of weapons for men would drastically improve both factions."
+
+  bos_heartland: "산업 중심지"
+  bos_heartland_desc: "As weapons continue to flow from the Bay Area, the need to improve roads and infrastructure is again made paramount to the Elders, for the crumbling roads are proving to be burdensome even after recent efforts to reinforce them were undertaken."
+
+  bos_defense: "로스트 힐 방어 계획"
+  bos_defense_desc: "While lost hills is a capable and defensible bunker, it is, unfortunately, ineffective as a defensive line. One can remain safe in the hole for years, but defending the area about will require outposts and patrols in a far greater number than we currently encourage."
+
+  bos_dockyards: "조선소 확장"
+  bos_dockyards_desc: "The coast of California is littered with ancient ports and dockyards that have long been little more than scavenging locations. If are are to contest the NCR at sea, we shall need to put greater effort into our efforts to revitalize these locations."
+
+  bos_navarrofacilities: "나바로 시설 확장"
+  bos_navarrofacilities_desc: "Numerous armouries and repair stations remain in Navarro, but many are unmanned and in a state of ill repair. These places would be ideal for training a new generation of scribes in the production of more advanced equipment."
+
+  bos_renovatearms: "무기 공장 개보수"
+  bos_renovatearms_desc: "Our efforts to establish the militant heartland of California's old industry have gone well, but further effort could still be applied to gain greater effectiveness in these places."
+
+  bos_losthillsexpansion: "로스트 힐 확장"
+  bos_losthillsexpansion_desc: "The effort to expand the subterranean complex of the Lost Hills Bunker have gone off supremely, and even now, more effort is being channelled towards upgrading our other bunkers! Let it not be said that we are vulnerable to outside attack."
+
+  bos_vandenberg: "반덴버그 원정대"
+  bos_vandenberg_desc: "Another day? Another ambitious young paladin with the dream of an expedition to a secretive pre-war facility. Vandenberg has long been a coveted prize, and one that is relatively close to home."
+
+  bos_hammer: "해머"
+  bos_hammer_desc: "The Desert Rangers employ a training regime that focuses heavily on ridged, old world tactics, not unlike our warriors. However, they often make use of unnecessary drills and tactics that have no value in the post-nuclear world. We should help them trim these wasteful practices."
+
+  bos_westforge: "서부의 제철소"
+  bos_westforge_desc: "The Bay Area is flourishing following our investments! Strong roads and a potent weapons industry have brought traders from across California to buy and barter within our controlled locations."
+
+  bos_hangarconstruction: "격납고 건설"
+  bos_hangarconstruction_desc: "The Lost Hills Bunker never possessed any effective Hanger Bay, and as such could not launch smaller craft. The most recent answer, although expensive, is a simple remedy. The construction of an above ground landing strip and a hanger bay. "
+
+  bos_secrets: "나바로의 비밀"
+  bos_secrets_desc: "The information we gained from Navarro was so heavily encrypted that it was only recently that we gained any meaningful breakthroughs with it. It fights us every step of the way, but we are slowly unravelling the Enclave's secrets."
+
+  bos_anvil: "앤빌"
+  bos_anvil_desc: "The offensive doctrine of the largely reactionary Desert Rangers lacks in many ways. They detest shock tactics and don't incorporate advanced technology into their ground assaults. We must remind them that power armour is designed around these tactical actions and that they shall have to adapt."
+
+  bos_steelfortress: "강철의 요새"
+  bos_steelfortress_desc: "Between radio towers and further above ground fortifications, it can be said that the Lost Hills Bunker is a near impenetrable fortress, ringed with flags that bear the symbol of steel."
+
+  bos_steel: "강철"
+  bos_steel_desc: "The Rangers have been gifted a number of our more secretive production equipment, which should hopefully allow them to better produce and arm themselves with our weapons of war."
+
+  bos_scribelexicon: "서기관의 사전"
+  bos_scribelexicon_desc: "The Desert Rangers are, generally speaking, lacking in advanced weapons despite possessing the ability to produce them. A simple exchange of blueprints should allow us to catch them up."
+
+  bos_powerarmourdevelop: "파워 아머 개발"
+  bos_powerarmourdevelop_desc: "An industry geared to produce something as complex and resource intensive as power armour can be easily retooled to do almost anything else."
+
+  bos_zeppelinfoundry: "제플린 주조 공장"
+  bos_zeppelinfoundry_desc: "Long Ago, a vast fleet of Zeppelins were used to stage a massive expedition to the east. Now, decades later, we again find ourselves in need of such airships, and find ourselves making moves to repair the foundries of old.."
+
+  bos_maxsongifts: "맥슨의 선물"
+  bos_maxsongifts_desc: "Who needs new technology when we have reliable and maintainable equipment already? Maxson's gifts are more than enough for us, and we do not need to replace them anytime soon."
+
+  bos_forbiddensecrets: "금지된 비밀"
+  bos_forbiddensecrets_desc: "The Power Armour of the Enclave was thought to be irreplicable by many of our most senior scribes, yet the steady work of our most skilled technicians has shown us that one needs not worry about replication when you have the core schematics on hand."
+
+  bos_forbiddenweapons: "금지된 무기"
+  bos_forbiddenweapons_desc: "The production of Plasma Weaponry, the long-standing hallmark of the most advanced factions in the wasteland, was once thought impossible. With the aid of information stolen from the Enclave, we believe our facilities can be retrofitted to produce them on mass!"

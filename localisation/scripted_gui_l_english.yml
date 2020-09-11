@@ -1,0 +1,4 @@
+﻿l_english:
+  ADD_CORE_TT: "§H핵심 주§! £pol_power 100"
+  ADD_CORE_TT_DELAYED: "[!add_core_click_enabled]"
+  not_allowed_to_core_flag: " §R핵심화 능력이 비활성화 되었습니다.§!"

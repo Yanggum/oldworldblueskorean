@@ -1,0 +1,35 @@
+﻿######################################
+####### GENERATED CODE WARNING #######
+######################################
+# This file is generated code - any
+# changes made directly to these files
+# will likely be lost on future
+# updates. If you need to tweak the
+# functionality in this file, please
+# contact wtchappell ('the witch') for
+# help in improving its functionality.
+######################################
+####### GENERATED CODE WARNING #######
+######################################
+l_english:
+  boneyard_brotherhood:0 "본야드 형제단"
+  brotherhood_of_steel:0 "강철의 형제단"
+  caesars_legion:0 "시저의 군단"
+  children_of_mexico:0 "멕시코의 아이들"
+  children_of_the_gate:0 "문의 아이들"
+  fantasma_cartel:0 "판타즈마 카르텔"
+  great_federation:0 "위대한 연맹"
+  jungle_pact:0 "정글 조약"
+  masters_new_army:0 "마스터의 새로운 군대"
+  mesoamerican_alliance:0 "메소아메리카 연합"
+  mojave_alliance:0 "모하비 동맹"
+  mormon_alliance:0 "몰몬 동맹"
+  ncr:0 "NCR"
+  nevada_enclave:0 "네바다 엔클레이브"
+  nevada_pact:0 "네바다 조약"
+  northern_league:0 "북부 연합"
+  northern_mojave_pact:0 "북부 모하비 조약"
+  phoenix_federation:0 "피닉스 연방"
+  rio_pact:0 "리오 조약"
+  unbroken_coast:0 "깨지지 않는 해안"
+  western_enclave:0 "서부 엔클레이브"

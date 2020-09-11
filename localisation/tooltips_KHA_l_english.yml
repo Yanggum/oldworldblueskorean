@@ -1,0 +1,11 @@
+﻿l_english:
+ new_advisor: "§Y해당 조언자가 사용 가능해집니다.:§!\n"
+ specops_spawn: "\n\n§Y일족의 베테랑을 사용하여 엘리트 부대를 만듭니다.§!"
+ khan_spawn: "§Y위대한 칸의 여러 전사 부대가 모여 전쟁을 준비합니다!§!"
+  line: "\n\n"
+ followers_arrived: "§Y묵시록의 추종자들이 도착했습니다.§!"
+ bitter_springs_occurred: "§Y비터스프링스 대학살이 일어났습니다.§!"
+  kha_chose_papa_tt: "우린 우리를 영광으로 인도하기 위해 §Y파파 칸§!을 선택했습니다!"
+  kha_chose_regis_tt: "우린 우리를 앞으로 이끌어 갈 §Y레지스§!를 선택했습니다!"
+  kha_avoided_ncr_bloodshed_tt: "§Y우리는 NCR과 더 이상의 유혈사태를 피했습니다.§!"
+  khan_envoys: "위대한 칸의 대사"

@@ -1,0 +1,43 @@
+﻿l_english:
+ # categories
+  ffi_refuge_for_slaves:0 "노예를 위한 피난처"
+  ffi_refuge_for_slaves_desc:0 ""
+
+  ffi_welcome_refugees:0 "난민 환영"
+  ffi_welcome_refugees_desc:0 ""
+
+  ffi_great_federation:0 "자유 연맹"
+  ffi_great_federation_desc:0 ""
+
+  ffi_invite_nation:0 "[From.GetName] 초대"
+  ffi_invite_nation_desc:0 ""
+
+  ffi_stoke_fires:0 "불을 피우다"
+  ffi_stoke_fires_desc:0 ""
+
+  ffi_arm_hua:0 "후알라파이 무장"
+  ffi_arm_hua_desc:0 ""
+
+  ffi_arm_oldsun:0 "올드 선 무장"
+  ffi_arm_oldsun_desc:0 ""
+
+  ffi_arm_10signs:0 "텐 사인 무장"
+  ffi_arm_10signs_desc:0 ""
+
+  ffi_rise_up:0 "일어나라!"
+  ffi_rise_up_desc:0 ""
+
+  ffi_shard_wars:0 "파편 전쟁"
+  ffi_shard_wars_desc:0 ""
+
+  ffi_declare_war_on_shard:0 "[FROM.GetName]에 전쟁 선언"
+  ffi_declare_war_on_shard_desc:0 ""
+
+  ffi_baja_blues:0 "바하 블루스"
+  ffi_war_with_ncr:0 "N.C.R.에 전쟁 선언"
+  ffi_core_paz:0 "라파스 통합"
+  ffi_core_valle:0 "발레 통합"
+  ffi_whitepeace_FFI:0 "바하 전쟁 끝내기"
+  ffi_whitepeace_FFI_desc:0 "바하를 둘러싼 이 전쟁은 전혀 진전이 없습니다. 아마도 우리가 백색 평화에 서명하는 것이 최선일 것입니다."
+  ffi_whitepeace_baja:0 "바하 전쟁 끝내기"
+  ffi_whitepeace_baja_desc:0 "바하를 둘러싼 이 전쟁은 전혀 진전이 없습니다. 아마도 우리가 백색 평화에 서명하는 것이 최선일 것입니다."  

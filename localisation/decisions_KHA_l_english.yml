@@ -1,0 +1,14 @@
+﻿l_english:
+
+ #Decision Categories
+ KHA_drug_trade_category: "마약 거래의 왕"
+ KHA_slaver_category: "노예 상인 결정"
+ KHA_diplomatic_options: "외교"
+
+ #decisions
+ KHA_drug_run_to_fiends_renewal: "핀드에 마약 공급"
+ KHA_drug_run_to_fiends_renewal_desc: "핀드에 마약 공급"
+ KHA_drugged_up: "마약 투여"
+ KHA_drugged_up_desc: "최악의 상황에 대비하여 여분의 화학물질을 나눠줍니다. 마약으로 인한 분노를 멈추게 하는것은 어렵습니다."
+  KHA_sorrows_war_help: "소로우 전쟁 지원"
+  KHA_sorrows_war_help_desc: "아마도 우리는 소로우와의 전쟁에서 씹을 수있는 것보다 더 많이 먹을수 있을것 입니다.비록 그것은 우리가 도움이 필요하여 약해 보이게 만들겠지만, 일부 지역 갱단들, 즉 하얀 다리 등이 참전하도록 우리가 뇌물을 줄 수 있다고 확신하고 있습니다."

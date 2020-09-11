@@ -1,0 +1,42 @@
+﻿l_english:
+ #-------------------------------------
+ # General
+ #-------------------------------------
+ # Companies
+  robco: "롭코"
+  robco_desc: "로버트 하우스가 설립한 롭코 인더스트리는 전쟁 전 미국에서 로봇공학 분야의 최고 생산자였습니다."
+  van_graffs: "반 그래프"
+  van_graffs_desc: "반 그래프는 범죄조직으로, 특히 더 발전된 무기와 전쟁 전의 기술을 다룹니다."
+  poseidon: "포세이돈 에너지"
+  poseidon_desc: "포세이돈 에너지는 전쟁 전 전기를 제어하는 회사였습니다. 그들의 오래된 건물들과 기술들의 많은 유적들이 아직도 곳곳에 남아 있습니다."
+  crimson_caravan: "크림슨 카라반"
+  crimson_caravan_desc: "크림슨 카라반은 황무지에서 가장 큰 카라반 회사입니다. NCR의 오랜 파트너인 그들은 무기를 포함한 많은 것을 가지고 있습니다."
+  gun_runners: "건 러너"
+  gun_runners_desc: "한때 본야드의 갱단이었던 총잡이들은 무기를 생산하기 시작했고, 지금은 아마도 황무지에서 가장 거대한 무기상일 것입니다."
+  handhtools: "H&H 공구 회사"
+  handhtools_desc: "H&H 회사는 장비, 도구, 로봇 공학을 다루었습니다."
+
+  research_bonus: "연구 노력"
+  research_bonus_desc: ""
+  iron_wall: "강철벽"
+  iron_wall_desc: ""
+  powered_assault: "전동 공격"
+  powered_assault_desc: ""
+  hidden_strikes: "은신 공격"
+  hidden_strikes_desc: ""
+  lethal_blows: "치명적인 강타"
+  lethal_blows_desc: ""
+  neutrality_owb: "중립"
+  neutrality_owb_desc: ""
+
+ # Music
+  music_settings_ideas: "음악 설정"
+  music_event_idea: "음악 설정 변경"
+  music_event_idea_2: "추가 음악 설정"
+  settings: "설정"
+
+ #--------
+ # Zetan
+ #--------
+  zetan: "제타인!"
+  zetan_desc: "황무지의 거주자들에게 마법과도 같은 능력을 가진 고도로 진보된, 다른 세계적인 실체들이 발견되었습니다."

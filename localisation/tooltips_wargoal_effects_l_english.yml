@@ -1,0 +1,4 @@
+﻿l_english:
+  claim_core_states_of_prev_tt: "§Y[This.GetNameDef]§!가 §Y[Prev.GetNameDef]§!의 핵심 영토에 대한 권리를 §G주장§!합니다.\n"
+	grant_claims_and_wargoal_for_core_states_of_prev_tt: "§Y[This.GetNameDef]§!가 §Y[Prev.GetNameDef]§!의 핵심 영토에 대해 §G전쟁명분§!을 §G주장§!합니다.\n"
+	grant_claims_and_territory_dispute_decisions_for_core_states_of_prev_tt: "§Y[This.GetNameDef]§!는 §Y[Prev.GetNameDef]§!의 이전 핵심 영토에 대한 §G영토 분쟁 결정§!을 §G주장§!하고 해제 합니다.\n"

@@ -1,0 +1,7 @@
+﻿l_english:
+  spellcheck_ignore: "야전 지휘관 추가 정보"
+  UNIT_LEADER_SKILL_LAND_DESC: "적 장군보다 높은 기술을 보유한 장군은 적을 이길 카운터 전술을 선택할 수있는 추가 기회를 얻습니다. 장군의 기술은 경험치를 쌓으면 올라갑니다.\n\n"
+  CLICK_TO_ASSIGN_TRAITS: "이 §H장군§!에게 새로운 §H특성§!을 할당하려면 §H클릭§!하십시오"
+  FM_GAIN_TRAIT_LEVEL: "지휘관은 승진시 새로운 특성을 부여 할 수 있습니다.\n"
+  fm_leader: "부대 지휘관"
+  FIELD_MARSHAL_BONUS_INFO: "§H사령관§!이 아닐시 보너스는 $RATIO|%.0H$만 적용됩니다.\n"

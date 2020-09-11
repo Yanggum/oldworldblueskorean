@@ -1,0 +1,14 @@
+﻿l_english:
+  PRODUCTION_MATERIALS_WATER: "물"
+  PRODUCTION_MATERIALS_ENERGY: "에너지"
+  PRODUCTION_MATERIALS_METAL: "고철"
+  PRODUCTION_MATERIALS_COMPOSITES: "복합 재료"
+  PRODUCTION_MATERIALS_CIRCUITRY: "전기 회로"
+  PRODUCTION_MATERIALS_ADVANCED: "고급 구성 요소"
+
+  water_desc: "물은 아마도 황무지에서 가장 귀중한 자원일 것입니다."
+  energy_desc: "에너지는 황무지에서 보기 드문 자원입니다. 하지만 그것은 많은 건물에 필요합니다."
+  metal_desc: "폐허에서 파낸 금속과 다른 부품들을 긁어낸것 입니다. 새로운 건물이나 무기를 만드는 데 유용합니다."
+  composites_desc: "고철이 더 이상 절단되지 않을 때 사용할 수있는 복합 재료입니다. 고급 장비에 사용됩니다."
+  circuitry_desc: "전쟁 전 폐허에서 발굴된 전기 회로입니다. 전자 장치를 만드는 데 유용합니다."
+  advanced_desc: "전쟁 전 폐허에서 가져온 고급 부품입니다. 고급 무기 제조에 유용합니다."

@@ -1,0 +1,166 @@
+﻿l_english:
+#Focus
+  lessyears: "70년"
+  lessyears_desc: ""
+
+  years: "100년"
+  years_desc: ""
+
+  moreyears: "120년"
+  moreyears_desc: ""
+
+  crimserv: "예속"
+  crimserv_desc: ""
+
+  crimslaves: "노예 제도"
+  crimslaves_desc: ""
+
+  crimwar: "징병"
+  crimwar_desc: ""
+
+  crimkill: "처형"
+  crimkill_desc: ""
+
+  courtyard: "영토 불평등"
+  courtyard_desc: ""
+
+  utopia: "전후 유토피아"
+  utopia_desc: ""
+
+  vaultmed: "전쟁전 의학 교육"
+  vaultmed_desc: ""
+
+  festus: "핸디맨"
+  festus_desc: ""
+
+  citizen1: "지적 효율성"
+  citizen1_desc: ""
+
+  courtyardcreackdown: "영토 탄압"
+  courtyardcreackdown_desc: ""
+
+  ghoulconferences: "구울 회의"
+  ghoulconferences_desc: ""
+
+  oldways: "옛날 방식"
+  oldways_desc: ""
+
+  molethumb: "두더쥐의 두뇌"
+  molethumb_desc: ""
+
+  braintrust: "우리가 믿는 두뇌"
+  braintrust_desc: ""
+
+  vaultpride: "볼트텍 자부심"
+  vaultpride_desc: ""
+
+  vaultmartiallaw: "계엄법"
+  vaultmartiallaw_desc: ""
+
+  impenetrablecity: "뚫을 수없는 도시"
+  impenetrablecity_desc: ""
+
+  flockgoggles: "볼트 고글"
+  flockgoggles_desc: ""
+
+  flockdoc: "페일 폴크 연구"
+  flockdoc_desc: ""
+
+  gift80s: "천둥의 선물"
+  gift80s_desc: ""
+
+  def80s: "80s 초안"
+  def80s_desc: ""
+
+  vault_robosec: "자동화된 보안"
+  vault_robosec_desc: ""
+
+  citizenservice: "봉사의 시민권"
+  citizenservice_desc: ""
+
+  milsecurity: "보안 군사화"
+  milsecurity_desc: ""
+
+  courtyarddraft: "영토 징집"
+  courtyarddraft_desc: ""
+
+  firstutopia: "유토피아"
+  firstutopia_desc: ""
+
+  loyalcitizens: "'충성스런'시민들"
+  loyalcitizens_desc: ""
+
+  controlapparati: "마인드 컨트롤 장치"
+  controlapparati_desc: ""
+
+  humanbreed: "인간 사육 프로그램"
+  humanbreed_desc: ""
+
+  advinfsup: "고급 보병 지원"
+  advinfsup_desc: ""
+
+  advmotsup: "고급 차량 지원"
+  advmotsup_desc: ""
+
+  firsteconomy: "보조된 민간 산업"
+  firsteconomy_desc: ""
+
+  firstmilitary: "보조된 군사 산업"
+  firstmilitary_desc: ""
+
+  vcprot: "볼트 시티 보안 프로토콜"
+  vcprot_desc: ""
+
+  avcprot: "볼트 시티 보안 프로토콜"
+  avcprot_desc: ""
+
+  oldworldideals: "구세계 이상향"
+  oldworldideals_desc: ""
+
+  modernprag: "현대판 실용주의"
+  modernprag_desc: ""
+
+  populationcontrol: "인구 통제"
+  populationcontrol_desc: ""
+
+  servrights: "하인의 권리"
+  servrights_desc: ""
+
+  servreg: "통제된 하인"
+  servreg_desc: ""
+
+  servskill: "숙련된 하인"
+  servskill_desc: ""
+
+  servunskill: "미숙련된 하인"
+  servunskill_desc: ""
+
+  servshifts: "교대 근무"
+  servshifts_desc: ""
+
+  servwork: "죽을때까지 근무"
+  servwork_desc: ""
+
+  houndsnorth: "북부의 사냥개"
+  houndsnorth_desc: ""
+
+  vault_sho_reserve: "쇼숀 예비군"
+  vault_sho_reserve: ""
+
+  eagercyclops: "무기 설계도"
+  eagercyclops_desc: ""
+
+  eagercyclops: "프로텍트론 설계도"
+  eagercyclops_desc: ""
+
+  vault_rip_militia: "리페룰트 민병대"
+  vault_rip_militia_desc: ""
+
+ #Decisions
+
+  vault_13_geck: "손상된 게코"
+  vault_15_heritage: "볼트 15 유적지"
+  vault_rebuilding: "볼트 개조"
+  vault_21_economy: "볼트 21 활용"
+  vault_22_research: "포자 매개체 연구"
+  vault_70_data: "볼트 70 문화 데이터"

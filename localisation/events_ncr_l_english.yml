@@ -1,0 +1,379 @@
+﻿l_english:
+ ncr.1.t:0 "부머"
+ ncr.1.d:0 "부머는 라스베가스에서 효과적인 동맹국이 될 것이고, 그들의 포병은 후버 댐 방어에 매우 중요 할 것입니다. 우리는 그들과 동맹을 맺으려고 노력해야합니다. 그렇지 않으면 우리는 그들의 포병을 무력으로 확보해야 할 것입니다."
+ ncr.1.a:0 "외교관을 보내라."
+ ncr.1.b:0 "그들은 우리와 동맹을 맺지 않을 것이다."
+
+ ncr.2.t:0 "그레이트 칸"
+ ncr.2.d:0 "그레이트 칸은 오래된 NCR의 적이었으며 시저와 동맹을 맺고 싶어합니다. 올바른 지도력이 확보되어 있다면 우리는 외교적으로 이를 바꿀 수 있습니다. 또한 우리는 칸을 선제 공격 할 수도 있습니다."
+ ncr.2.a:0 "호의적인 리더가 취임했다."
+ ncr.2.b:0 "그것은 위험을 감수할 가치가 없다."
+
+ ncr.3.t:0 "뉴 베가스"
+ ncr.3.d:0 "미스터 하우스는 와일드 카드이며 그의 눈은 후버 댐을 향하고 있습니다.비록 그가 NCR에 우호적이긴 했지만, 그는 공화국의 적이며, 우리가 성공하기 위해서는 그는 권력에서 제거되어야합니다. 뉴 베가스에서 NCR을 후원한다면 그들은 평화롭게 우리와 함께 할 수 있습니다. 그렇지 않으면 우리는 폭력적으로 그를 제거해야합니다."
+ ncr.3.a:0 "베가스는 우리와 함께 할 것이다."
+ ncr.3.b:0 "우리는 모든 적을 제거해야 한다."
+
+ ncr.4.t:0 "형제단"
+ ncr.4.d:0 "우리는 예전에 우리가 함께 싸웠던 강철의 형제단이 여전히 모하비에 전초기지를 가지고 있다는 것을 발견했습니다. 그것은 외교적으로든 폭력적으로든 모하비를 점령하기 전에 제거되어야 하는 적입니다."
+ ncr.4.a:0 "나는 평화를 택하겠다."
+ ncr.4.b:0 "그들은 파괴되어야 한다."
+
+ ncr-boswar.1.t:0 "NCR 순찰 보고서"
+ ncr-boswar.1.d:0 "최근 한 NCR 순찰대가 본야드 중심부의 한 건물에 살고 있는 많은 형제단 군인들과 낙서들을 발견했습니다. 그들이 무엇을 하고 있는지 알아내려는 시도는 헛수고였습니다.그곳에서 떠나라고 하자 그들은 심하게 저항했습니다. 이미 몇몇 NCR 병사들이 "불법 침입"으로 사망했고, 우리의 인내는 한계에 다다르고 있습니다."
+ ncr-boswar.1.a:0 "전령을 보낸다"
+ ncr-boswar.1.b:0 "건물을 습격하다"
+
+ ncr-boswar.2.t:0 "NCR 전령"
+ ncr-boswar.2.d:0 "이른 아침에 한 남자가 NCR 지역 근처에 있는 우리 벙커 중 하나의 봉인된 문으로 다가왔습니다. 그는 캘리포니아 놋쇠가 보낸 배달원이라고 주장했고,우리는 그의 메시지를 받아 답장을 기다리라고 말했습니다. NCR은 우리가 그들의 허락 없이 형제단 순찰대를 본야드에 보냈다고 비난하고 있습니다. 그들은 특히 순찰대가 이미 많은 NCR 군인들을 살해했다는 것을 분명히 했습니다."
+ ncr-boswar.2.a:0 "그들은 명령없이 행동했다고 말해라."
+ ncr-boswar.2.b:0 "NCR에게 우리 병사들을 돌려 보내라고 전해라."
+
+ ncr-boswar.3.t:0 "전투 장면"
+ ncr-boswar.3.d:0 "한달 전, 스크리브스의 소규모 부대원과 함께 많은 우리 군인들이 실종되었습니다. 수색을 한 끝에 우리는 마침내 그들을 찾았습니다. 우리는 건물 전체를 가로질러 레이저 화상과 총알구멍을 가진 전투 현장에 도착했습니다. 기술이나 생존자의 흔적을 찾았지만 그외에 아무것도 찾지 못했습니다. 자갈 밑에서 찾은 NCR 인식표 몇 개만 빼면 말이죠."
+ ncr-boswar.3.a:0 "이건 너무 잔혹한 일이다!"
+ ncr-boswar.3.b:0 "우리는 곰을 찌르고 싶지 않다."
+
+ ncr-boswar.4.t:0 "형제단의 반응"
+ ncr-boswar.4.d:0 "우리의 전령은 우리에게 충격을 주었지만, 동요하지 않았습니다. 그가 형제단에서 가져온 메시지는 무뚝뚝합니다. "우리의 병사들은 명령도 없이 행동하고 있다. 그들은 어떠한 중요한것을 위해 군에서 무단이탈했다 ." 우리가 그들을 믿거나 말거나, 한가지는 확실합니다. 우리가 발견한 형제단은 웨스트텍 시설에 있었다는것 말입니다."
+ ncr-boswar.4.a:0 "화해의 전령을 보내자"
+ ncr-boswar.4.b:0 "우리는 그들을 신뢰할 수 없다."
+
+ ncr-boswar.5.t:0 "올-굿 머피"
+ ncr-boswar.5.d:0 "늦은 밤, 우리의 심부름꾼이 떨면서 우리에게 돌아왔습니다. 형제단은 그들이 이 위기를 초래했다는 우리의 제안에 격분했고,우리가 그들의 군대를 무사히 돌려보낼 것을 요구했습니다. 웬델 피터슨 대통령은 막다른 골목에 다다랐지만, 션 올-굿 머피라는 이름의 상원의원이 대통령을 진정시키기 위해 개입했습니다."
+ ncr-boswar.5.a:0 "그를 형제단에 보내라."
+
+ ncr-boswar.6.t:0 "형제단의 반응"
+ ncr-boswar.6.d:0 "늦은 밤, 우리의 심부름꾼이 떨면서 우리에게 돌아왔습니다. 형제단은 그들이 이 위기를 초래했다는 우리의 제안에 격분했고,우리가 그들의 군대를 무사히 돌려보낼 것을 요구했습니다. 웬델 피터슨 대통령은 화가 나서 편지를 주먹으로 뭉개버렸습니다. 뻔뻔스러운 놈들!"
+ ncr-boswar.6.a:0 "군대를 동원하라!"
+
+ ncr-boswar.7.t:0 "정찰대 귀환"
+ ncr-boswar.7.d:0 "우리는 AWOL 부대원들로부터 NCR이 보냐드를 문제 없이 떠날 수 있다는 소식을 들었습니다. 아마 그들은 미지의 가치를 지닌 7개의 홀로테이프를 가지고 돌아올 것입니다. 하지만 그것들은 웨스트텍 시설에서 가지고 왔기 때문에 기술을 이해하고 보존하려는 우리의 노력에 매우 유용할 것입니다."
+ ncr-boswar.7.a:0 "명령없이 행동한 그들을 처벌하십시오."
+
+ ncr-boswar.8.t:0 "최후 통첩"
+ ncr-boswar.8.d:0 "우리는 NCR로부터 최후 통첩을 받았습니다. 우리가 그들의 병사들의 죽음에 대한 보상을 주거나 아니면 "반격"을 해야할것 입니다."
+ ncr-boswar.8.a:0 "보상금을 지불한다."
+ ncr-boswar.8.b:0 "보상? 뭐 때문에?"
+
+ ncr-boswar.9.t:0 "올-굿 귀환"
+ ncr-boswar.9.d:0 "우리의 요구는 주목을 끌지 못했습니다. NCR은 올굿을 다시 한번 보내기로 했습니다. 늘 그렇듯이 그는 우리를 초조하게 하지만 겁먹지 않았고, 우리는 현재 상황에 대해 토론하기 시작했습니다. 숀은 NCR이 우리의 "허브리스"를 위해 전면전을 선포하는 것을 간신히 막을 수 있었다고 강조하고 타협점을 찾으려고 합니다. "
+ ncr-boswar.9.a:0 "우리는 평화로운 해결책을 찾아야 한다."
+ ncr-boswar.9.b:0 "부하들을 돌려받아야 합니다."
+
+ ncr-boswar.10.t:0 "올-굿 머피"
+ ncr-boswar.10.d:0 "형제단은 우리의 손실에 대해 다소 냉혹하게 보상하기를 거부했습니다. 웬델 피터슨 대통령은 격분했지만 션 머피라는 이름의 상원의원은 그를 진정시키기 위해 앞으로 나섰습니다. 이 남자 "올 굿"은 병사들을 그냥 보내자는 제안을 했습니다. 그는 형제단을 알고 있으며, 전면적인 충돌은 NCR이 입을 손실을 피하게 될 것이라고 설득력 있는 주장을 했습니다."
+ ncr-boswar.10.a:0 "전쟁을 감수할 순 없어"
+
+ ncr-boswar.11.t:0 "형제단의 거절"
+ ncr-boswar.11.d:0 "형제단은 우리의 피해에 냉혹하게 보상하기를 거부했습니다. 웬델 피터슨 대통령은 계속되는 형제단의 안하무인함에 격분했고, 어느 누구도 어떤 대안도 제시하지 않았습니다."
+ ncr-boswar.11.a:0 "외교따윈 집어치워!"
+
+ ncr-boswar.12.t:0 "성공적인 임무"
+ ncr-boswar.12.d:0 "올-굿은 형제단으로부터 멀쩡하게 돌아 왔습니다. 그들은 문제에 대해 합리적인 타협점을 찾고자합니다. 숀은이 제안을 통해 문제를 해결할 것을 말하고 있습니다. 그는 우리가 형제단에게 우리 군인들을 죽인 군인들을 몇 년 동안 감금하게 제안합니다.우리에게 필요한 것은 전사한 병사들을 위한 정의뿐이라고 그는 말했습니다."
+ ncr-boswar.12.a:0 "바라건데 형제단이 그들을 끝장내길."
+ ncr-boswar.12.b:0 "영향이 없다고? 지옥에나 떨어져라!"
+
+ ncr-boswar.13.t:0 "외교가 승리했다"
+ ncr-boswar.13.d:0 "우리는 형제단이 우리 병사들을 죽인 책임이있는 군인들에게 형을 선고했다는 말을 들었습니다. 한 사람은 5 년, 나머지 세명은 2년. 형제단은 그들이 형을 집행했다는 문서를 정식으로 보냈습니다."
+ ncr-boswar.13.a:0 "형이 적긴 하지만, 적어도 우리는 더 큰 유혈 사태를 피했다."
+
+ ncr-boswar.14.t:0 "협상이 결렬되다"
+ ncr-boswar.14.d:0 "협상이 결렬되었습니다. 올굿은 우리에게 최악의 상황을 알려주는 메시지를 미리 보냈고, 장로들은 NCR을 완전히 침묵시킬 것을 요구하고 있습니다."
+ ncr-boswar.14.a:0 "NCR은 그들 자신의 파괴를 책임졌다."
+
+ #placeholder localisation begins
+ ncr-boswar.15.t:0 "헬리오스 원 요구"
+ ncr-boswar.15.d:0 "강철의 형제단과의 외교가 붕괴된 상황에서 우리는 모하비 형제단을 헬리오스 원과 95번 국도를 요구하거나 전쟁으로 위협해야 합니다."
+ ncr-boswar.15.a:0 "요구 사항을 전달하십시오."
+
+ ncr-boswar.16.t:0 "헬리오스 원을 요구하는 NCR"
+ ncr-boswar.16.d:0 "형제단과 전쟁을 벌이고 있는 와중에, NCR의 대담함 속에서 그들은 우리에게 헬리오스 원과 95번 도로를 요구하고 있고, 만약 우리가 요구사항을 들어주면 그들이 우리를 전쟁의 위협속에서 놓아줄 수도 있습니다."
+ ncr-boswar.16.a:0 "그들이 원하는 것을 주세요."
+ ncr-boswar.16.b:0 "그들은 그것을 힘으로 가져가야 할 것이다!"
+ #placeholder localisation ends
+
+ nf_ncr.1.t:0 "공화국의 연인"
+ nf_ncr.1.d:0 "NCR의 역사적 기록들 중에서, 공화정의 핵심인물로 두드러지는 많은 사람들이 있지만, 그들 중 선전과 교육 분야에서 가장 유명한 사람은 누구입니까? 누가 가장 중요한 화폐에 등장하고, 연설에 언급되어야 하며, 나머지 화폐는 NCR의 대표로서 위에 서야 합니까? NCR의 역사에서 세 명의 필수 위인은 다음과 같습니다. "
+ nf_ncr.1.a:0 "NCR의 설립자이자 아버지인 아라데쉬."
+ nf_ncr.1.b:0 "NCR의 가장 위대한 전쟁 영웅인 첫번째 레인저, 세스."
+ nf_ncr.1.c:0 "탠디, 공화국의 어머니."
+
+ nf_ncr.2.t:0 "~바하 블루스~"
+ nf_ncr.2.d:0 " 2256 년에 래틀테일의 NCR 식민지는 바하 캘리포니아의 북부에서 공식적인 자금과 NCR의 공로로 선택된 식민지 개척자에 의해 설립되었지만 감독이나 군대의 보호는 거의 없었습니다. 이 선택은 강제로 지역의 주요 수자원을 통제하기로 선택한 젊은 식민지 개척자들에게는 거의 치명적일 수밖에 없었습니다. \n\n 지역민들은 일부 절박한 상황으로 인해 작은 정착지에 대해 보복하고, 마을 주민을 상대로 두 건의 대규모 공격을 감행했는데, 이 두 공격 모두 비교적 쉽게 중단되었습니다. 분쟁의 희생자가 알려지기 전에 논쟁을 끝낸 것은 한론이라는 젊은 레인저의 개입과 지혜였습니다. 그 남자는 영리한 거짓말로 레이더들을 속였습니다. 식민지 주민들은 대피했고, 지역 주민들의 물 공급을 회복했으며, 더 큰 충돌을 피할수 있었습니다. \n\n 불행히도 이 거짓말은 의도하지 않은 결과를 낳았습니다. 그것은 지역주민들에게 NCR이 약탈자나 노예상인, 그리고 다른 폭력적인 레이더를 두려워한다는 개념을 심어주었던 것 입니다. 바하 주민들은 NCR의 통치를 기다리는데 거의 10년이 걸렸습니다. 그리고 이를 위해 그들은 폭력적이고 잔인한 생활방식을 채택했습니다. 바하는 이제 폭력없이 빠져나오기 거의 불가능할 멕시코 카르텔의 집이 되어버렸습니다. 앞으로 나아갈 길은 복잡하며 NCR에는 이 문제를 다룰 수 있는 가능성이 있는 소수의 사람들만이 있습니다. 바하를 감독하기 위해 누구를 임명하시겠습니까?"
+ nf_ncr.2.a:0 "레인저 대장 한론, 더 헤비 핸드."
+ nf_ncr.2.b:0 "지역 동조자,헥터 산탄겔"
+ nf_ncr.2.c:0 " 데이글로우 시장,그랜트 C. 헤이즈."
+
+ nf_ncr.3.t:0 "~부호의 전쟁!~"
+ nf_ncr.3.d:0 "  NCR의 북부 땅은 10여년 전에 발생한 NCR-80년대의 전쟁 이후 대규모 군사 행동이나 개입을 보지 못했기 때문에 NCR 내에서 가장 약한 국경지대란 소문이 파다합니다. NCR 내의 많은 취약성이 명백해진 것은 이 기간 동안이며, NCR이 군대를 동원하고 북쪽으로 이동하는 데 소요되는 상당한 시간이 걸리기도 했습니다. \n\n NCR의 군대가 북부 지방의 농촌 지역을 모두 보호하거나 순찰 할 수 없다는 사실에 직면했을 때 많은 유력하고 부유 한 지식인들은 개인 소유의 재산으로 자신의 재산을 보호하려 했습니다. 수십, 때로는 수백 명의 용병들이 부호의 방목지를 순찰하며 돈을 받고, 방랑자,레이더들과 싸워야 했습니다. 초기에는 해롭지 않았지만, 부호들은 현지에서 영향력을 공고히 하기 위해 정치적 영향력을 행사하면서 브라민 땅에 대한 서로의 끊임없는 경쟁에 참여하면서 최근 몇 년 동안의 상황은 더욱 위험 해졌습니다. \n\n 하지만 아무리 큰 영향력에도  NCR에 숨길 수 없는 일이 발생했습니다. 부호들중 과거 큰 전성기를 가지고 있던 포커 일가가 50여명의 가문의 장정들로 그들의 주요 라이벌인 새크라멘토를 공개적으로 공격했고 수많은 민간인 사상자를 낳았습니다. 이 사건은 시골과 여러 마을에 있던 서로의 소유지를 급습하기 위해 수천 명의 용병을 보내며 부호 가문들 사이에 작은 불똥이 튀었습니다. 수십 명의 민간인들이 사망했고 전례 없을 정도의 재산 피해가 발생했습니다. 게다가, NCR의 인구 밀도가 높은 도시 지역으로의 음식의 흐름이 거의 중단되었습니다. 이 사건은 기아가 시작되기 전에 반드시 수습되어야 하는 재난입니다."
+ nf_ncr.3.a:0 "이건 재앙이야!"
+
+ nf_ncr.4.t:0 "비상 위원회를 열어라."
+ nf_ncr.4.d:0 "북부의 상황은 NCR 전체를 혼란에 빠뜨렸고 매일 수십 명이 죽어가고 있습니다.우리는 단기간에 할 수 있는 일이 많으며, 심지어 군대가 북쪽으로 이동하고 있기도 합니다. 이 혼란을 종식시키기 위한 시도로, 많은 강력한 NCR 정치인들과 군 지휘관들은 이 상황을 다루기 위해 비상 위원회를 구성했습니다. 그러나 지금까지도 의회는 두 명의 가장 강력한 정치인인 안톤 I. 플린과 션 "올굿" 머피가 매 만남마다 충돌하면서 수렁에 빠지고 말았습니다. 플린은 이 상황을 다루는 가장 쉬운 방법은 단순히 모든 부호들이 고용한 용병들을 우리가 고용하고 더 폭력적인 부호의 땅을 자신과 같은 충성스러운 사람들에게 재분배하는 것이라고 말합니다. 그러나 머피는 이것이 단순히 플린의 파워 플레이라고 믿고 그 해답은 외부의 도움에 달려있다고 생각합니다. 즉, 이 주변 지역을 순찰하고 보호하던 강철의 형제단 말입니다. 현재 군 사령관들은 어느 계획도 좋아하지 않고 심지어 지금도 결정적인 조치를 취하기 위해 의회를 무시하는 것도 고려하고 있습니다"
+ nf_ncr.4.a:0 "플린의 NCR 인수"
+ nf_ncr.4.b:0 "올굿 머피의 외교 사절단"
+ nf_ncr.4.c:0 "군사 개입"
+
+ nf_ncr.5.t:0 "도망치는 부호들!"
+ nf_ncr.5.d:0 "대규모 체포와 형사 기소에 직면했을 때, 유죄 판결을 받은 NCR 부호들의 대부분은 그들의 재산을 가지고 이웃 지역 으로 도망치기로 결정했습니다! 그들은 결과적으로 우리에게 왔습니다."
+ nf_ncr.5.a:0 "우리를 위해 더 오너라!"
+
+ nf_ncr.6.t:0 "웬델 피터슨의 전쟁."
+ nf_ncr.6.d:0 "웬델 피터슨은 무엇보다도 NCR의 미래가 동쪽에 있고, 레이더들, 작은 부족, 그리고 군단병들이 저주받은 존재라고 믿습니다. 이를 위해 그는 첫 1년 동안 사무실에서 모하비 탐험대에 대한 지지를 얻어왔는데, 이것은 가능한 한 NCR의 통제 하에 남부 네바다와 캘리포니아를 이끌어내기 위한 계획이었습니다. 하지만 이런 꿈을 현실로 만들기 위해 그는 다양한 정당들과 충분히 많은 거래를 이끌어 내야 합니다. 각자 자신의 의제를 밀어붙이고, NCR의 군대에서 가장 야심찬 자리에 자신의 지위를 넣고 싶어합니다. 피터슨이 탐험대를 시작하는 데 필요한 의회의 투표는 오직 이러한 지원 덕분입니다."
+ nf_ncr.6.a:0 "군대의 선택,나바로의 영웅,드러먼드 장군"
+ nf_ncr.6.b:0 "부호의 선택,네바다의 영웅,빅 짐 집행관"
+ nf_ncr.6.c:0 "데이글로우의 선택,겸손한 레인저,모스맨"
+
+ nf_ncr.7.t:0 "NCR 의 최후통첩!"
+ nf_ncr.7.d:0 "NCR이 바하를 위협합니다! 그들은 폭력조직과 민병대에게 해산과 동시에 무기를 반환하라 요구하고 있습니다!우리는 그들에게 바하 사람들을 위협하는것이 무엇을 의미하는지 보여줄 것 입니다."
+ nf_ncr.7.a:0 "그들이 감히!"
+
+ nf_ncr.8.t:0 "바하 통합법"
+ nf_ncr.8.d:0 "그랜트 C. 헤이스의 노력은 마침내 열매를 맺었습니다. 수많은 뇌물로 바하 캘리포니아의 다양한 침입자를 설득하려는 노력이 결과적으로 크게 성공으로 이어진 것으로 나타났습니다. 많은 갱들은 NCR의 우산 아래서 무장해제하고 통합시키는 대가로 NCR의 중앙정부로부터 보호를 받을 수 있는 능력을 갖추게 되었습니다.  모든 것이 잘되고 통합 행위가 계획대로 진행되고있는 것 같습니다! 그러나 평화 협상은 섬세하고 바하의 갱단을 다시 폭력으로 몰아 넣는 것이 가장 작은 범죄로 마무리될 것 입니다. 그러나 누가 그것을 원하겠습니까?"
+ nf_ncr.8.a:0 "거대한 폭력은 피할 수 있었고 마침내 바하에 평화가 올 것이다."
+ nf_ncr.8.b:0 "이것은 체면을 구하려는 책략이었다! 공화국에 레이더의 땅은 없다."
+
+ nf_ncr.9.t:0 "레피드 추방."
+ nf_ncr.9.d:0 "NCR은 콜로라도의 강둑을 통제하려는 작전에서 어리석은 움직임을 보였습니다. 한 때 강력했던 레피드 부족을 그들 조상의 고향땅에서 추방했습니다. 그들은 배들과 보급품, 고향을 점령 한 NCR에 대한 복수를 불태우는 열렬한 전사들을 데리고 수천 명이나 우리에게 왔습니다. 곧 그들의 문화가 파괴되고, 그들의 백성이 우리와 하나가 될 것입니다. 그러나 그때까지... 우리의 새로운 함대를 즐겨봅시다."
+ nf_ncr.9.a:0 "콜로라도는 우리 것이다!"
+
+ nf_ncr.10.t:0 "어머니의 교훈"
+ nf_ncr.10.d:0 "탠디는 뉴 캘리포니아 공화국의 대의를 위해 그녀의 삶을 바쳤고, 그녀의 인생 초반에 그녀의 이상은 사라지고 그녀는 정직한 실용주의에 직면했습니다. 그녀는 일련의 어려운 선택을 했고, 그중 다수가 반드시 그녀의 사람들을 존경하게 하지는 않았습니다. 탠디가 선택한것중 가장 주목할 만한 것은: "
+ nf_ncr.10.a:0 "네바다 무역 협정"
+ nf_ncr.10.b:0 "수도 재분배법."
+ nf_ncr.10.c:0 "NCR 초안."
+
+ nf_ncr.11.t:0 "NCR 투자"
+ nf_ncr.11.d:0 "NCR 개발 계획은 NCR 정치사에서 가장 뜨거운 논란이 되고 있는 주제 중 하나였는데, 그 당시까지 진행되어 온 것을 중앙집권화하는 것을 요구했기 때문입니다. 이 계획은 몇 달 동안 논쟁을 벌였지만 결국 이 법안은 경제 특정 분야의 발전에 초점을 맞추기로 결정했습니다. 도로 재건, 선별된 지역 사업 지원, 무기 제조에 대한 추가 자금 지원 등이 그것입니다."
+ nf_ncr.11.a:0 "지역 사업을 보조한다."
+ nf_ncr.11.b:0 "무기 제조 지원."
+ nf_ncr.11.c:0 "인프라를 개선합시다."
+
+ nf_ncr.12.t:0 "나바로 전투"
+ nf_ncr.12.d:0 "마지막 공격 직전에 NCR의 육군 총사령관 알렉산더 드러먼드는 대통령 개인 방문을 받았습니다. 탠디는 NCR이 도살을 용납 할 수 없다는 것을 분명히했고, 공격 중 대다수의 군대를 물리라고 충고했습니다. 한편 형제단 사령관은 NCR에 상당한 영향을 미치는 공동 공격인 드러먼드의 계획을 이미 승인했습니다. 그동안 드러먼드는 전체 적인 상황에 대해 점점 좌절감을 느꼈고 압도적 인 승리를 한다면 자신의 잃어버린 명예를 회복 할 수 있다는 것을 알았으며 나바로의 보물 대부분이 NCR을 무모하게 움직일 수 있다고 주장했습니다. ."
+ nf_ncr.12.a:0 "그는 우리 군대를 물렸다."
+ nf_ncr.12.b:0 "그는 형제단의 계획에 전념했다."
+ nf_ncr.12.c:0 "그는 NCR의 압도적인 공격을 무모하게 밀어붙였다."
+
+ nf_ncr.13.t:0 "투표에서의 교착 상태?"
+ nf_ncr.13.d:0 "투표에서 막혔다? NCR의 선거는 참혹한 위기에 처해있습니다. 왜냐하면 공화국이 이렇게 분열된 적이 한 번도 없었기 때문입니다. 군대, 강철의 형제단과 같은 누적된 실험은 많은 NCR 주 들로부터 강한 반대 입장을 불러 일으켰고, 이로 인해 공화국과 군부에 대한 신뢰가 손상되었습니다. 대통령 후보 안톤 플린의 편으로 몰려든 브라민 부호들은 최근의 재난 이후 권력 다툼을 벌이고 있습니다. 한편, 올굿 머피는 아론 킴볼에 대항하여 화재와 브림스톤을 준비하여 강철의 형제단을 잠재적 분쟁 상대로 몰고 가고 있습니다. 한편 카리스마 있는 그랜트 C. 헤이스는 데이글로우 주에서 투표를 막았고 그의 그늘진 우방들은 공화국을 가로질러 그들만의 움직임을 만들기 시작했습니다. 선거가 결국 완전히 결론이 나지 않을 수도 있습니다! 많은 사람들의 눈에 악몽 같은 사건이 있었습니다. 공화국은 살아남을 수 있을까요?"
+ nf_ncr.13.a:0 "부호들이 통제해야 한다"
+ nf_ncr.13.b:0 "올굿 머피가 통제해야 한다"
+ nf_ncr.13.c:0 "엔클레이브가 미래다"
+ nf_ncr.13.e:0 "드러먼드 장군이 공화국을 장악할 것이다"
+ nf_ncr.13.f:0 "킴볼이 길이다"
+ nf_ncr.13.g:0 "이것이 공화국의 끝인가?"
+
+ nf_ncr.16.t:0 "야구 경기장에 데려다 주세요."
+ nf_ncr.16.d:0 "NCR의 첫번째 공식 야구 시즌이 마침내 시작되었습니다! 수천 명의 사람들이 라디오 방송을 듣고, 더 많은 사람들이  경기장으로 몰려들었습니다. 모든 팀들이 사랑받고 있지만, 이번 전설적인 시즌에서 우승할 수 있는 실제 경쟁자들로서 다른 팀들보다 우위에 있는 세 팀이 있습니다. 많은 전쟁전 운동선수들이 포함된 올드 슬러거즈 팀, 모하비 지역에서 최고의 퇴역 군인들을 선발한 108연대, 그리고 헤이스와 그의 정당에 대한 재정 지원을받는 놀랄만큼 성공적인 팀인 아톰스."
+ nf_ncr.16.a:0 "올드 슬러거즈,옛 학교의 구울들과 옛 학교의 규칙을 가진 자들."
+ nf_ncr.16.b:0 "제108 연대는, 공화국 사람들을 위한 새로운 영웅들이다."
+ nf_ncr.16.c:0 "아톰스는 재와 히코리나무로 만든 배트를 무장한 기사들이다."
+
+ nf_ncr.17.t:0 "색 시티 투자."
+ nf_ncr.17.d:0 "북부 캘리포니아의 부호들은 사실상 세계의 모든 돈을 갖는 것이 무엇을 의미하는지 알고 있습니다. 그들의 집단적인 재산이 강력한 NCR의 예산을 초과하기 때문입니다. 그들이 마음과 캡을 작업에 넣을 때 달성 할 수없는 것은 거의 없습니다. 이것의 강력한 예가 색 시티를보다 직접적으로 통제하려는 노력 일 수 있습니다."
+ nf_ncr.17.a:0 "색-시티의 소규모 기업들을 적대적으로 인수"
+ nf_ncr.17.b:0 "지역 범죄, 갱단 및 레이더 그룹 인수"
+ nf_ncr.17.c:0 "색-시티 공무원의 뇌물 수수와 직접 통제."
+
+ nf_ncr.18.t:0 "구시가지 수색."
+ nf_ncr.18.d:0 "The City of Los Angeles once held some of the greatest technology and people in all of the old world, and the acquisition of these pieces of technology and information could vastly improve the quality of life in the Boneyard, and the NCR on the whole. What secrets can we find in the old city, and how might they benefit the greatest nation of the new world?"
+ nf_ncr.18.a:0 "Old World Machines."
+ nf_ncr.18.b:0 "Old World Armour."
+ nf_ncr.18.c:0 "Old World Theatres."
+
+ nf_ncr.19.t:0 "The Blimp."
+ nf_ncr.19.d:0 "In the ruins of Los Angeles, a massive ruined flying machine has been found. A blimp from the old days. Apparently, a local ghoul has been working on it for many years, hoping to get it to a point where it functions again. He believes that, with government funding, he can have the thing up and running in under two years."
+ nf_ncr.19.a:0 "This sounds like a reasonable investment."
+ nf_ncr.19.b:0 "He's a madman, what would we even do with a blimp?"
+
+ nf_ncr.20.t:0 "The Den Mother."
+ nf_ncr.20.d:0 "Finished Blimp?"
+ nf_ncr.20.a:0 "Got a blimp Boi"
+
+ nf_ncr.21.t:0 "The New Industry."
+ nf_ncr.21.d:0 "The optimistic people of Dayglow are prepared to invest in their future, though it will take time to reach the desired point. Which area of the cities industry is being invested in, and how far or near sighted shall they be."
+ nf_ncr.21.a:0 "Very Long Term Plans"
+ nf_ncr.21.b:0 "Long Term Plans"
+ nf_ncr.21.c:0 "Short Term Plans"
+
+ nf_ncr.22.t:0 "Baja Migration."
+ nf_ncr.22.d:0 "The recent crisis in Baja has left thousands of men and women displaced, or looking for a better life in the NCR. The acceptance of these men and woman could vastly increase our population and eventual growth, but could also deeply harm our economy due to inflation. The volume of people let into Dayglow most me regulated in some way."
+ nf_ncr.22.a:0 "All are welcome in Dayglow!"
+ nf_ncr.22.b:0 "We shall put limits on Immigration."
+ nf_ncr.22.c:0 "We only accept the best!"
+
+ nf_ncr.23.t:0 "Super-Mutant Migration"
+ nf_ncr.23.d:0 "From all across Baja and the NCR, Dayglow faces yet another wave of super mutants approaching the city. Brought here by promises of wealth, equality, and the occasional unstable area filled with radiation."
+ nf_ncr.23.a:0 "We should conscript the most stable mutants (Unfinished)."
+ nf_ncr.23.b:0 "Heavy labour would suit men and women as large as them."
+ nf_ncr.23.c:0 "They can work in those irradiated power plants."
+
+ nf_ncr.24.t:0 "Hubcrime"
+ nf_ncr.24.d:0 "Crime has been an issue in the hub for the better part of seven generations. Always growing a little worse, getting a little closer to being utterly out of hand. Only the barons have the influence and the power to put a stop to it, but then again... who's to say they won't just cash in?"
+ nf_ncr.24.a:0 "The Barons invest in Drugs."
+ nf_ncr.24.b:0 "The Barons invest in Weapons."
+ nf_ncr.24.c:0 "The Barons crack down on crime."
+
+ nf_ncr.29.t:0 "Republic at War!"
+ nf_ncr.29.d:0 "The NCR election has ended in a deadlock, something that is new for the young republic. Under normal circumstances, this would be handled with something as simple as a recount, but things have been further complicated by the revelation of Grant C. Hayes and his connections to the renewed Western Enclave. Denouncing the election while also proclaiming Dayglow an independent nation, and inheritor to the republic. Even now, his forces advance, be they Enclave soldiers in power armour, or former NCR personnel who have flocked to his cause. \n\n   In an attempt to counter these developments, Aaron Kimball has declared himself the de-facto president of the NCR, something that is unanimous by his supporters in Shady Sands and the military. However, this action has alienated the people of the Boneyard, who have decried the military's takeover of the republic, and the avoidance of democracy in the matter. Outraged by the situation, and hoping to avoid getting caught up in the war between Kimball and Hayes, Allgood Murphy and his supporters have declared an independent Boneyard, with many of the surrounding communities flocking to the banner of his new republic. Aaron Kimball has, understandably, labeled Allgood and his followers' enemies of the republic, and called for his arrest, even as Hayes prepares to push both Allgood and Kimball out with his growing warmachine.\n\n   Allgood Murphy is not the only individual who has chosen to stand against the sudden ascension of Aaron Kimball and his military regime. Anton Flynn has elected to succeed from the nation, due in no small part to his belief that neither of his counterparts stands a chance in hell against the encroaching forces of Hayes. Even now, he seeks a dialogue with the man, promising submission, and possibly cooperation so long as he and his people can maintain their current status quo and monopolies."
+ nf_ncr.29.a:0 "We stand by the republic!"
+
+ ncr_helios_event.21.t:0 "The Brotherhood takes over Helios One"
+ ncr_helios_event.21.d:0 "Our foolish use of Brotherhood scribes and technicians in the revitalization of Helios One has cost us dearly, as Helios One has fallen into Brotherhood hands once again. Many of generals and other conservative elements within the Republic are calling for a full scale offensive against the Mojave Chapter, while others still believe the plant to be inoperational, thus making it a waste of our time. What shall we do?"
+ ncr_helios_event.21.a:0 "We fold to the Brotherhood"
+ ncr_helios_event.21.b:0 "The Bear has awaken"
+
+ ncr_helios_event.22.t:0 "The Brotherhood Honours The Deal"
+ ncr_helios_event.22.d:0 "Our wise use of Brotherhood scribes and technicians in the revitalization of Helios One has stabilized relations between us and the Brotherhood. Some of the more liberal elements within the republic are hoping to establish permanent diplomatic relations with the Brotherhood."
+ ncr_helios_event.22.a:0 "I think this is the beginning of a beautiful friendship..."
+ ncr_helios_event.22.b:0 "The Bear has awaken"
+
+ ncr_helios_event.23.t:0 "We've Retaken Helios One!"
+ ncr_helios_event.23.d:0 "Our Paladins and Knights have reported that Helios One has been captured in a covert operation against the NCR."
+ ncr_helios_event.23.a:0 "Ad Victoriam!"
+
+ ncr_civil_war_starts:0 "§R The Civil War Begins §!"
+ NCR_civil_war_fires:0 "§R The NCR devolves into factions vying for power §!"
+ NCR_civil_war_fires_switch_to_enclave:0 "§R The NCR dissolves into civil unrest, as the Enclave you will need to rise from it's ashes. §!"
+ load_seabear:0 "§YA destroyer named "The Seabear" is spawned in Dayglow§!"
+ load_gammacore:0 "§YElite infantry unit spawns in the capital§!"
+ load_ncrheavytroops:0 "§YSpawns two Power Armour units in Shady Sands§!"
+ drummund:0 "Chose Drummand"
+ baronschoice:0 "Chose Big Jim"
+ rangergeneral:0 "Chose Ranger Mossman"
+ bajaharlon:0 "Chose Hanlon"
+ bajahector:0 "Chose Hector"
+ bajahayes:0 "Chose Hayes"
+ buyout:0 "Chose Flynn"
+ diplomission:0 "Chose Allgood"
+ exodus:0 "Militarily Intervened"
+ repair_helios_vegas_tt:0 "This option will send power across the Mojave, giving the NCR a relation boost with the surviving nations of the Mojave."
+ NCR_coup_tt:0 "§R The Brotherhood Might Retake Helios One §!"
+
+ nf_ncr.30.t:0 "Occupied Territories Ask for Independence"
+ nf_ncr.30.d:0 "Not too long ago our forward operations base within the Legion received a telegram asking for a diplomat to be sent to Red Sun City. When this diplomat arrived, he was brought to an impromptu conference hall, where delegates from numerous communities awaited him. He spent hours with these people before returning to us, and his report makes it very clear: they want freedom. \n\nMany of these fledgling nations have at some point been recognised by the NCR. Propaganda agencies hired by our government have, at one point or another, spread at least one poster about the city of Phoenix, or written a piece on the Jicarilla people. Although leaving the territory unoccupied could cause trouble, \"going back on our word\" could cause even more. What should we do?"
+ nf_ncr.30.a:0 "We'll recall our troops now that the Legion is gone"
+ nf_ncr.30.b:0 "If we let them go they'll just reform the Legion. We must stay"
+
+ nf_ncr.31.t:0 "Phoenix Republic Declares on Us!"
+ nf_ncr.31.d:0 "It appears that our refusal to end our occupation didn't go down well with everyone. Soon after the announcement was made, the Phoenix Republic began preparing itself for war. It sent messengers to two of its neighbours just before the conflict began, and together they combined their forces to target Hoover Dam. Somehow, perhaps by giving Yuma a favourable IOU, they managed to procure a howitzer for the siege. \n\nAlthough little damage was done to the dam itself, they killed many soldiers and retreated with their artillery in tow. We can expect them to continue to harass our forces in the future. Preparing a counterattack will take time, but their days are numbered."
+ nf_ncr.31.a:0 "They can't be worse than the Legion"
+ nf_ncr.31.b:0 "I am the Phoenix!" #placeholder localisation
+ NCR_revolt_play_hangdogs_later:0 "You can tag switch to the Hangdogs later, if you wish" #placeholder localisation
+ NCR_revolt_PHR_tagswitch:0 "Your tag will be switched to let you play as the Phoenix Republic" #placeholder localisation
+
+ #32 is ignored as it is a hidden event to set things up.
+
+ nf_ncr.33.t:0 "Northern Arizona Sides with the Rebels"
+ nf_ncr.33.d:0 "Soon after news of the Phoenix Republic's armed rebellion had begun to spread, numerous forces started to flock to their banner. Two tribes, one of which is lead by a former Legion commander and enemy of the NCR, and a group of ranchers operating in north Mexico and formerly subjugated by the Legion. \n\nAlthough not particularly dangerous, adding fuel to the fire is never a good thing, and our enemies having more soldiers at their disposal is the last thing we need. Our amy is beginning to respond to the threat, but the Republic's forces have begun prioritising the capture of key locations. This will be worse than the Baron's War in every respect."
+ nf_ncr.33.a:0 "More rebels? We'll send more supplies"
+
+ nf_ncr.34.t:0 "Opposition Forces Swell"
+ nf_ncr.34.d:0 "Fighting continues in the north of Arizona as our forces clash with the rebels in small skirmishes along the contact line. Farther into Arizona, along the New Mexico border, two more tribes have risen up to defy us. Although not particularly threatening on their own, alongside the forces of the ever expanding so called \"Phoenix Federation\" they become a concern. \n\nAs if the current situation wasn't bad enough, however, a more dangerous foe has appeared. Two Sun, one of North Mexico's more powerful nations and a former Legion territory, has declared war on us. Two Sun's army and expertise will aid the rebellion greatly, and the fact that we're fighting with a nation who formerly opposed the Legion doesn't look good to the public."
+ nf_ncr.34.a:0 "This could prove problematic"
+
+ nf_ncr.35.t:0 "Sympathisers Rise up in New Mexico"
+ nf_ncr.35.d:0 "A courier arrived this morning at an NCR outpost near the Red Sun Republic with a package addressed to the garrison commander. Soon after he left, however, the package exploded, and in the confusion as our men attempted to help the wounded, the Red Sun Republic's mercenary army descended on the garrison. \n\nStories like these are becoming more and more common as the underhanded tactics of the Legion's most influential trader are added to the rebellion's toolbox. With not only the Red Sun Republic, but the numerous Mexican nations joining the Phoenix Federation, our occupation of the are cannot be maintained any longer. We are no longer in control."
+ nf_ncr.35.a:0 "This is getting out of hand"
+
+ nf_ncr.36.t:0 "New Mexico is Lost to the Rebels"
+ nf_ncr.36.d:0 "With our occupation devolving into a free-for-all struggle to survive a mass rebellion, many of our forces have lost men, equipment, and morale trying to make their way to friendly territory and regroup. Today that became even more difficult as all of New Mexico fell to the rebel forces, many of our troops being caught and killed by the Phoenix Federation's new citizens. \n\nThe Summers Federation, well known for its capital and surrounding borderland being a den of scum and lawlessness, has put bounties on the heads of NCR officials both high and low in the command structure. Their neighbours, Black Sun, have almost enthusiastically joined in on the slaughter of our troops. Any troops left stranded south of our last remaining occupied territory are as good as dead."
+ nf_ncr.36.a:0 "When will it end?"
+
+ nf_ncr.37.t:0 "Phoenix Federation Succeeds the Legion"
+ nf_ncr.37.d:0 "Few reports are coming in from our few remaining troops stranded in the north of the Legion's former territory, but from what little we have heard, and from everything we haven't heard, we should assume the worse. The recently conquered Jicarilla, Twin Mothers, and Hangdogs have all sided with the Phoenix Federation. At this point we can only rely on our troops closer to home, as any forces caught inside the rebelling territories will be slowly running out of supplies. \n\nAs we begin to reevaluate our situation for the sixth time this week, naturally we begin to question why we're in this horrible situation. By refusing to let these nations walk free we've inadvertently forced them together and created a superstate. Even if we win this war, the ramifications will be felt for decades."
+ nf_ncr.37.a:0 "Shit"
+ nf_ncr.37.b:0 "Feed me to the Dogs..." #placeholder loc
+ NCR_revolt_HAN_tagswitch:0 "Your tag will be switched to let you play as the Hangdogs" #placeholder localisation
+
+ nf_ncr.38.t:0 "Help from the Iron Legion"
+ nf_ncr.38.d:0 "Hearing about our plight against the NCR, the Iron Legion have gifted us huge quantities of industrial equipment in exchange for turning over any loot we gain. A worthy trade."
+ nf_ncr.38.a:0 "Nice"
+
+ nf_ncr.39.t:0 "Patriotic Developments"
+ nf_ncr.39.d:0 "Many small-time gun makers and fixers have established more formal manufacturing places, at our request. Hopefully this will help the war effort."
+ nf_ncr.39.a:0 "We must win!"
+
+ nf_ncr.40.t:0 "The Federation Dissolves"
+ nf_ncr.40.d:0 "The struggle against the NCR is over, and we have won. However, this means there is no great reason for the Phoenix Federation to exist - certainly, many of the raider nations that make up the Federation are eyeing up each others' land, eager to expand their wealth and influence. It seems only the small city-state of Flagstaff is willing to remain with us. So be it."
+ nf_ncr.40.a:0 "Trouble brews"
+
+ ncr_tribe_rebellion_news.1.t:0 "NCR Relinquishes Occupied Legion Territory"
+ ncr_tribe_rebellion_news.1.d:0 "Ladies and gentlemen, you're listening to me, Mr. New Vegas, and you look extraordinarily beautiful right now. I've got news for you. After a tense series of negotiations, the NCR has finally agreed to pull their troops out of the territories formerly occupied by the Legion. Many are heralding this as the return of democracy to the area, as NCR officials will be turning over key facilities to local governments before their departure. That's all for now, folks. More classics coming right up for you, so stay tuned."
+ ncr_tribe_rebellion_news.1.a:0 "It was the right thing to do"
+ ncr_tribe_rebellion_news.1.b:0 "Interesting"
+
+ ncr_tribe_rebellion_news.2.t:0 "NCR Refuses to Relinquish Legion Gains"
+ ncr_tribe_rebellion_news.2.d:0 "Welcome back to the program. This is Mr. New Vegas, and I hope I'm not coming on too strong. More news for you. The NCR has been under heavy criticism today after they prematurely ended negotiations with the representatives of fledgling nations occupying the former Legion territories, citing the ineligibility of the gathered nations to govern themselves. Radio New Vegas reached out to the NCR Embassy in New Vegas but they declined to comment on the matter. For better or for worse, it seems that the Three-State-Area will remain under the NCR's control. That's the news. Ladies and Gentlemen, this next song goes out from me to you."
+ ncr_tribe_rebellion_news.2.a:0 "If we leave the region will descend into chaos"
+ ncr_tribe_rebellion_news.2.b:0 "Democracy in action"
+
+ ncr_tribe_rebellion_news.3.t:0 "Phoenix Republic Declares a War for Independence"
+ ncr_tribe_rebellion_news.3.d:0 "Ladies and gentlemen, welcome to our program. This is Mr. New Vegas, and each and every one of you is wonderful in your own special way. It's just about time to get you some news. The self proclaimed \"Phoenix Republic\" has declared war on the NCR, leading a small independence faction with both the Twisted Hairs and the former Legion capital of Flagstaff as member nations. Phoenix, formerly the industrial capital of the Legion, has had a long history of rising up against the Bull. We'll keep you updated. Today's headlines were brought to you by Primm. Primm: the other New Vegas."
+ ncr_tribe_rebellion_news.3.a:0 "Enjoy your freedom while you can"
+ ncr_tribe_rebellion_news.3.b:0 "Do they seriously think they'll win?"
+ ncr_tribe_rebellion_news.3.c:0 "We will win!" #Placeholder Localisation
+
+ ncr_tribe_rebellion_news.4.t:0 "More Territories Rise with the Phoenix Republic"
+ ncr_tribe_rebellion_news.4.d:0 "Hey, hey, it's Mr. New Vegas letting you know I've got a new Christmas compilation coming out soon; Nuclear Winter Wonderland. Look for it, on holotape. If you like news, then you're gonna love our next segment. The situation continues to worsen for the NCR as territories north of the former Legion capital rise in open rebellion, joining the Phoenix Republic. One of these territories, governed by the Blackfoot tribe, is lead by a former front line Legion commander. I guess old habits die hard. That's it for now, but we'll keep you up to date. These headlines were brought to you by Vault 21. Vault 21: everything's better... when you experience it in a vault."
+ ncr_tribe_rebellion_news.4.a:0 "Tribals and ranchers join the fray"
+ ncr_tribe_rebellion_news.4.b:0 "More dead bodies for the pile"
+ ncr_tribe_rebellion_news.4.c:0 "We grow stronger!" #Placeholder Localisation
+
+ ncr_tribe_rebellion_news.5.t:0 "Rebellion Continues to Spread"
+ ncr_tribe_rebellion_news.5.d:0 "This is Mr. New Vegas, fanning the flames of your passion. You know I think all news, whether it's good or bad, brings us closer together. Don't you? More troubling news coming from beyond the Colorado today, as the formerly occupied nation of Two Sun joins forces with the rebels, alongside numerous smaller groups. Two Sun best known for being a hub of Desert Ranger activity before their journey to Nevada, was one of the Legion's most recent conquests. The NCR's annexation of Two Sun comes as a surprise, given their condemnation of the Legion's expansion into the area during their campaign. The NCR Embassy declined to comment. That was the news. And now, I'd like to play one of my very favourite songs for you."
+ ncr_tribe_rebellion_news.5.a:0 "This rebellion is growing too quickly"
+ ncr_tribe_rebellion_news.5.b:0 "This could get interesting"
+ ncr_tribe_rebellion_news.5.c:0 "We grow stronger!" #Placeholder Localisation
+
+ ncr_tribe_rebellion_news.6.t:0 "Unrest Peaks as the Occupation Collapses"
+ ncr_tribe_rebellion_news.6.d:0 "This is Radio New Vegas, and I'm your host, Mr. New Vegas. And in case you're wondering if you've come to the right place, you have. I've got news for you. The NCR's occupation of the Three-State-Area collapsed today as the Legipn's most powerful trade hub, the Red Sun Republic, declared its support for the rebellion. Alongside numerous other newcomers, the Republic launched an assault on numerous NCR garrisons in the area, killing many. Slim, the President of the Republic and former mayor of Red Sun City, was infamous within the Legion for successfully opposing their attempts to enslave portions of the city's population. That's the news. This is Mr. New Vegas, filling in for Mr. New Vegas. Gonna play a song for you right now, and it's about that special someone you find only once in a Blue Moon."
+ ncr_tribe_rebellion_news.6.a:0 "We can't hold our forward positions much longer"
+ ncr_tribe_rebellion_news.6.b:0 "How will the NCR respond?"
+ ncr_tribe_rebellion_news.6.c:0 "We grow stronger!" #Placeholder Localisation
+
+ ncr_tribe_rebellion_news.7.t:0 "Raiders Join the War for Independence"
+ ncr_tribe_rebellion_news.7.d:0 "You're listening to Radio New Vegas, your little jukebox in the Mojave Wasteland. I'm Mr. New Vegas, and I'm here for you. More news for you. With the addition of the Summers Federation and Black Sun to their ranks, the independence faction occupies almost the entirety of the former Legion territories. Well known for being the Legion's \"border town\", Fort Summers is famous for its high presence of quote undesirables. According to our sources, the Federation offered bounties for prominent NCR officials, paid in either caps or chems. As a result, volunteer applications written in blood have quadrupled overnight. This program was brought you by Gomorrah. Gomorrah: It'll be our secret."
+ ncr_tribe_rebellion_news.7.a:0 "This is the last thing we need"
+ ncr_tribe_rebellion_news.7.b:0 "A raider militia?"
+ ncr_tribe_rebellion_news.7.c:0 "We will tolerate them." #Placeholder Localisation
+
+ ncr_tribe_rebellion_news.8.t:0 "Phoenix Federation Spreads its Wings"
+ ncr_tribe_rebellion_news.8.d:0 "You know, I tried to measure my Charisma on a Vit-o-matic Vigor Tester once. The machine burst into flames. Whoops, better put on my newsman fedora, here. This morning the last of the remaining occupied territories rose up against the NCR. The Hangdogs, the Legion's most difficult conquest in history, is one of the nations joining the rebellion. Feared for their vicious dogs and advanced group tactics, the Hangdogs slaughtered what little remained of the NCR in their territory. With the absorption of the entirety of the Three-State-Area, the Phoenix Republic has become a superpower within a week—something which took the NCR decades. Promotional consideration for this news program has been paid for by the Ultra-Luxe. The Ultra-Luxe: live life in the lap of luxury."
+ ncr_tribe_rebellion_news.8.a:0 "We've birthed an all new Legion..."
+ ncr_tribe_rebellion_news.8.b:0 "A new power rises from the ashes of the Legion"
+ ncr_tribe_rebellion_news.8.c:0 "We will win!" #Placeholder Localisation
+
+ ncr_tribe_rebellion_news.9.t:0 "The NCR-Legion War"
+ ncr_tribe_rebellion_news.9.d:0 "Howdy folks, it's Mr. New Vegas, and I have a good feeling about all of you listening. Whoops, better put on my newsman fedora, here. After years of tension between the Bear and the Bull everything has come to a head today, as blows were made between the two superpowers. With an official declaration of war proclaimed by both sides, it's unsure as to what the outcome will be. If you see anybody in football pads, steer clear. You know, they say no news is good news. But I think my program would be awfully dull if that were the case. Got a song for you right now that's about a man that's cold on the exterior, but deep down ya'know he's a good man and his name is Johnny Guitar"
+ ncr_tribe_rebellion_news.9.a:0 "Democracy is on our side!"
+ ncr_tribe_rebellion_news.9.b:0 "Mars is on our side!"
+ ncr_tribe_rebellion_news.9.c:0 "This'll be good"
+
+ ncr_tribe_rebellion_news.10.t:0 "The Fall of the Dam"
+ ncr_tribe_rebellion_news.10.d:0 "Following their failed initial offensive, the revolting states of the Phoenix Federation have launched a second assault on the dam. Unfortunately we failed to repel this attack, leading to the fall of the dam to the rebels. Furthermore, the dam has suffered extensive damage in the fighting - mainly due to carelessness on behalf of the rebels and their howitzer. \n\nDespite the dam being far from the bulk of the population, the people have taken it as a very bad sign and their support for crushing the rebellion has fallen..."
+
+ ncr_tribe_rebellion_news.11.t:0 "Loss of the Mojave"
+ ncr_tribe_rebellion_news.11.d:0 "Seizing on the chaotic state of our armed forces following the uprising, the rebel upstarts have seized the Mojave from our rightful ownership. The rebels seem to be emboldened by this move, and are swiftly moving south to threaten our garrisons on the Long 15. Once again, the population has taken this development as a sign that we should make rapid peace with the revolters, lest our core towns and cities fall to them."
+
+ ncr_tribe_rebellion_news.12.t:0 "Fall of the Long 15"
+ ncr_tribe_rebellion_news.12.d:0 "Terrible news has reached Shady Sands today - the Long 15 has once again fallen into the hands of raiders and pillagers. This time, raiders calling themselves 'freedom fighters' have swept in from the Legion's old lands and laid waste to our garrisons along the route. Now the uprising is reaching even closer to home, and war weariness has firmly set in amongst the population - a few individuals have started quite loudly discussing signing a peace deal with the revolting states, despite our official communiqué stating that if we leave the area the Legion will undoubtedly reform."
+
+ ncr_tribe_rebellion_news.13.t:0 "The Colorado is Crossed"
+ ncr_tribe_rebellion_news.13.d:0 "The first time this headline landed on our desk, it was great news. Brave ranger divisions had crossed the Colorado at several strategic locations and smashed the Legionaries that defended the bank. Indeed, it proved one of the most decisive offensives in the war against the Legion - a large number of Legionaries were captured or deserted the Legion's armies. However, this time round the headline is bleak news. Rebel militias, taking advantage of the sudden nature of their revolt, have stormed across the Colorado and now threaten our southern territories. \n\nIt's not just the generals that are concerned about the news, either. The people of the Boneyard have become increasingly concerned at the prospect of a total collapse of the southern front, and the capture of the Boneyard by raiders amongst the rebels."
+
+ ncr_tribe_rebellion_news.14.t:0 "The Fall of the Boneyard"
+ ncr_tribe_rebellion_news.14.d:0 "There's no other way to put it - the Boneyard has fallen. A massive assault of Phoenix Federation forces have crushed the desperate defence of the Boneyard Rangers, and with their annihilation we have lost one of the most populous and industrialised regions we own. Now the entire population fears the same fate - anti-war sentiment has skyrocketed, and the Phoenix Republic looks poised for a further offensive. We can't let that happen."
+
+ ncr_tribe_rebellion_news.15.t:0 "The Fall of Shady Sands"
+ ncr_tribe_rebellion_news.15.d:0 "The firefight raged into the night. NCR units fought street to street to defend their capital, bravely retreating and reforming their defensive lines again and again. In the early hours of the morning, the city was surrounded by Phoenix Federation forces, and our communication lines were cut. The last message we received was from Corporal Sterling, a sharpshooter of the 1st Recon, who reported that the Phoenix forces had pinned them down in the city square but that they would resist to the last. Indeed, in the light of the morning sun, it seems they had done just that - red berets lay next to lifeless corpses in the square. \n\nSporadic firefighting continues throughout the city, but the bulk of it stands occupied by the Phoenix Federation. With our capital now in enemy hands, people across the Republic are demanding immediate peace. We certainly don't have many other options."
+
+ ncr_tribe_rebellion_news_dynamic_loc:0 "[ROOT.RevoltMessage]"
+ ncr_revolts_severity_1:0 "Order a counterattack"
+ ncr_revolts_severity_2:0 "A minor inconvenience"
+ ncr_revolts_severity_3:0 "This is beginning to get worrying..."
+ ncr_revolts_severity_4:0 "The people are losing confidence..."
+ ncr_revolts_severity_5:0 "Maybe we should have withdrawn while we had the chance"
+ ncr_revolts_severity_6:0 "We must seek peace now"

@@ -1,0 +1,61 @@
+﻿l_english:
+
+  ruler: "지배자"
+  ruler_noun: "독재 정치"
+  ruler_desc: "하나의 규칙"
+
+  people: "시민들"
+  people_noun: "민주주의"
+  people_desc: "다수의 규칙"
+
+  intellectuals: "지식인"
+  intellectuals_noun: "기술주의"
+  intellectuals_desc: "진보의 규칙"
+
+  elites: "엘리트"
+  elites_noun: "과두 정치"
+  elites_desc: "소수의 규칙"
+
+  BRK_ruler_party: "그레이븐의 규칙"
+  BRK_elites_party: "라그나르의 힘"
+  BRK_intellectuals_party: "자유 사상가"
+  BRK_people_party: "부드러운 마음"
+
+  NCR_ruler_party: "본야드 분리주의자"
+  NCR_elites_party: "남작"
+  NCR_intellectuals_party: "구세계당"
+  NCR_people_party: "NCR 회의"
+
+  NEW_ruler_party: "모르디노"
+  NEW_elites_party: "살바토레"
+  NEW_intellectuals_party: "라이트"
+  NEW_people_party: "비숍"
+  NEW_enclave_party_long: "엔클레이브"
+  NEW_enclave_party: "엔클레이브"
+  NEW_thradd_party_long: "사령관 쓰라드"
+  NEW_thradd_party: "사령관 쓰라드"
+
+  # Chichen Itza #
+  ITZ_intellectuals_party:0 "티훈"
+  ITZ_ruler_party:0 "칼롬테"
+  ITZ_elites_party:0 "군대"
+  ITZ_people_party:0 "의회"
+
+  # Tzotzil
+
+  TDT_people_party:0 "인민 위원회"
+  TDT_elites_party:0 "이트사 충성파"
+  TDT_ruler_party:0 "의장"
+  TDT_intellectuals_party:0 "개혁가"
+
+  # Aztlan
+
+  ATE_ruler_party:0 "의장"
+  ATE_ruler_party_long:0 "왕가"
+  ATE_elites_party:0 "이글 컬트"
+  ATE_intellectuals_party:0 "재규어 컬트"
+  ATE_people_party:0 "진정한 멕시코"
+
+  # AoM
+
+  ARM_ruler_party:0 "카우디요"

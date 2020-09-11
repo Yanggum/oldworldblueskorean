@@ -1,0 +1,47 @@
+﻿l_english:
+  nf_ranger.1.t: "장군 임명"
+  nf_ranger.1.d: ""
+  nf_ranger.1.a: "스네이크 바르가스"
+  nf_ranger.1.b: "헬 레이저"
+  nf_ranger.1.c: "쓰래셔 사가라"
+
+  nf_ranger.2.t: "레인저의 기원"
+  nf_ranger.2.d: ""
+  nf_ranger.2.a: "육군 공병 군단."
+  nf_ranger.2.b: "방위군."
+  nf_ranger.2.c: "육군 레인저 대대."
+
+  nf_ranger.3.t: "교도소의 거주민들"
+  nf_ranger.3.d: ""
+  nf_ranger.3.a: "범죄자들을 받아들입니다."
+  nf_ranger.3.b: "좀도둑들을 받아들입니다."
+  nf_ranger.3.c: "범죄자들을 추방합니다."
+
+  nf_ranger.4.t: "모하비의 평화 유지군."
+  nf_ranger.4.d: ""
+  nf_ranger.4.a: "약한 사람을 보호하십시오."
+  nf_ranger.4.b: "모두를 보호하십시오."
+  nf_ranger.4.c: "부자를 보호하십시오."
+ #Placeholder Localisation starts here
+  nf_ranger.5.t: "NCR은 부족의 권리를 거부합니다" #Rangers consider leaving NCR faction due to legion tribes
+  nf_ranger.5.d: "NCR은 군단을 물리친 후 부족들의 독립권을 부정했습니다. 이것은 용납될 수 없고 우리가 느끼는 것은 이 동맹이 상징하는 모든 것을 깨뜨리는 것입니다. 우리에게는 선택의 여지가 있습니다: NCR과 동맹을 맺고 우리가 믿는 것을 포기하거나, 그들과 이 협정을 파기하고, 우리가 여전히 자유에 대한 우리의 믿음을 고수하고 있다는 것을 그들에게 보여주십시오."
+  nf_ranger.5.a: "NCR 탈퇴" #Leave their faction
+  nf_ranger.5.b: "우리는 그들과 함께 더 많은 것을 얻을 수 있습니다." #Stay with them
+
+  nf_ranger.6.t: "레인저가 우리의 동맹을 깨다!" #Answer event to tell NCR Rangers left
+  nf_ranger.6.d: "레인저는 우리의 윤리강령을 어기고 또 다른 군대로 변모해 연합을 탈퇴했습니다."
+  nf_ranger.6.a: "어떻게 그들이 감히!"
+
+ nf_ranger.7.t: "The Steel Rangers Request"
+  nf_ranger.7.d: "The Steel Rangers have sent us a request to join our faction should we accept?"
+  nf_ranger.7.a: "Yes. Bring them into the fold."
+  nf_ranger.7.b: "No. We are better off without them."
+
+  nf_ranger.8.t: "The Brotherhoods Response"
+  nf_ranger.8.d_yes: "They have accepted our request to join them."
+  nf_ranger.8.d_no: "They have denied accepted our request to join them."
+  nf_ranger.8.t: "A wise decision."
+  nf_ranger.8.t: "How dare those technophobes."
+
+ #Placeholder Localisation Ends here
+  DES_leader_chosen: "지도자를 선택했습니다."

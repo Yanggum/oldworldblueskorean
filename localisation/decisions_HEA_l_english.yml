@@ -1,0 +1,19 @@
+﻿l_english:
+ # decisions
+  hea_conversion: "부정한 자 개종"
+  hea_conversion_desc: "우리 이웃의 사람들은 주님의 눈에 밝게 빛나지 않습니다. 우리는 이 죄인들이 사는 곳을 개종시키도록 선교사를 보내야 합니다. 그러면 우리의 영향력과 주님의 영광이 서서히 퍼질 것입니다."
+  hea_slow_conversion: "Conversion Mission to [From.GetNameDef]"
+
+  hea_inquisition: "[From.GetNameDef]로 재판관 파견"
+
+  hea_bind_to_us: "[From.GetNameDef]를 우리에게 결속 시키다!"
+  hea_bind_to_us_desc: "우리의 개종 선교 사업은 임무를 마쳤으며, 우리는 그들을 하나님께 더 가까이 데려 갈 준비가되어 있습니다."
+
+ # tooltips
+  hea_converted_state_tt: "주가 개종될 것 입니다."
+  hea_not_converted_state_tt: "우리는 그들이 소유한 주를 개종하지 않았습니다."
+  hea_convert_state_tt: "우리는 그들 주의 일부 또는 전부를 개조했습니다."
+  hea_bind_to_us_attempt_tt: "우리는 그들의 주를 우리의 것으로 결속시키려고 시도 할 것 입니다!"
+  binding_someone: "아직 다른곳을 결속하지 않았습니다."
+  binding_warning_tt: "더 많은 목표를 개종할수록, 성공할 가능성이 높아지지만, 주의할 점은 실패할 경우 개종 작업이 취소될 것 입니다."
+  impassable_states_dont_matter: "§R참고 : 개종 할 수없는 상태는 누군가를 개종 할 때 중요하지 않습니다.§!"

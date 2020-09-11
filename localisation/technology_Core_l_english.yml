@@ -1,0 +1,161 @@
+﻿l_english:
+ # Equipment naming is inherited from the equipment name when displayed in the techtree
+ #----------------------------
+ # Folders
+ #----------------------------
+  fallout_infantry_folder: "보병"
+  fallout_infantry_folder_desc: ""
+
+  fallout_support_folder: "지원"
+  fallout_support_folder_desc: ""
+
+  fallout_vehicle_folder: "차량"
+  fallout_vehicle_folder_desc: ""
+
+  fallout_robotics_folder: "로봇 공학"
+  fallout_robotics_folder_desc: "Before the war happened robots were used for a variety of purposes. In the wasteland they can be utilized as combat weapons to great effect with proper investments in technology."
+
+  fallout_land_doctrine_folder: "육군 교리"
+  fallout_land_doctrine_folder_desc: ""
+
+  fallout_air_doctrine_folder: "전문화된 교리"
+  fallout_air_doctrine_folder_desc: ""
+
+  # fallout_air_doctrine_folder: "공군 교리"
+  # fallout_air_doctrine_folder_desc: "새로운 항공기를 생산하는 것은 가장 진보된 파벌들을 제외한 모든 파벌들에게 매우 가능성이 낮은 이야기지만, 황무지에 남아 있는 부서진 항공기를 수리하기 위한 방법을 연구하면 지상에서의 우리 전투력을 증강시키고 도울 수 있습니다."
+
+  fallout_air_folder: "공군"
+  fallout_air_folder_desc: ""
+
+  fallout_naval_folder: "해군"
+  fallout_naval_folder_desc: "With the seas and rivers being infested by crude pirate ships and mutated animals, we will have to make a lot of efforts to be able to sail through them. Military-grade hulls and manufacturing methods will be required, and so will new sailing technology."
+
+  fallout_naval_non_mtg_folder: "해군"
+  fallout_naval_non_mtg_folder_desc: "With the seas and rivers being infested by crude pirate ships and mutated animals, we will have to make a lot of efforts to be able to sail through them. Military-grade hulls and manufacturing methods will be required, and so will new sailing technology."
+
+  fallout_naval_modules_folder: "해군 모듈"
+  fallout_naval_modules_folder_desc: "As we can finally begin to sail the rivers and seaside areas of the wasteland again, we will require equipment of increasing quality to make sure our enemies do not do so as well. Weaponry, armor, communication gear, all are important to assuring our naval dominance."
+
+  fallout_industry_folder: "산업"
+  fallout_industry_folder_desc: "Although much of the equipment used comes at least in part from the great war, restoring such equipment requires organized industry. Providing proper investment in researching new methods of production is essential to survival in the wasteland."
+
+  fallout_engineering_folder: "공학 기술"
+  fallout_engineering_folder_desc: "Even though communication methods and electronical equipments have mostly been lost in the great blackout, the massive EMP wave produced after the end of the world, it is still capital that we try and rebuild from it. Electrical equipment is capital in our endeavors."
+
+
+ #----------------------------
+ # Header
+ #----------------------------
+  HEADER_REQUISITES: "전제 조건"
+  TRIBAL_HEADER: "부족"
+  CIVILIZED_HEADER: "문명"
+  ADVANCED_HEADER: "첨단"
+  SPECIAL_HEADER: "독특한"
+  HEADER_UPGRADES: "업그레이드"
+
+ #----------------------------
+ # Categories
+ #----------------------------
+  civilization_tech_category: "문명"
+  tribal_tech_category: "부족 기술"
+  civilized_tech_category: "문명 기술"
+  scientific_tech_category: "첨단 기술"
+
+ # weapon categories
+  infantry_weapons_tech_category: "보병 무기"
+  infantry_tech_category: "보병 기술"
+  energy_weaponry_tech_category: "에너지 무기"
+  ballistic_weaponry_tech_category: "총기"
+  melee_weaponry_tech_category: "근접 무기"
+  plasma_weaponry_tech_category: "플라즈마 무기"
+  tesla_weaponry_tech_category: "테슬라 무기"
+  gauss_weaponry_tech_category: "가우스 무기"
+
+ # support
+  support_tech_category: "지원 기술"
+  support_demolitions_tech_category: "폭파 기술"
+  support_demolitions_explosive_tech_category: "폭발물"
+  support_demolitions_flamer_tech_category: "폭약 기술"
+  support_fireteam_tech_category: "화력팀 기술"
+  support_fireteam_energy_tech_category: "중 에너지 무기"
+  support_fireteam_ballistic_tech_category: "중 탄도 무기"
+  support_anti_tank_tech_category: "대전차 무기"
+  support_non_combat_tech_category: "비 전투 지원"
+  support_medical_tech_category: "의료 기술"
+  support_maintenance_tech_category: "유지 보수 기술"
+  support_logistics_tech_category: "보급 기술"
+  support_recon_tech_category: "정찰 기술"
+  support_dog_tech_category: "개 기술"
+
+ # robotics
+  robotics_tech_category: "로봇 공학"
+  support_robot_tech_category: "지원 로봇"
+  combat_robot_tech_category: "전투 로봇"
+
+ # doctrine categories
+  cat_land_doctrine: "육군 교리"
+  cat_naval_doctrine: "해군 교리"
+  cat_river_fleet_doctrine: "강 함대 교리"
+  cat_dispered_form_doctine: "분산 대형 교리"
+  cat_force_conc_doctine: "집중력 교리"
+  cat_air_doctrine: "항공 교리"
+  cat_automated_warfare: "자동화된 전쟁"
+  cat_elite_army: "세련된 전쟁"
+  cat_grand_army: "전통적인 전쟁"
+  cat_terror_tactics: "비대칭 전쟁"
+  cat_outsider_warfare: "외부인 전쟁"
+
+ # naval
+  naval_tech_category: "해군 기술"
+
+  tool_tech: "도구 조달"
+  industry_specialisation_category: "산업 전문화"
+  extraction_category: "자원 조달"
+  construction_category: "건설"
+  habitation_category: "거주"
+  agriculture_tech: "농업"
+  scavenging_tech: "발굴 & 재활용"
+
+  category_special_units:0 "작전 사양"
+
+ #-------------------------------------
+ # National Focuses
+ #-------------------------------------
+  legion_nf_shottol_god_of_dogs: "쇼톨, 개들의 신"
+  legion_nf_shottol_god_of_dogs_desc: ""
+
+  legion_nf_goddess_diana: "여신 다이아나"
+  legion_nf_goddess_diana_desc: ""
+
+  legion_nf_caesar_the_godslayer: "신살자 시저"
+  legion_nf_caesar_the_godslayer_desc: ""
+
+  legion_nf_cult_of_nas: "나스의 추종"
+  legion_nf_cult_of_nas_desc: ""
+
+  legion_nf_cult_of_nas_minor: "나스의 추종"
+  legion_nf_cult_of_nas_minor_desc: ""
+
+  legion_nf_wyatt_the_demon: "악마 와이엇"
+  legion_nf_wyatt_the_demon_desc: ""
+
+  legion_nf_legion_outlaws: "군단 무법자"
+  legion_nf_legion_outlaws_desc: ""
+
+  mutant_access: "슈퍼 뮤턴트 군대"
+  mutant_access_desc: ""
+
+  ghoul_access: "구울 군대"
+  ghoul_access_desc: ""
+
+ #----------------------------
+ # Civilizations
+ #----------------------------
+  tribal_civilization: "부족"
+  tribal_civilization_desc: ""
+  settled_civilization: "문명"
+  settled_civilization_desc: ""
+  scientific_civilization: "진보"
+  scientific_civilization_desc: ""
+  super_mutant_civilization: "슈퍼 뮤턴트 문명"
+  super_mutant_civilization_desc: ""

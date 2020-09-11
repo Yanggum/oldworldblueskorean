@@ -1,0 +1,14 @@
+﻿l_english:
+ # decisions
+  ncn_conversion: "개종 임무"
+  ncn_conversion_desc: "우리 이웃의 사람들은 주님의 눈에 밝게 빛나지 않습니다. 우리는 이 죄인들이 사는 곳을 개종시키도록 선교사를 보내야 합니다. 그러면 우리의 영향력과 주님의 영광이 서서히 퍼질 것입니다."
+  ncn_slow_conversion: "[From.GetNameDef]로 재판관 파견"
+
+  ncn_bind_to_us: "[From.GetNameDef]를 우리에게 결속 시키다!"
+  ncn_bind_to_us_desc: "우리의 전환 선교 사업은 이미 끝났으며 이제는 [From.GetNameDef]의 모든 것이 전능하신 하나님께 경배로 개종했습니다. 그들을 우리에게 더 가까이 데려 갈 때입니다."
+
+ # tooltips
+  ncn_eligible_tt: "그들은 우리의 주 또는 우리에 의해 개종 된 주에 인접한 주를 소유하고 있습니다."
+  ncn_converted_state_tt: "지역이 개종됩니다"
+  ncn_converted_all_tt: "그들이 소유 한 모든 주가 우리에 의해 개종되었습니다."
+  ncn_not_converted_all_tt: "우리는 모든 주를 우리의 것으로 개종하지 않았습니다"

@@ -1,0 +1,189 @@
+﻿l_english:
+ #	Categories
+  category_tanks:0 "탱크"
+  category_behemoth:0 "슈퍼 뮤턴트 베히모스"
+  category_super_mutants:0 "슈퍼 뮤턴트"
+  category_vehicles:0 "차량"
+  category_motorized:0 "기동차량"
+  category_power_armor:0 "파워 아머"
+  category_melee:0 "근접"
+  category_robots:0 "로봇"
+  category_air_unit:0 "모든 항공기"
+  category_fighter:0 "전투기"
+  category_light_air:0 "경 비행기"
+  category_cas:0 "근접 항공 지원"
+  category_transport:0 "화물 항공기"
+  category_heavy_air:0 "중 비행기"
+  category_bomber:0 "폭격기"
+  category_strat_bomber:0 "전략 폭격기"
+  category_blimp:0 "비행선"
+  category_demolitions:0 "폭파"
+  category_fireteam:0 "화력팀"
+  category_special_forces:0 "전문가"
+  category_special_units:0 "특수 유닛"
+  category_support_robots:0 "지원 로봇"
+  category_combat_robots:0 "전투 로봇"
+  category_screen_ship:0 "은폐 선박"
+  category_capital_ship:0 "주요 선박"
+  category_carrier_ship:0 "항공모함 선박"
+
+ # Infantry
+
+  Infantry:0 "보병 소대"
+  Infantry_short:0 "보병"
+  Infantry_desc:0 ""
+
+  dog_infantry:0 "워하운드 소대"
+  dog_infantry_short:0 "워하운드"
+  dog_infantry_desc:0 "전쟁의 개들을 풀어놓습니다."
+
+  spec_ops:0 "특수 부대 소대"
+  spec_ops_short:0 "특수 부대"
+  spec_ops_desc:0 ""
+
+  militia:0 "민병대 소대"
+  militia_short:0 "민병대"
+  militia_desc:0 ""
+
+  fireteam_infantry:0 "화력팀 소대"
+  fireteam_infantry_short:0 "화력팀"
+  fireteam_infantry_desc:0 ""
+
+  demolitions_infantry:0 "폭파 소대"
+  demolitions_infantry_short:0 "폭파"
+  demolitions_infantry_desc:0 ""
+
+  ghoul_paratroopers:0 "공수 구울 보병"
+  ghoul_paratroopers_short:0 "공수"
+  ghoul_paratroopers_desc:0 ""
+
+  super_mutant_nightkin_infantry:0 "나이트킨 보병"
+  super_mutant_nightkin_infantry_short:0 "나이트킨"
+  super_mutant_nightkin_infantry_desc:0 "나이트킨은 마스터의 슈퍼 뮤턴트 군대의 정예 전사 계급이자 그의 슈퍼 뮤턴트 창조의 정점이었습니다."
+
+  power_armour: "파워 아머 소대"
+  power_armour_short: "파워 아머"
+  power_armour_desc: "파워 아머를 갖춘 보병 부대입니다. 그들의 무장은 대인 공격에 더 많은 회복력을 추가함으로써 전투에서 엄청난 이점을 제공할 수 있습니다. 이러한 무장을 생산하는 비용은 보병부대의 비용을 증가시키지만 인력 자원을 훨씬 더 잘 사용할 수 있습니다."
+
+  power_armour_fireteam_infantry:0 "강화된 화력팀 소대"
+  power_armour_fireteam_infantry_short:0 "PA 화력팀"
+  power_armour_fireteam_infantry_desc:0 ""
+
+  power_armour_demolitions_infantry:0 "강화된 폭파 소대"
+  power_armour_demolitions_infantry_short:0 "PA 폭파"
+  power_armour_demolitions_infantry_desc:0 ""
+
+  ghoul_infantry: "구울 보병 소대"
+  ghoul_infantry_short: "구울 보병"
+  ghoul_infantry_desc: "방사선에 장기간 노출돼 황무지의 가혹한 현실에 훨씬 더 강한 저항력을 가진 똑똑한 구울 군인들입니다."
+
+  super_mutant_infantry: "슈퍼 뮤턴트 보병 소대"
+  super_mutant_infantry_short: "슈퍼 뮤턴트"
+  super_mutant_infantry_desc: "슈퍼 뮤턴트는 보통 사람만큼 영리하지는 않지만, 더 크고 더 강력한 신체 때문에 훨씬 더 강하고 탄력적입니다. 그러나 일반적인 보병과는 대조적으로, 이렇게 거대한 병사들을 생산하기 위해서는 FEV에 대한 접근이 필요합니다."
+
+  super_mutant_aux_infantry: "슈퍼 뮤턴트 보조 소대"
+  super_mutant_aux_infantry_short: "슈퍼 뮤턴트"
+  super_mutant_aux_infantry_desc: "슈퍼 뮤턴트는 보통 사람만큼 영리하지는 않지만, 더 크고 더 강력한 신체 때문에 훨씬 더 강하고 탄력적입니다. 그러나 일반적인 보병과는 대조적으로, 이렇게 거대한 병사들을 생산하기 위해서는 FEV에 대한 접근이 필요합니다."
+ # Motorized/Mechanized
+
+  apc: "APC 소대"
+  apc_short: "APCs"
+  apc_desc: "중형 장갑 전투 차량은 대부분의 소형 무기의 화력을 꺾는 동시에 화력 자체를 되돌릴 수 있습니다."
+
+ # tanks
+  tank: "탱크 소대"
+  tank_short: "탱크"
+  tank_desc: "무장을 하고 무기를 장착한 탱크는 어리석은 어떤 대인 목표물이라도 뚫고 지나갈 것입니다."
+
+ # Planes
+  fighter:0 "전투기"
+  fighter_short:0 "전투기"
+  fighter_desc:0 ""
+  cas:0 "근접 항공 지원"
+  cas_short:0 "CAS"
+  cas_desc:0 ""
+  transport_plane:0 "화물 비행기"
+  transport_plane_short:0 "화물 비행기"
+  transport_plane_desc:0 ""
+  blimp_bomber:0 "비행선"
+  blimp_bomber_short:0 "비행선"
+  blimp_bomber_desc:0 ""
+  strat_bomber:0 "전략 폭격기"
+  strat_bomber_short:0 "전략 폭격기"
+  strat_bomber_desc:0 ""
+
+ # Robots
+  support_robot: "지원 로봇 소대"
+  support_robot_short: "지원 로봇"
+  support_robot_desc: "가벼운 장갑으로 무장한 로봇들이 전투 부대로 투입됐습니다. 지원에 중점을 두고 있습니다."
+
+  combat_robot: "전투 로봇 소대"
+  combat_robot_short: "전투 로봇"
+  combat_robot_desc: "튼튼한 장갑으로 무장한 로봇들이 전투 부대로 투입되었습니다."
+
+  behemoth: "베히모스"
+  behemoth_short: "베히모스"
+  behemoth_desc: ""
+
+ # Support
+
+  power_armour_support: "파워 아머 지원"
+  power_armour_support_short: "파워 아머 지원"
+  power_armour_support_desc: "파워 아머를 갖춘 보병 부대입니다. 그들의 무장은 대인 공격에 더 많은 회복력을 추가함으로써 전투에서 엄청난 이점을 제공할 수 있습니다. 이러한 무장을 생산하는 비용은 보병부대의 비용을 증가시키지만 인력 자원을 훨씬 더 잘 사용할 수 있습니다."
+
+  fireteam_support:0 "화력팀 지원"
+  fireteam_support_short:0 "화력팀"
+  fireteam_support_desc:0 ""
+
+  demolitions_support:0 "폭파 지원"
+  demolitions_support_short:0 "폭파"
+  demolitions_support_desc:0 ""
+
+  power_armour_fireteam_support:0 "강화된 화력팀 지원"
+  power_armour_fireteam_support_short:0 "PA 화력팀"
+  power_armour_fireteam_support_desc:0 ""
+
+  power_armour_demolitions_support:0 "강화된 폭파 지원"
+  power_armour_demolitions_support_short:0 "PA 폭파"
+  power_armour_demolitions_support_desc:0 ""
+
+  recon_company: "정찰 지원"
+  recon_company_short: "정찰"
+  recon_company_desc: "GPS와 같은 구세계 기술이 없는 광대한 황무지에서, 그리고 정찰 수행을 위한 전통적인 보병 집단을 가진 지도 기술에 접근하는 것은 한 부대가 전투에서 전술을 더 잘 선택할 수 있게 해줍니다."
+
+  maintenance_company: "유지 보수 지원"
+  maintenance_company_short: "유지 보수"
+  maintenance_company_desc: "차량과 로봇은 생산하기 어려운데, 황무지에서 부서지는 것들을 버려야 하는 대신, 일부는 기본적인 수리 기술을 가진 특수 훈련된 병사를 사용하여 그것들을 정상 작동 상태로 되돌릴 수 있습니다."
+
+  logistics_company: "보급 지원"
+  logistics_company_short: "보급"
+  logistics_company_desc: "황무지는 기반시설의 골격만 남아 있어 전쟁 전보다 물자를 전선으로 옮기기가 더욱 어렵습니다. 보급 중대를 증설하는 것은 더 큰 군대가 야전되고 제대로 공급될 수 있도록 확실히 도울 것입니다."
+
+  dog_company: "개 지원"
+  dog_company_short: "개"
+  dog_company_desc: "개들은 특히 숲이 우거진 지역에서 이점을 제공하고 전투 중인 다른 곳에서 추가적인 지원을 제공하면서 살육 훈련을 받았습니다."
+
+  anti_tank_company: "대전차 지원"
+  anti_tank_company_short: "대전차"
+  anti_tank_company_desc: "기갑 대상에 대한 적중 및 지원을 제공하기 위해 부대에 제공된 다양한 대전차 무기는 보병 및 기타 연약한 부대에게 차량과 로봇을 생산하지 않고도 저항 할 수있는 기회를 제공합니다."
+
+  medical_chem_company: "의료 화학 지원"
+  medical_chem_company_short: "화학"
+  medical_chem_company_desc: "좋은 사람은 오기 어려운데, 특히 세상이 끝난 후에는 더욱 그렇습니다. 우리 부대에 전문가를 추가하고, 의료 장비를 운반하고, 기본적인 의료 기술을 연습하는 것은 적어도 전쟁터에서 발생하는 손실 중 일부를 줄일 수 있습니다."
+
+  # Support
+  light_ship_unit:0 "가벼운 선박"
+  light_ship_unit_short:0 "LS"
+  light_ship_unit_desc:0 ""
+
+  medium_ship_screen_unit:0 "중형 선박"
+  medium_ship_screen_unit_short:0 "MS"
+  medium_ship_screen_unit_desc:0 ""
+
+  heavy_ship_unit:0 "대형 선박"
+  heavy_ship_unit_short:0 "HS"
+  heavy_ship_unit_desc:0 ""
+
+  super_heavy_ship_unit:0 "초대형 선박"
+  super_heavy_ship_unit_short:0 "SHS"
+  super_heavy_ship_unit_desc:0 ""

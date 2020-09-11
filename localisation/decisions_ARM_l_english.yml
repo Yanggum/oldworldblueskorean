@@ -1,0 +1,13 @@
+﻿l_english:
+  arm_railway_reconstruction_decision_category:0 "철도 재건"
+  arm_rebuild_tampico_station:0 "탐피코 역 재건"
+  arm_extend_tracks_into_la_pesca:0 "라 페스카로 선로 확장"
+  arm_extend_tracks_into_ciudad_valles:0 "시우다드 발레스로 선로 확장"
+  arm_extend_tracks_into_ciudad_victoria:0 "시우다드 빅토리아로 선로 확장"
+  arm_rebuild_reynosa_station:0 "레이노사 역 재건"
+  arm_extend_tracks_into_san_carlos:0 "산 카를로스로 선로 확장"
+  arm_extend_tracks_into_forlorn_slipway:0 "외로운 슬립웨이로 선로 확장"
+  arm_connect_the_northern_and_southern_lines:0 "북부 및 남부 노선 연결"
+  arm_border_wars: "우리의 적에게 압력가하기"
+  arm_border_war_rio: "아마겟돈 역 압박"
+  arm_border_war_rio_desc: "리오는 정말로 역을 뒤집어 엎어버려야합니다. 그곳은 방황하는 레이더 무리로 부터 간신히 방어 할 수 있습니다."

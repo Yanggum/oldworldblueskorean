@@ -1,0 +1,45 @@
+﻿l_english:
+ synthetic_refinery:0 "합성 정제소"
+ synthetic_refinery_plural:0 "합성 정제소"
+ synthetic_refinery_desc:0 "이 건물은 해당 주에 자원을 제공합니다."
+ synthetic_refinery_amount:0 "$VALUE|Y0=$"
+ synthetic_refinery_resource:0 "£resources_strip|$FRAME$"
+
+ modifier_production_speed_synthetic_refinery_factor:0 "§Y정제소§! 건설 속도"
+ modifier_production_speed_synthetic_refinery_factor_desc:0 "건설 속도를 수정합니다."
+
+ water_generator: "정화 구역"
+ water_generator_plural: "정화 구역"
+ water_generator_desc:0 "이 건물은 해당 주에 자원을 제공합니다."
+ water_generator_amount:0 "$VALUE|Y0=$"
+ water_generator_resource:0 "£resources_strip|$FRAME$"
+
+ electricity_generator: "발전소"
+ electricity_generator_plural: "발전소"
+ electricity_generator_desc:0 "이 건물은 해당 주에 자원을 제공합니다."
+ electricity_generator_amount:0 "$VALUE|Y0=$"
+ electricity_generator_resource:0 "£resources_strip|$FRAME$"
+
+ metal_generator: "주조 공장"
+ metal_generator_plural: "주조 공장"
+ metal_generator_desc:0 "이 건물은 해당 주에 자원을 제공합니다."
+ metal_generator_amount:0 "$VALUE|Y0=$"
+ metal_generator_resource:0 "£resources_strip|$FRAME$"
+
+#  fuel_generator: "연료 처리 공장"
+#  fuel_generator_plural: "연료 처리 공장"
+#  fuel_generator_desc:0 "이 건물은 해당 주에 자원을 제공합니다."
+#  fuel_generator_amount:0 "$VALUE|Y0=$"
+#  fuel_generator_resource:0 "£resources_strip|$FRAME$"
+
+#  electronics_generator: "제작 실험실"
+#  electronics_generator_plural: "제작 실험실"
+#  electronics_generator_desc:0 "이 건물은 해당 주에 자원을 제공합니다."
+#  electronics_generator_amount:0 "$VALUE|Y0=$"
+#  electronics_generator_resource:0 "£resources_strip|$FRAME$"
+
+#  advanced_technology_generator: "연구 시설"
+#  advanced_technology_generator_plural: "연구 시설"
+#  advanced_technology_generator_desc:0 "이 건물은 해당 주에 자원을 제공합니다."
+#  advanced_technology_generator_amount:0 "$VALUE|Y0=$"
+#  advanced_technology_generator_resource:0 "£resources_strip|$FRAME$"

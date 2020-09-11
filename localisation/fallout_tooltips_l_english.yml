@@ -1,0 +1,67 @@
+﻿l_english:
+
+ # ideas
+  available_army_chief:0 "§Y육군참모총장§!으로 사용할 수 있습니다: \n"
+ #-------------------------------------
+ # National Focuses
+ #-------------------------------------
+  legion_must_own_hangdog_territory:0 "효과를 얻으려면 §Y행독스§!의 핵심 주를 소유해야 합니다.\n"
+  legion_must_own_twin_mothers_territory:0 "효과를 얻으려면 §Y트윈 마더스§!의 핵심 주를 소유해야 합니다."
+  legion_must_own_two_sun_territory:0 "효과를 얻으려면 §Y투 선§!의 핵심 주를 소유해야 합니다."
+  legion_must_own_baudelio_territory:0 "효과를 얻으려면 §Y보델리오§!의 핵심 주를 소유해야 합니다."
+  legion_must_own_pecos_territory:0 "효과를 얻으려면 §Y페코스 식민지§!의 핵심 주를 소유해야 합니다."
+  legion_must_own_vegas_territory:0 "효과를 얻으려면 §Y뉴 베가스§!의 핵심 주를 소유해야 합니다."
+  legion_must_own_arizona_territory:0 "효과를 얻으려면 §Y애리조나§!의 핵심 주를 소유해야 합니다."
+  legion_must_own_new_mexico_territory:0 "효과를 얻으려면 §Y뉴 멕시코§!의 핵심 주를 소유해야 합니다."
+  legion_must_own_colorado_territory:0 "효과를 얻으려면 §Y콜로라도§!의 핵심 주를 소유해야 합니다."
+
+  legion_mongrels_tt:0 "§Y군단 워독 부대§!3개를 생성합니다. \n"
+  cult_of_nas_tt:0 "§Y차량화 부대§!2개를 생성합니다. \n"
+  demon_servants_tt:0 "§Y특수 작전 보병§!2개를 생성합니다. \n"
+  steelbreakers_tt:0 "§Y스틸브레이커§!를 해금합니다.\n"
+
+  legion_siege_battalion_tt:0 "1개의 §Y폭파 중대§!가 있는 3개의 §R고정§! 공성 사단을 생성합니다."
+  legion_recon_battalion_tt:0 "3개의 §Y프루멘타리 부대§!와 정찰 중대를 생성합니다."
+  legion_chariots_tt:0 "2개의 §Y군단 모터 이륜 전차§! 부대를 생성합니다."
+
+  legion_unlock_shottol_god_of_dogs_tt:0 "§Y사냥개들의 신, 쇼톨§! 해금: §Y개 중대§! 허용 : §G+10%§! 대인 공격력."
+
+  legion_unlock_goddess_diana_tt:0 "§Y여신 다이아나§! 해금: §G+10%§!의 속도 강화율을 부여합니다."
+
+  legion_unlock_caesar_the_godslayer_tt:0 "§Y신살자 시저§! 해금: Grants §G+5%§!의 속도 강화율을 부여합니다."
+
+  legion_unlock_cult_of_nas_tt:0 "§Y나스 추종§! 해금: §Y차량§! 허용 : §G+5%§! 대인 공격력과 §G+10%§! 돌파."
+
+  legion_unlock_cult_of_nas_minor_tt:0 "§Y나스 추종§! 해금: §Y차량§! 허용 : §G+5%§! 돌파."
+
+  legion_unlock_wyatt_the_demon_tt:0 "§Y악마 와이엇§! 해금: §G+10%§! 사단 속도 부여."
+
+  legion_unlock_legion_outlaws_tt:0 "§Y군단 무법자§! 해금: §G+5%§! 사단 속도 부여."
+
+  zetan_landing_tt:0 "제타 로봇 군대가 착륙합니다.\n"
+
+  bosgetvertibirds_tt:0 "형제단은 버티버드 §Y30§!기를 받았습니다. NCR은 §G10§!기를 받았습니다."
+  allgetvertibirds_tt:0 "형제단은 버티버드 §Y20§!기를 받았습니다. NCR은 §G20§!기를 받았습니다."
+  ncrgetvertibirds_tt:0 "형제단은 버티버드 §Y10§!기를 받았습니다. NCR은 §G30§!기를 받았습니다."
+
+ # Flags
+  refused_petition:0 "거부된 청원"
+  accepted_petition:0 "수락된 청원"
+  hoover_dam_lost:0 "후버 댐 패배"
+  hoover_dam_won:0 "후버 댐 승리"
+  battle_for_hoover_dam:0 "후버 댐을 위한 전쟁"
+  legion_chariots:0 "군단 이륜 전차"
+  sided_with_vulpus:0 "선택된 울페스"
+  sided_with_lanius:0 "선택된 라니우스"
+  caesar_survived:0 "시저 생존"
+  sided_with_lucius:0 "선택된 루시우스"
+  no_generic_manufacturer:0 "일반 제조 업체를 허용하지 않습니다"
+  no_generic_advisor:0 "일반 조언자를 허용하지 않습니다"
+  stole_cores:0 "도둑 맞은 정당한 영토"
+
+ #idea tooltips
+  killed_off: "는 살해되지 않았습니다"
+  enclave_return: "도난이 돌아왔습니다"
+ #event OOB tooltips
+  vallebandits_tt:0 "세개의 민병대 군대가 우리를 위해 모입니다!"
+  pazbandits_tt:0 "세개의 민병대 군대가 우리를 위해 모입니다!"

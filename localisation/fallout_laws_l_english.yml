@@ -1,0 +1,17 @@
+﻿l_english:
+  undisturbed_isolation: "방해받지 않는 고립"
+  undisturbed_isolation_desc: "레이더들은 NCR이 가지고있는 땅을 괴롭히지만, NCR 자체는 외부의 실제적 위협으로부터 어느 정도 안전합니다. 결과적으로 산업 생산은 약 절반의 생산 능력으로 이루어지고 있습니다....\n"
+  isolation: "고립"
+  civilian_economy: "민간 경제"
+  low_economic_mobilisation: "조기 동원"
+  partial_economic_mobilisation: "부분 동원"
+  war_economy: "전쟁 경제"
+  tot_economic_mobilisation: "총 동원"
+  # conscription laws
+  disarmed_nation: "무장 해제 국가"
+  volunteer_only: "자원병만"
+  limited_conscription: "제한적 징병"
+  extensive_conscription: "광범위한 징병"
+  service_by_requirement: "필요 복무"
+  all_adults_serve: "모든 성인 복무"
+  scraping_the_barrel: "배럴 긁기"

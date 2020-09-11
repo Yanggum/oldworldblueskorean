@@ -1,0 +1,671 @@
+﻿l_english:
+ # Base
+  support_equipment:0 "지원 장비"
+  support_equipment_desc:0 "각종 물자와 장비로 지원 부대를 갖추어 최전방 부대에 다양한 효과를 제공할 수 있습니다."
+
+  ballistic_equipment:0 "기본 화기"
+  ballistic_equipment_short:0 "기본 화기"
+  ballistic_equipment_desc:0 "병사 개개인과 승무원들에게 총기류뿐만 아니라 군인이 필요로하는 다양한 키트를 제공합니다."
+
+  energy_equipment:0 "에너지 무기"
+  energy_equipment_short:0 "에너지 무기"
+  energy_equipment_desc:0 ""
+
+  melee_equipment:0 "근접 무기"
+  melee_equipment_short:0 "근접 무기"
+  melee_equipment_desc:0 ""
+
+  power_armor_equipment:0 "파워 아머"
+  power_armor_equipment_short:0 "파워 아머"
+  power_armor_equipment_desc:0 ""
+
+  gauss_equipment:0 "가우스 무기"
+  gauss_equipment_short:0 "가우스 무기"
+  gauss_equipment_desc:0 ""
+
+  plasma_equipment:0 "플라즈마 무기"
+  plasma_equipment_short:0 "플라즈마 무기"
+  plasma_equipment_desc:0 ""
+
+  anti_tank_equipment:0 "대전차 무기"
+  anti_tank_equipment_short:0 "대전차 무기"
+  anti_tank_equipment_desc:0 ""
+
+  dogs_equipment:0 "개"
+  dogs_equipment_short:0 "개"
+  dogs_equipment_desc:0 ""
+
+  fireteam_equipment:0 "공격대 무기"
+  fireteam_equipment_short:0 "공격대 무기"
+  fireteam_equipment_desc:0 ""
+
+  demolitions_equipment:0 "파괴 무기"
+  demolitions_equipment_short:0 "파괴 무기"
+  demolitions_equipment_desc:0 ""
+
+  motorized_equipment:0 "기동 차량"
+  motorized_equipment_short:0 "기동 차량"
+  motorized_equipment_desc:0 ""
+
+  apc_equipment:0 "기갑 수송 차량"
+  apc_equipment_short:0 "APC"
+  apc_equipment_desc:0 ""
+
+  behemoth_equipment:0 "베히모스"
+  behemoth_equipment_short:0 "베히모스"
+  behemoth_equipment_desc:0 ""
+
+  fighter_equipment:0 "전투기"
+  fighter_equipment_short:0 "전투기"
+  fighter_equipment_desc:0 ""
+
+  cas_equipment:0 "근접 항공 지원기"
+  cas_equipment_short:0 "CAS"
+  cas_equipment_desc:0 ""
+
+  strategic_bomber_equipment:0 "폭격기"
+  strategic_bomber_equipment_short:0 "폭격기"
+  strategic_bomber_equipment_desc:0 ""
+
+  blimp_equipment:0 "비행선"
+  blimp_equipment_short:0 "비행선"
+  blimp_equipment_desc:0 ""
+
+  cargo_plane_equipment:0 "화물 수송기"
+  cargo_plane_equipment_short:0 "화물 수송기"
+  cargo_plane_equipment_desc:0 ""
+
+ # Ballistic Equipment
+  ballistic_equipment_1:0 "기본 무기"
+  ballistic_equipment_1_short:0 "기본 무기"
+  ballistic_equipment_1_desc:0 "우리 군대를 재무장하는 것은 우리의 공격 효과를 향상시키는 데 있어 큰 도움이 됩니다. 이를 위해 5.56mm 볼트 액션 소총으로 구성된 신형 보병 키트를 개발했는데, 중장거리 교전에 적합한 양철통 수류탄, 고철 헬멧, 날붙이 뿐만 아니라 유사시에 쓸수있는 .22LR 파이프 권총도 동봉했습니다."
+
+  ballistic_equipment_2:0 "일반적인 무기"
+  ballistic_equipment_2_short:0 "일반적인 무기"
+  ballistic_equipment_2_desc:0 "일단 반자동 전투 소총으로 업그레이드되면 아군은 제대로 된 전투부대가 될 수 있습니다. 다이너마이트, 전투용 헬멧, 플라크 재킷, 단검, 그리고 비상용 9mm 휴대무기 모두 우리 군인들이 다양한 전투 상황에 훨씬 더 잘 대처할 수 있게 해줍니다."
+
+  ballistic_equipment_3:0 "고급 무기"
+  ballistic_equipment_3_short:0 "고급 무기"
+  ballistic_equipment_3_desc:0 "선택 사격 소총은 아군이 공격할 수 있는 사거리내에 화력의 양을 증가시켜, 진압 전술과 집중 사격을 허용합니다. 순간 사격용 휴대 무기와 함께 공격용 수류탄을 사용하면 건물을 더 쉽게 정리할 수 있으며 방탄 조끼와 전투용 나이프로 개개인을 보호 할 수 있습니다."
+
+  ballistic_equipment_4:0 "엘리트 무기"
+  ballistic_equipment_4_short:0 "엘리트 무기"
+  ballistic_equipment_4_desc:0 "맞춤 탄약과 신형 돌격 소총의 정밀 부품이 결합되어 아군은 전례 없는 수준의 화력을 발휘할 수 있습니다. 휴대 무기의 반동 보정기, 리퍼로 변형 가능한 컴뱃 나이프, 고성능 수류탄 및 방탄 갑옷과 함께 황무지에서 가장 진보 된 개인 장비입니다."
+
+ # Energy Equipment
+  energy_equipment_1:0 "기본 레이저 무기"
+  energy_equipment_1_short:0 "기본 레이저 무기"
+  energy_equipment_1_desc:0 "레이저 무기는 탄도 무기의 흥미로운 대안품입니다. 단단한 목표물에 대한 더 나은 능력을 가지고 있지만 더 높은 비용으로 그것들을 우리 군에서 매우 유용할 수 있습니다. 수제 에너지 머스킷, 레이저 리볼버 권총, 마이크로퓨전 폐기물 수류탄, 놋쇠 너클, 고가시성 용접 헬멧, 열 관리 장비로 구성된 기본 키트가 이 새로운 가능성을 여는 첫 번째 시도입니다."
+
+  energy_equipment_2:0 "일반적인 에너지 무기"
+  energy_equipment_2_short:0 "일반적인 에너지 무기"
+  energy_equipment_2_desc:0 "전쟁 전 무기 설계에 대한 더 많은 통찰력을 얻은 우리는 더 나은 스펙으로 새로운 에너지 키트를 만들 수 있습니다. 반자동 레이저 소총, AEP7 휴대용 무기, 급조된 MFC 수류탄, 기본적인 금속 갑옷은 우리가 더 쉽게 위협들을 처리할 수 있게 해줍니다. 반면에 접촉 방전기는 CQC용으로 남겨져 있습니다."
+
+  energy_equipment_3:0 "고급 에너지 무기"
+  energy_equipment_3_short:0 "고급 에너지 무기"
+  energy_equipment_3_desc:0 "우리의 연구 능력은 우리의 키트가 기반한 전쟁 전의 기술도 향상시킬 수 있게 해줍니다. 과충전되고 특수 제작된 MFC 수류탄은 폭발력을 높이고, 완전 자동 레이저 소총은 우리의 대인 공격력을 향상시키며, 복합 합금 갑옷은 아군의 사상자를 줄여줄 것입니다."
+
+  energy_equipment_4:0 "펄스 에너지 무기"
+  energy_equipment_4_short:0 "펄스 에너지 무기"
+  energy_equipment_4_desc:0 "전쟁 전 프로토타입보다 효율성이 향상되었으며, 축적된 마이크로퓨전 발사 챔버를 통해 얻은 이 펄스 무기는 다른 국가의 군사력에 비해 상당한 이점을 제공합니다. 플라즈마 수류탄과 유선 합금 갑옷은 양성자 전투칼과 함께 미국이 아니더라도 황무지 전체에서 가장 발달된 보병용 키트입니다!"
+
+ # Melee Equipment
+  melee_equipment_1:0 "기본 근접 무기"
+  melee_equipment_1_short:0 "기본 근접 무기"
+  melee_equipment_1_desc:0 "단순한 무딘 무기는 더 나은 체력 훈련과 함께 총기 제조 보다 더 저렴한 해결책이며, 적진을 압도할 수 있도록 우리의 능력을 향상시킵니다. 비록 우리가 효과적으로 위치를 방어할 수 없고, 단단한 목표물을 손상시킬 수 있는 능력은 부족하지만, 이것은 대부분의 부족 국가들을 패배시킬 수 있게 해줄 것입니다."
+
+  melee_equipment_2:0 "날카로운 근접 무기"
+  melee_equipment_2_short:0 "날카로운 근접 무기"
+  melee_equipment_2_desc:0 "우리의 조잡한 무딘 무기를 고철로 된 가슴판 뿐만 아니라 무게 있는 마체테로 대체함으로써, 우리 군대는 가까운 곳에서의 전투에서 적의 위치를 따라잡는 것과 함께 적과의 거리를 훨씬 더 쉽게 좁힐 수 있게 해 줍니다. 갑옷의 무게도 거의 느끼지 않고 움직일 수 있도록 체력훈련이 다시 개선됩니다."
+
+  melee_equipment_3:0 "맹렬한 근접 무기"
+  melee_equipment_3_short:0 "맹렬한 근접 무기"
+  melee_equipment_3_desc:0 "해머는 점령된 건물에 침입할 가능성과 함께 적 장갑에 대한 우리 군의 향상된 능력을 제공합니다. 이것은 무기고에 발리스틱 피스트를 추가하여 보완되며 20 게이지, 이중 배럴, 손목 장착 샷건의 형태로 원거리 화력을 측정합니다."
+
+  melee_equipment_4:0 "전력 강화 무기"
+  melee_equipment_4_short:0 "전력 강화 무기"
+  melee_equipment_4_desc:0 "파워 피스트와 같이 더 가볍고 강한 무기는 전투 중 부대의 속도를 높이고 강렬한 근거리 전투 중에 느끼는 피로를 줄이면서 완전하고 강화 된 금속 갑옷은 전투에서 그들을 완벽하게 보호합니다. 병력에게 방어용 수류탄을 제공하고 12게이지 슬러그와 반동 메커니즘으로 발리스틱 피스트를 향상시켜 더 멀리서 적을 공격할 수 있습니다."
+ # spec ops Armour
+
+ spec_ops_equipment_1:0 "부족 정찰병 키트"
+ spec_ops_equipment_1_short:0 "정찰병 키트"
+ spec_ops_equipment_1_desc:0 "가죽 갑옷과 함께 초보적인 배낭, 가죽 칼, 기본 생존 장비 등이 부족 정찰대의 표준 키트를 이루고 있습니다."
+
+ spec_ops_equipment_2:0 "개척자 키트"
+ spec_ops_equipment_2_short:0 "개척자 키트"
+ spec_ops_equipment_2_desc:0 "금속 장갑, 표준화된 데이팩, 참호 설치 도구, 캠핑 장비 및 견고한 표준 장비의 변형으로 인해 우리의 전방 부대는 현장에서 더욱 유연해집니다."
+
+ spec_ops_equipment_3:0 "정찰 팀 키트"
+ spec_ops_equipment_3_short:0 "정찰 키트"
+ spec_ops_equipment_3_desc:0 "전투 장갑, 표준화된 캠핑 장비, 쌍안경, 그리고 무기들에 대한 정찰 지향적인 개조 등은 우리의 전문 전방 부대들이 그들의 일을 훨씬 더 능숙하게 해 줍니다."
+
+ spec_ops_equipment_4:0 "특수 부대 키트"
+ spec_ops_equipment_4_short:0 "특수 부대 키트"
+ spec_ops_equipment_4_desc:0 "특수화된 장갑차 모델, 첨단 무기 개조, 더 나은 적재 장비, 그리고 탄도 웨이브 사용은 우리 최정예 부대의 효과를 높여줍니다."
+
+ spec_ops_equipment_5:0 "고급 특수 부대 키트"
+ spec_ops_equipment_5_short:0 "고급 키트"
+ spec_ops_equipment_5_desc:0 "전쟁 전 특수부대 장비와 첨단 장비, 맞춤형 무기, 우리 정찰병들을 위한 개조품들. 첨단 장비와 생존 지향적인 장비들이 한데 어우러져 중량 배분이 가능한 최고의 장비를 만들어냅니다."
+
+ # Power Armour
+ power_armor_equipment_1:0 "고철 파워 아머"
+ power_armor_equipment_1_short:0 "고철 파워 아머"
+ power_armor_equipment_1_desc:0 "파워 아머의 슈트는 서보를 벗겨 냈으며 때로는 부피가 큰 초보적인 보강으로 정규군의 유니폼에 부착하기도 합니다. 가장 가벼운 전투 및 훈련 연습 외에는 매우 비효율적입니다."
+
+ power_armor_equipment_2:0 "발굴된 파워 아머"
+ power_armor_equipment_2_short:0 "발굴된 파워 아머"
+ power_armor_equipment_2_desc:0 "가난한 사람의 파워 아머는 종종 예비 부품과 깨진 조각으로 만들어 졌습니다. 일반 적인 T-45d만큼 효과적이지는 않지만 닳고 닳은 것보다는 훨씬 우수합니다."
+
+ power_armor_equipment_3:0 "T-45d 파워 아머"
+ power_armor_equipment_3_short:0 "T-45d 파워 아머"
+ power_armor_equipment_3_desc:0 "T-45d는 앵커리지 개척 기간 동안 알래스카에서 큰 효과를 거두기 위해 2067 년에 처음 배치되었지만 운영 과정에서 결함을 보이기 시작했습니다. 완벽하지는 않지만 T-45d는 비교적 저렴하고 효과적인 중무기 플랫폼으로 자리 매김했습니다."
+
+ power_armor_equipment_3_light:0 "T-45d 복합품"
+ power_armor_equipment_3_light_short:0 "T-45d 복합품"
+ power_armor_equipment_3_light_desc:0 "가벼운 구조, 더 빠른 생산 및 더 나은 전체 중복성을 위해 무장과 NBC 밀봉을 교환하는 실험 설계. 현장에서 일반 T-45d만큼 탄력적이지는 않지만 복합 구조로 인해 훨씬 빠르고 쉽게 이동할 수 있습니다."
+
+ power_armor_equipment_4:0 "T-51b 파워 아머"
+ power_armor_equipment_4_short:0 "T-51b 파워 아머"
+ power_armor_equipment_4_desc:0 "전쟁 전 파워 아머의 왕. 디자인과 재료의 개선은 2076 년에 이 파워 아머가 처음 전투에 배치되었을 때 중국 침략군과의 싸움에서 대단한 일을했다는 것을 의미했습니다. 전쟁이 끝난 후에도 T-51b 파워 아머는 계속해서 전후 디자인에 의해 능가되는 훌륭한 기능을 수행합니다."
+
+ power_armor_equipment_4_light:0 "T-51c 기동 파워 아머"
+ power_armor_equipment_4_light_short:0 "T-51c 기동 파워 아머"
+ power_armor_equipment_4_light_desc:0 "T-45d와 매우 유사하게 T-51c는 장갑이 약간 적지만 모체 디자인보다 다소 빠르게 설계되었습니다. 대부분의 황무지에서는 비교적 드물지만, 대전이 일어나기 전 캐나다의 부속 건물에서 광범위하게 사용되었으며, 오늘날까지 냉동된 전 점령 지역에 걸쳐 아직 열리지 않은 미국 벙커에 많은 아머들이 보존되어 있습니다."
+
+ power_armor_equipment_5:0 "T-51b 강화된 파워 아머"
+ power_armor_equipment_5_short:0 "T-51b PA 강화된 파워 아머"
+ power_armor_equipment_5_desc:0 "전기로 강화된 코팅 아머와 진보된 세라믹 도금, 전쟁 전의 모든 매력과 우아함이 전쟁 후의 군의 필요를 염두에 두고 재설계되었습니다."
+
+ enclave_power_armour_equipment_1:0 "고급 파워 아머"
+ enclave_power_armour_equipment_1_short:0 "APA"
+ enclave_power_armour_equipment_1_desc:0 "미국 정부의 생존자 엔클레이브에 의해 폭탄이 떨어진 후 설계되었으며, 2220년에 기동을 시작했으며, 이전에 개발된 파워 아머에 비해 훨씬 우월한 것으로 판명되었습니다."
+
+ enclave_power_armour_equipment_2:0 "고급 파워 아머 MKII"
+ enclave_power_armour_equipment_2_short:0 "APA MKII"
+ enclave_power_armour_equipment_2_desc:0 "이전 버전 이후 수십 년 동안 개발 된 고급 파워 아머 MKII는 아쉬웠던 아머의 기량을 더욱 향상시켰습니다. 더 강력한 세라믹과 완전한 복합 빌드와 함께 수많은 사소한 개선으로 이 디자인은 더 가벼운 디자인에도 불구하고 더 나은 결과를 얻을수 있었습니다."
+
+ # Unique Infantry guns
+  gauss_equipment_1:0 "즉석 매스 드라이버"
+  gauss_equipment_1_short:0 "매스 드라이버"
+  gauss_equipment_1_desc:0 ""코일 건"이라고도하는 가우스 소총은 전자기 유도 과정을 통해 강자성 발사체를 가속시켜 추진하는 데 사용되는 장치입니다."
+
+  gauss_equipment_2:0 "M72 가우스 소총"
+  gauss_equipment_2_short:0 "M72 가우스 소총"
+  gauss_equipment_2_desc:0 "M72 소총은 독일의 디자인에서 왔습니다. 전자기장을 사용하여 엄청난 속도로 회전을 추진하고 거의 모든 방어벽을 뚫습니다. 그 범위, 정확성 및 정지 전력은 거의 타의 추종을 불허합니다."
+
+  plasma_equipment_1:0 "윈체스터 P94 플라즈마 소총"
+  plasma_equipment_1_short:0 "플라즈마 소총"
+  plasma_equipment_1_desc:0 "윈체스터 모델 P94 플라즈마 소총. 초전도 배럴 아래로 과열 된 플라즈마 볼트를 발사하는 산업 등급의 에너지 무기로 대부분의 갑옷을 완전히 녹일 수 있습니다. 미세 융합 전지로 구동되는 이 소형 소총은 병력에게 상당한 화력을 제공합니다."
+
+  plasma_equipment_2:0 "윈체스터 P94T 터보 플라즈마 소총"
+  plasma_equipment_2_short:0 "터보 플라즈마 소총"
+  plasma_equipment_2_desc:0 "수정 된 윈체스터 P94 플라즈마 소총은 핫 와이어 플라즈마 볼트 챔버로 업그레이드되어 볼트 형성을 가속화했습니다."
+
+ # Fireteam weapons
+  fireteam_equipment_1:0 "임시 분대 자동 화기"
+  fireteam_equipment_1_short:0 "M SAW"
+  fireteam_equipment_1_desc:0 "단순한 금속과 고철 부품을 간단한 천 탄띠로 만든 임시 기관총으로 중간 카트리지를 발사하고, 공격이나 방어를 할 때 아군에게 자동 화력을 지원 합니다. 우리 SAW 팀들은 가능한 한 빨리 더 나은 무기를 요청했습니다. 이 무기는 필요 이상으로 무겁고, 과열 시 배럴을 바꿀 수 없으며, 주기율도 낮기 때문입니다."
+  ballistic_fireteam_equipment_2:0 "경 기관총"
+  ballistic_fireteam_equipment_2_short:0 "LMG"
+  ballistic_fireteam_equipment_2_desc:0 "이 경 기관총은 레이저 무기보다 안정적이고, 생산하기 쉬우며, 대인 목표물에 대해 더 효과적입니다. 이 경 기관총은 이전 모델보다 많은 향상된 기능을 갖추고 있습니다. 업그레이드에는 빠른 변경용 배럴, 금속 벨트, 더 나은 추출 메커니즘, 그리고 롤러 잠금식 설계로 인해 주기율 향상 등이 포함됩니다."
+  ballistic_fireteam_equipment_3:0 "중 기관총"
+  ballistic_fireteam_equipment_3_short:0 "HMG"
+  ballistic_fireteam_equipment_3_desc:0 "대구경 탄약을 사용하는 중 기관총으로,이 무기는 양각대에서 발사되도록 설계되었으며, 경량 구조로 적의 진격을 대비해 빠르게 대처할 수 있습니다. 총구 부스터 장치, 공기 흐름 개선 및 움직이는 부품 감소를위한 개방형 볼트, 지속적인 벨트 공급 개선을 통해 대인 타겟에 매우 효과적입니다."
+  ballistic_fireteam_equipment_4:0 "미니건"
+  ballistic_fireteam_equipment_4_short:0 "미니건"
+  ballistic_fireteam_equipment_4_desc:0 "회전식 무기는 전례없는 발사 속도를 허용하는 반면, 이송, 조준 지원 시스템 및 포팅 배럴은 정확성을 향상시킵니다. 우리의 기관총 팀은 일반 병사들이 다루기에는 너무 무겁기 때문에 강도를 높이는 외골격을 운영 할 수 있도록 고급 훈련을 받았고,이 거대한 무기를 운반 할 수있게 되어 발사하는 동안 운반도 할 수 있게 하는, 사전 훈련을 받습니다."
+  energy_fireteam_equipment_2:0 "무거운 축전기 무기"
+  energy_fireteam_equipment_2_short:0 "H-RCW"
+  energy_fireteam_equipment_2_desc:0 "H-RCW는 금속 갑옷을 깨끗하게 폭파할 수 있을 만큼 강력한 볼트를 발사하기 때문에 단단한 표적에 대한 성능이 우수합니다. 과열된 무기의 적절한 취급과 에너지 전지 재장전 등 레이저 특수성을 훈련함으로써 우리 장병들은 부드럽거나 단단한 표적을 효과적으로 상대할 무기를 능숙하게 사용할 수 있게 되었습니다."
+  energy_fireteam_equipment_3:0 "개틀링 레이저"
+  energy_fireteam_equipment_3_short:0 "개틀링 레이저"
+  energy_fireteam_equipment_3_desc:0 "각 배럴이 적층된 마이크로퓨전 셀로부터 공급되는 회전식 렌즈 디자인으로 내부 냉각 및 정밀도를 향상시키는 동시에 더 많은 공격을 허용합니다. 전통적인 급탄 시스템이 부족해서 일반 군인들이 다룰 수 있을 만큼 가벼워졌지만, 우리는 합리적으로 무기를 운반할 수 있는 것의 한계에 부딪치기 시작하고 있습니다. 그리고 우리의 앞으로의 연구는 이 사실을 고려해야 합니다."
+  energy_fireteam_equipment_4:0 "테슬라 캐논"
+  energy_fireteam_equipment_4_short:0 "테슬라 캐논"
+  energy_fireteam_equipment_4_desc:0 "원래 대전차 무기였던 이 테슬라 캐논은 소형 집중 배열과 빠른 방전 전자 팩을 설치하여 기관포에 가깝게 개조되었습니다. 유일한 단점으로는 발사 속도가 느리다는것이 있습니다. 하지만 각 발사체의 순수한 충격은 모든 사람들이 머리를 숙이는 동시에 기존의 방탄복에 깨끗한 구멍을 뚫을 수 있는 충분한 관통 능력을 보유하게 될 것입니다."
+
+ # Demolitions Equipment
+  demolitions_equipment_1:0 "다이너마이트"
+  demolitions_equipment_1_short:0 "다이너마이트"
+  demolitions_equipment_1_desc:0 "2,4,6-트리니트로톨루엔, 점토, 스태빌라이저는 퓨즈가 달린 마분지 튜브에 채워졌습니다. 간단하지만 효과적인 광산 채굴, 채석용 도구입니다. 그리고 더 효과적인 것은 사람들을 천국으로 날려 보내는 것입니다."
+  flamer_demolitions_equipment_2:0 "화염 방사기"
+  flamer_demolitions_equipment_2_short:0 "화염 방사기"
+  flamer_demolitions_equipment_2_desc:0 "화염 방사기는 가스 투사 시스템을 사용하여 가연성 액체를 배출한 후 주둥이의 끝에 있는 작은 불꽃에 의해 점화됩니다. 말할 것도없이, 불타는 유체의 흐름은 삼키지 않아야합니다."
+  flamer_demolitions_equipment_3:0 "소각기"
+  flamer_demolitions_equipment_3_short:0 "소각기"
+  flamer_demolitions_equipment_3_desc:0 "소각기는 화염 방사기보다 훨씬 더 까다로운 상대입니다. 일정한 저압 증기를 보내는 대신 의도 한 목표물에서 직접 연소하는 액체 방울을 발사하기 위해 증기를 형성합니다. 종종 상당한 시간 동안 불을 붙일 수 있습니다."
+  flamer_demolitions_equipment_4:0 "중형 소각기"
+  flamer_demolitions_equipment_4_short:0 "중형 소각기"
+  flamer_demolitions_equipment_4_desc:0 "중형 소각기는 소각기가 하는 일을 하지만 더욱 무겁습니다. 이 무기는 더 크고 다루기 조금 더 어려운 것으로 작동 압력이 훨씬 더 높아져 범위가 넓어지고 파괴력이 증가합니다."
+  explosive_demolitions_equipment_2:0 "파편 수류탄"
+  explosive_demolitions_equipment_2_short:0 "파편 수류탄"
+  explosive_demolitions_equipment_2_desc:0 "공격용 수류탄과 방어용 수류탄이 혼합되어 우리의 공병이 의도 한 철거 역할에 더 효과적입니다. 파괴된 폭발물과 부수적인 폭발은 더 나은 보호를 필요로 하기 때문에, 우리 엔지니어들은 강화된 헬멧과 강철 갑옷을 갖추고 있으며, 던지기 범위를 개선하기 위한 체력 훈련도 받고 있습니다."
+  explosive_demolitions_equipment_3:0 "수류탄 소총"
+  explosive_demolitions_equipment_3_short:0 "수류탄 소총"
+  explosive_demolitions_equipment_3_desc:0 "추진제와 충격 퓨즈가있는 폭발물을 포함하는 고정식 쉘 케이싱을 사용하면 사정거리가 상당히 증가 된 범위로 수류탄을 쏠 수 있습니다. 이를 통해 간접적인 화재를 일으키거나 강화 위치에 폭발물을 내리거나 고경량 버클샷을 사용하여 강철 베어링으로 넓은 영역을 쓸어버릴 수 있습니다."
+  explosive_demolitions_equipment_4:0 "수류탄 기관총"
+  explosive_demolitions_equipment_4_short:0 "수류탄 기관총"
+  explosive_demolitions_equipment_4_desc:0 "벨트 급지 장치와 디지털 데이터 화면 및 레이저 거리계와 함께 무거운 기관총을 발사하는 자동 기관총은 우리의 공병들이 적군의 정확한 범위를 신속하게 얻을 수 있도록합니다. 이를 통해 목표를 조정하고 강화된 폭발물을 발사 할 수 있으며 간접적인 사격도 가능합니다."
+
+ # Dog
+  dogs_equipment_1:0 "훈련된 잡종견"
+  dogs_equipment_1_short:0 "훈련된 잡종견"
+  dogs_equipment_1_desc:0 "현재 방사능에 노출되어 굶주리고 있는 인간의 가장 친한 친구는 여전히 순찰대뿐만 아니라 효과적인 교전부대를 만들수도 있습니다. 음식과 의료로 그들의 신뢰를 다시 얻는 것은 우리가 그들을 다시 번식시킬 수 있게 해줄 것입니다. 가벼운 공격 훈련으로 대인 공격에 잘 맞으며, 섬세한 후각으로 정찰 임무도 수행할 수 있습니다."
+
+  dogs_equipment_2:0 "순혈견"
+  dogs_equipment_2_short:0 "훈련된 개"
+  dogs_equipment_2_desc:0 "이제 더 높은 수준으로 자라났고, 더 높은 수준의 의료 서비스를 제공받아, 이 개들은 대부분 치아뿐만 아니라 원래의 털도 되찾았습니다. 태어날 때부터 선택적으로 번식하고 훈련하면 이전 공격견보다 더 오래 지속되고 빠르게 번식할 수 있습니다.요청에 따라, 퇴역한 개들은 선별된 민간인과 비번 군인에 의해 관리됩니다."
+
+  dogs_equipment_3:0 "사이버독"
+  dogs_equipment_3_short:0 "사이버독"
+  dogs_equipment_3_desc:0 "업그레이드 된 K9 유닛을 위한 전쟁전 청사진과 함께 2세대 사이버네틱 발전을 통해 공격견을 사육하고 수정하여 예리한 감각을 가진 격렬한 전투 기계가 될 수 있습니다. 그들의 물리적 능력은 금속 턱, 날카로워진 합금 이빨, 갑옷 강화 및 뇌가 보호되는 방탄 돔으로 이동함으로써 더욱 향상됩니다."
+
+ # Robot
+  robot_equipment:0 "로봇 장비"
+  robot_equipment_short:0 "로봇 장비"
+  robot_equipment_desc:0 ""
+
+  support_robot_equipment:0 "지원 로봇"
+  support_robot_equipment_short:0 "지원 로봇"
+  support_robot_equipment_desc:0 ""
+
+  combat_robot_equipment:0 "전투 로봇"
+  combat_robot_equipment_short:0 "전투 로봇"
+  combat_robot_equipment_desc:0 ""
+
+  support_robot_scrap_equipment:0 "쓰레기 봇"
+  support_robot_scrap_equipment_short:0 "쓰레기 봇"
+  support_robot_scrap_equipment_desc:0 "추적 추진 시스템, 2개의 저구경 기관총, 그리고 민감한 부품을 덮고 있는 금속 껍데기, \"쓰레기 봇\"은 여전히 충격 기병 또는 장갑 방패의 형태로 전술적 이점을 제공합니다 우리의 군대는 공격 중에 뒤처 질 수 있습니다."
+
+  support_robot_handy_equipment:0 "미스터 핸디"
+  support_robot_handy_equipment_short:0 "미스터 핸디"
+  support_robot_handy_equipment_desc:0 "전쟁 전의 가정부들은 황무지의 많은 곳에서 발견될 수 있지만, 그들은 대부분의 어린이 생일 파티에 필요한 것보다 훨씬 더 많은 화력을 가지고 있을지도 모릅니다. 민간급 포탄을 보완하는 볼트 온 갑옷과 함께 화염방사기를 제거하고 레이저 권총으로 대체하는 등 보다 쉽게 개조할 수 있는 효과적인 전투부대가 되고 있습니다."
+
+  support_robot_gutsy_equipment:0 "미스터 것시"
+  support_robot_gutsy_equipment_short:0 "미스터 것시"
+  support_robot_gutsy_equipment_desc:0 "전투용으로 명시적으로 제작된 전쟁전 보다 진보된 미스터 핸디는 우리의 로봇 부서를 업그레이드하는 동시에 가계 형제를 기반으로 비용을 절감할 수 있습니다. 그리고 청사진에서 발견된 원래의 사양을 만들 수는 없지만, 우리는 여전히 그들에게 자동 레이저 무기뿐만 아니라 강화 강철 장갑판을 제공할 수도 있습니다."
+
+  support_robot_eyebot_equipment:0 "듀라프레임 아이봇"
+  support_robot_eyebot_equipment_short:0 "아이봇"
+  support_robot_eyebot_equipment_desc:0 "원래 이동용 미디어 송신기로 디자인된 아이봇은 청취 초소, 정찰대, 법 집행대로 활동하기 위해 무기를 다시 장착한 경우가 많았습니다. 듀라프레임 모양의 강철 장갑은 물론, 절단된 레이저 기관총으로 무장할 수 있어, 우리가 배치할 수 있는 가장 진보된 소형 로봇으로 만들어졌습니다."
+
+  support_robot_protectron_equipment_1:0 "상업용 프로텍트론"
+  support_robot_protectron_equipment_1_short:0 "프로텍트론 Mk I"
+  support_robot_protectron_equipment_1_desc:0 "번거로운 외관과 무거운 디자인으로 인해 \"다리달린 쓰레기통\" 이라고 불리는 민간 프로텍트론은 여전히 주요 부대를 위해 유용한 방패를 만들 수 있습니다.가벼운 강철과 연약한 몸체를 교체하고 최근에 개발된 팔 장착 레이저 권총에 과충전 탄약을 공급하면 이 역할에서 잠재력을 극대화합니다."
+
+  support_robot_protectron_equipment_2:0 "경찰 프로텍트론"
+  support_robot_protectron_equipment_2_short:0 "프로텍트론 Mk II"
+  support_robot_protectron_equipment_2_desc:0 "보안용 프로텍트론은 롭코가 경경 근무를 위해 제조한 첨단 로봇의 라인입니다. \"고급\"은 상대적인 용어이지만, 팔에 장착 된 무기를 위해 더 나은 틀을 추가하고 오래된 레이저 권총을 에너지 기관단총으로 교체하는 것으로 무시 무시한 화력을 뽐낼수 있습니다. 마지막 개조는 방탄 쉘을 보완하기 위한 일련의 볼트 식 도금입니다."
+
+  combat_robot_lifter_equipment:0 "중형 리프터 봇"
+  combat_robot_lifter_equipment_short:0 "중형 리프터 봇"
+  combat_robot_lifter_equipment_desc:0 "병참 임무를 위해 고안된 이 무거운 로봇은 무시무시한 최전방 전투기계로 개조될 수 있습니다. 엔지니어들은 이미 두꺼운 산업용 쉘로 덮여 있지 않은 약한 부분에 알로이 플래팅을 볼트로 고정시키고, 보호되는 무기 마운트로 리프팅 클로를 교체하는 등 이미 수많은 개조 작업을 하고 있습니다. 이것은 우리가 이 로봇들을 광선 발사기와 전신 레이저 기관총으로 무장시킬 수 있게 해줍니다."
+
+  combat_robot_sentry_equipment_1:0 "센트리 봇 Mk I"
+  combat_robot_sentry_equipment_1_short:0 "센트리 봇 Mk I"
+  combat_robot_sentry_equipment_1_desc:0 "다방향 3륜 추진 시스템에 산더미 같이 두꺼운 장갑이 있으면 센트리 봇 Mark 1이 됩니다. 기본 군사 설계는 거의 변경될 것이 없으며, 유일하게 수정된 것은 전쟁 전의 로켓 발사기와 새로 제조된 변종 게틀링 레이저로 교체하는 것입니다."
+
+  combat_robot_sentry_equipment_2:0 "센트리 봇 Mk II"
+  combat_robot_sentry_equipment_2_short:0 "센트리 봇 Mk II"
+  combat_robot_sentry_equipment_2_desc:0 "훈련과 실제 전투를 통해 배운 교훈은 어떤 최전방 임무에도 적합한 중형 로봇 기술로 전 세계 불가사의인 센트리 봇 Mark 2에 모두 적용될 수 있습니다. 이 버전은 여러 무기를 선택하면서, 두 개의 고출력 레이저 체인건으로 무장되어 대인 목표물을 섬멸하는 데 초점을 맞추고 있는 반면, 핵심 동력을 이용해 높은 주기율과 결합하면 가벼운 장갑의 적을 몇 초 안에 녹일 수 있습니다."
+
+  combat_robot_assaultron_equipment:0 "롭코 어썰트론"
+  combat_robot_assaultron_equipment_short:0 "어썰트론"
+  combat_robot_assaultron_equipment_desc:0 "최전방 전투 및 CQC 운영을 위해 설계된 중형 로봇인 이 로봇은 민첩성과 첨단 내장 프로세서가 집중된 레이저 빔과 4분의 1 클로로 위협을 스캐닝하고 전투를 하는 동안 전장을 빠르게 이동할 수 있도록 해 줍니다."
+
+  combat_robot_securitron_equipment_1:0 "롭코 시큐리트론 Mk I"
+  combat_robot_securitron_equipment_1_short:0 "시큐리트론 Mk I"
+  combat_robot_securitron_equipment_1_desc:0 "어려운 작동 영역에서 경찰의 임무를 위해 제작된 사설 보안 로봇, 모노힐 추진 시스템과 완전히 용접된 티타늄 합금 쉘은 순찰을 할 때 발견되는 전형적인 소형 팔과 대비하여 우수한 기동성을 제공합니다. 한편, 9mm 서브 머신건과 X-25 개틀링 레이저 권총을 장착한 팔은 근접 전투 시나리오도 다룰 수 있습니다."
+
+  combat_robot_securitron_equipment_2:0 "롭코 시큐리트론 Mk II"
+  combat_robot_securitron_equipment_2_short:0 "시큐리트론 Mk II"
+  combat_robot_securitron_equipment_2_desc:0 "OS 업데이트를 통해 손상된 구성 요소의 진단 및 전장 유지보수를 위한 온보드 자동 수리 시스템을 사용할 수 있으며, 숨겨진 무기에 액세스할 수 있습니다. 시큐리트론 Mark 2는 이제 자동 수류탄 발사기와 살포 로켓 발사기로 적의 위협을 추적하고 공격할 수 있는 처리 능력을 갖게 되었습니다. 그래서 순찰부대는 견고한 최전방 전투 기계로 탈바꿈하게 됩니다"
+
+  combat_robot_robobrain_equipment:0 "롭코 로보브레인"
+  combat_robot_robobrain_equipment_short:0 "로보브레인"
+  combat_robot_robobrain_equipment_desc:0 "경화 합성 플래팅과 통합 레이저 대포를 사용하여 2피스 용접 프레임에 추적된 섀시가 우리의 로보브레인 설계의 기초를 형성합니다. 마지막 개조는 완전히 무균처리된 방탄 유리 돔입니다. 처형된 범죄자의 뇌나 특히 기꺼이 죽음의 기계가 되고자 하는 군인들의 두뇌를 포함하고 있습니다. 이 돔은 그들이 즉각적으로 위협에 반응할 수 있게 하고 매우 효율적이게 합니다."
+
+  support_robot_scurry_equipment:0 "거미 봇"
+  support_robot_scurry_equipment_short:0 ""
+  support_robot_scurry_equipment_desc:0 "지하 매복 및 근거리 전투용으로 설계된 소형 로봇인 이 기계식 거미는 날카로운 다리와 지진 센서를 갖추고있어 배회 중 표면 목표물을 감지합니다. 그들이 위협을 가하는 끔찍한 방식과 그들의 발톱을 살포하는 방식이 그들을 가볍게 장갑된 적 차량으로 파고들게 하는 방법의 효과에 대해 거의 의심의 여지가 없습니다.
+"
+
+  support_robot_humanoid_equipment:0 "C-22 휴머노이드 전투 플랫폼"
+  support_robot_humanoid_equipment_short:0 ""
+  support_robot_humanoid_equipment_desc:0 "핵폭발 이후의 황무지를 평정하기 위해 거대한 전쟁 전에 고안된 이족 보행 로봇들은 다양한 범위의 스캐닝을 통해 목표물을 식별할 수 있는 정교한 센서 네트워크를 자랑합니다. 소형 무기를 사용하도록 설계된 이 제품들은 여전히 복합 도금이 부착된 장갑으로, 전후 공학 패키지에 EMP 차폐층을 추가했습니다. 레이저 미니건, 가우스 권총, 플라즈마 소총 등 무기로 무장한 이들은 무시할 수 없는 존재입니다."
+
+  combat_robot_pacification_equipment:0 "화해용 로봇"
+  combat_robot_pacification_equipment_short:0 ""
+  combat_robot_pacification_equipment_desc:0 "옛날의 동물을 떠올리게 하는 큰 사족 보행 로봇인 이 전쟁 기계는 원래 탱크와 같은 보호 장치와 4개의 화해용 대포를 자랑했습니다. 계산기에 의해 수행 된 추가 사고는 4 개의 대포를 2 개의 회전식 레이저 자동 포로 대체했으며, 향상된 이동성 시스템과 다른 로봇 장치와의 전술적 연계성이 향상되어 이동 지휘소가되었습니다."
+
+  combat_robot_behemoth_equipment:0 "베히모스 로봇"
+  combat_robot_behemoth_equipment_short:0 ""
+  combat_robot_behemoth_equipment_desc:0 "걷는 탱크라고 부르는 이 기계로된 거대한 짐승은 무기와 갑옷을 깎아 낸 대량의 병력이 될 것입니다. 원래 4발의 고속 사격 .50 cal 기관총은 4중 20mm 기관포로 교체되었습니다. 플라즈마 발사체 또는 해군 포격을 막을 수있을만큼 두꺼운 장갑과 결합하여 적들은 조각으로 분쇄당하기 전에 숨을 고를 수밖에 없습니다."
+
+ # Artillery
+  artillery_equipment_1:0 "포병 장비"
+  artillery_equipment_1_short:0 "포병 장비"
+  artillery_equipment_1_desc:0 ""
+
+  artillery_equipment_2:0 "포병 장비"
+  artillery_equipment_2_short:0 "포병 장비"
+  artillery_equipment_2_desc:0 ""
+
+ # Motorbike
+  motorbike_equipment_1:0 "고철 오토바이"
+  motorbike_equipment_1_short:0 "고철 오토바이"
+  motorbike_equipment_1_desc:0 "배관과 가정용 기판형 엔진은 우리에게 모터 구동식 차량을 개발할 수 있는 기회를 주었습니다. 황무지 지형에 맞지 않고, 자급자족도 부족하지만, 우리 병사들에게는 전술적, 전략적 기동성이 눈에 띄게 향상될 것입니다."
+
+  motorbike_equipment_2:0 "발굴된 오토바이"
+  motorbike_equipment_2_short:0 "발굴된 오토바이"
+  motorbike_equipment_2_desc:0 "우리는 이제 자동화 부대에 전쟁전 오토바이를 안정적으로 장착할 수 있는 지경에 이르렀습니다. 연료같은 더 큰 요건이 방해가 될 수 있지만, 속도와 편안함의 향상은 군인들과 전술가 모두가 감사할 것입니다."
+
+ # Car
+  car_equipment_1:0 "발굴된 자동차"
+  car_equipment_1_short:0 "발굴된 자동차"
+  car_equipment_1_desc:0 "황무지의 차량은 확실히 예쁘지는 않지만 우리처럼 튼튼하고 신뢰할 수 있습니다. 프레임에 볼트로 고정시킨 고철이 조준된 소총을 막지는 못할지라도, 그것은 여전히 아군에게 약간의 보호 수단을 제공할 것입니다. 그리고 아무도 황무지의 끔찍한 날씨를 막지 못한다고 불평하지 않을 것입니다."
+
+  car_equipment_2:0 "황무지 자동차"
+  car_equipment_2_short:0 "황무지 자동차"
+  car_equipment_2_desc:0 "개선된 엔진과 단순한 광학 기술과 같은 전쟁 전의 기술이 지나치게 결합된 부품을 대체하기 위한 사고 방식과 결합되어 있어, 우리는 이를 더욱 강력하게 추진시킬 수 있습니다. 전략적인 이동성을 유지하고 사고율을 낮추기 위해 철저한 정비 일정과 운전자 교육을 강화해야 합니다."
+
+  car_equipment_3:0 "군용 자동차"
+  car_equipment_3_short:0 "군용 자동차"
+  car_equipment_3_desc:0 "이제 공학 기술이 거의 전쟁 전 수준에 이르렀기 때문에, 우리는 모터 구동 부서를 업그레이드하여 더 빠르고, 더 신뢰할 수 있고, 잘 보호되는 차량을 자랑할 수 있습니다. 전통적인 황무지 전술과 결합된 새로운 장갑 도금과 핵 엔진은 우리에게 장갑 부대의 우위를 줄 것입니다."
+
+ # Tank
+  tank_equipment:0 "탱크 장비"
+  tank_equipment_desc:0 ""
+  tank_equipment_1:0 "고철 탱크"
+  tank_equipment_1_short:0 "고철 탱크"
+  tank_equipment_1_desc:0 "산업용 건설 차량에 대한 계획을 재구축한 추적 섀시는 콘크리트 슬래브와 간격 강철 장갑으로 무장되어 간단한 로켓도 막아줍니다. 무장된 볼 마운트는 우리 차량들로 하여금 무거운 기관총에서 대전차 소총에 이르기까지 다양한 소형 무기를 갖추게 합니다. 전방 불도저 칼날도 우리 승무원들이 요새화된 적의 위치를 파괴하고 적의 AFV를 박살낼 수 있게 해주었습니다."
+  tank_equipment_2:0 "황무지 탱크"
+  tank_equipment_2_short:0 "황무지 탱크"
+  tank_equipment_2_desc:0 "즉흥적으로 개선 된 상부 구조를 잘라 내고 몸통에서 다시 시작하면 훨씬 효율적인 AFV를 설계 할 수 있습니다. 고정된 탄약 저장장치, 기체에 탑재된 동축식 기관총, 그리고 보병 지원포를 갖춘 동력 터렛은 부드럽고 단단한 목표물에 대한 효율을 향상시키고, 강화 철판으로 만든 가벼운 장갑은 동일한 엔진이 더 빠른 속도를 낼 수 있도록 합니다."
+  tank_equipment_3:0 "대전쟁 탱크"
+  tank_equipment_3_short:0 "대전쟁 탱크"
+  tank_equipment_3_desc:0 "탱크의 설계 프로세스는 매우 간단하지만 제조 공정은 그렇지 않습니다. 전쟁 전 기술은 진보된 생산 능력, 즉 매우 창의적인 사고를 필요로 합니다. 고갈된 우라늄 도금을 합금 앞판에 대체하고, 4개의 트랙 시스템을 2개의 트랙으로 통합하고, 광범위한 내부 전자장치를 단순한 대체품으로 교체하면 과거의 무시무시한 기계를 만들 수 있습니다."
+
+ # Truck
+  truck_equipment_1:0 "고철 건트럭"
+  truck_equipment_1_short:0 "고철 건트럭"
+  truck_equipment_1_desc:0 "이 트럭들은 별로 볼 것이 없습니다. 하지만 고철은 미세한 공격에 간신히 버티고, 엔진은 늘어난 무게를 따라잡기 힘들지만, 총을 맞는다고 계속 불평하는 우리 보병들은 제대로 보호받을 수 있습니다. 탑재된 자동소총은 기동 중에 화력을 제공합니다."
+
+  truck_equipment_2:0 "발굴된 건트럭"
+  truck_equipment_2_short:0 "발굴된 건트럭"
+  truck_equipment_2_desc:0 "발굴 작업의 또 다른 제품인 저 트럭들은 노후된 차량에서 가져온 방청 장갑과 불완전하게 설계된 변속기를 통해 함께 작동하려고하는 엔진 유닛이 일치하지 않습니다. 이전 모델보다 뛰어난 방어력을 자랑하는 이 트럭은 차폐된 장착식 기관총으로 무장되어 있습니다. 게다가 보병들에게 더 많은 화력을 공급할 수 있도록 규정되어 있습니다."
+
+ # APC
+  apc_equipment_1:0 "발굴된 APC"
+  apc_equipment_1_short:0 "발굴된 APC"
+  apc_equipment_1_desc:0 "갑옷을 입은 대형 트럭은 기계화 부대에 더 적합한 기지를 제공합니다. 더 나은 서스펜션과 고회전 엔진으로 지탱되는 두꺼운 강철 도금은 이제 소총 사격이나 레이저 공격에도 저항할 수 있습니다. 전방 장착 중기관총은 최전방 전투에 적합한 화력을 발휘하는 반면, 이러한 기능이 결합되어 우리 보병대를 직접 지원할 수 있어 연합 전투가 조정됩니다."
+
+  apc_equipment_2:0 "황무지 APC"
+  apc_equipment_2_short:0 "황무지 APC"
+  apc_equipment_2_desc:0 "파괴된 황무지를 탐색하기 위해 트랙 섀시와 트윈 커플링 엔진 드라이브 및 합금 도금을 함께 사용하면 기계화된 부서에서 보다 나은 AFV를 구현할 수 있습니다. 장갑의 보호 아래 하차할 수 있는 램프 시스템과 보병 지원을 위한 외부 통신 시스템, 그리고 갑옷을 관통하는 선동 발사체를 발사하는 신형 기마식 오토캐논이 모두 우리의 공격 능력을 향상시키는 방향으로 나아가고 있습니다."
+
+  apc_equipment_3:0 "대전쟁 APC"
+  apc_equipment_3_short:0 "대전쟁 APC"
+  apc_equipment_3_desc:0 "전쟁전 APC는 현재 우리가 제조할 수 있는 분야에서 최고입니다. 스팔 라이너를 사용한 복합 갑옷 도금과 승무원 및 기마 보병 모두를 위한 케블러 보호는 많은 보병들의 생명을 구할 것입니다. 높은 폭발력과 대전차 포탄을 모두 쏠 수 있는 짧은 보병지원총도 지상의 우리 병사들이 마주칠지도 모르는 어떤 요새화된 위치나 차량, 적들을 폭파시킬 것입니다."
+
+ # Behemoth
+  behemoth_equipment_1:0 "슈퍼 뮤턴트 베히모스"
+  behemoth_equipment_1_short:0 "슈퍼 뮤턴트 베히모스"
+  behemoth_equipment_1_desc:0 ""
+
+ # Fighter
+  fighter_equipment_1:0 "글라이더"
+  fighter_equipment_1_short:0 "글라이더"
+  fighter_equipment_1_desc:0 "우리의 엔지니어들은 여러 번의 스트레스 테스트 끝에 하늘에서 날 수 있는 글라이더를 발명했습니다. 2개의 서브 머신건, 지상공격용 수류탄 다발, 그리고 절실한 기도로 무장한 우리 조종사들은 이제 최전방 부대를 지원할 수 있게 되었습니다. 트럭 위에 설치된 이동식 캐터펄트 시스템도 우리 글라이더보다 트럭의 자율성이 더 크기 때문에 상당히 늘어난 범위를 제공합니다."
+
+  fighter_equipment_2:0 "복엽 전투기"
+  fighter_equipment_2_short:0 "복엽 전투기"
+  fighter_equipment_2_desc:0 "양면 동체는 뛰어난 민첩성과 함께 우리의 새로운 전투기에 견고한 기반을 제공합니다. 화학 트럭 엔진에 의해 구동되며, 동기화된 기어에 연결된 두 개의 수냉식 기관총으로 무장되어, 더 빠른 속도로 부드러운 표적을 찢어버릴 수 있습니다. 단순한 수류탄 대신 특수화된 수공폭발탄도 가벼운 장갑 대상과 구조물에 대한 피해를 개선합니다."
+
+  fighter_equipment_3:0 "단엽 전투기"
+  fighter_equipment_3_short:0 "단엽 전투기"
+  fighter_equipment_3_desc:0 "속도와 저항력이 우선이 되면서 이제 단면적 설계가 선호됩니다. 중량 용량이 증가하면 100lb급 고폭탄을 2개 장착할 수 있는 외부 스트럿과 공기 냉각식 고경량 기관총을 설치할 수 있습니다. 쌓아놓은 파워팩 유닛은 최고 속도를 높여 타격범위를 높일 수 있고, 적에 대한 요격 기법을 구사합니다."
+
+  fighter_equipment_4:0 "제트 전투기"
+  fighter_equipment_4_short:0 "제트 전투기"
+  fighter_equipment_4_desc:0 "기존 설계에 사용되는 엔진을 장착하는 대신 실험용 제트 엔진으로 전투기를 설계하면 모든 비행 특성이 아니더라도 가장 개선될 수 있는 모든 전력을 최대한 활용할 수 있습니다. 동체에 통합 된 높은 구경의 전기 발사 기관총은 적 전투기를 분쇄할 수 있게 해주며, 외부 날개끝 철탑에 탑재된 다목적 로켓은 우리의 개선을 마무리합니다."
+
+  fighter_equipment_5:0 "핵엔진 제트기"
+  fighter_equipment_5_short:0 "핵엔진 제트기"
+  fighter_equipment_5_desc:0 "코 레이더와 회전식 오토캐논, 유도 적외선 공대공 미사일 등이 포함되면서 요격 능력이 크게 높아져, 한 번의 패스로 가장 진보된 적 전투기를 제외한 모든 것을 파괴할 수 있게 됩니다. 혼합 탄약 벨트와 외부 폭탄 파일론, 통합 지상 스캐너 등도 지상 지원 능력을 높여줍니다. 이제 우리는 영공을 지배할 수 있습니다."
+
+  high_fighter_equipment:0 "시안-85 전투기"
+  high_fighter_equipment_short:0 "시안-85 전투기"
+  high_fighter_equipment_desc:0 ""
+
+  hev_fighter_equipment_3:0 "중 단엽 전투기"
+  hev_fighter_equipment_3_short:0 "중 단엽 전투기"
+  hev_fighter_equipment_3_desc:0 "탄약 용량을 늘리기 위해 2번 연료 탱크를 제거하고, 모든 기내 무장을 공기 냉각식 기관총으로 교체하는 것은 다른 공중 자산에 비해 우리의 능력을 향상시키고, 우리 지상군에 더 나은 화력 지원을 제공할 것입니다."
+
+  hev_fighter_equipment_4:0 "폭격기 요격기"
+  hev_fighter_equipment_4_short:0 "폭격기 요격기"
+  hev_fighter_equipment_4_desc:0 "고폭탄으로 무장 한 이중 자동 대포 설치를 위해 4대의 전기 발사식 기관총을 교환함으로써 전투기는 항공기와 지상군에 대한 더 나은 화력의 이점을 얻습니다."
+
+  hev_fighter_equipment_5:0 "핵엔진 공습 전투기"
+  hev_fighter_equipment_5_short:0 "핵엔진 공습 전투기"
+  hev_fighter_equipment_5_desc:0 "기체가 가벼워지고 연료 용량에 따른 희생은 핵엔진 제트기들이 각 날개 아래에 이중으로된 자동 캐논 포대를 장착할 수 있게 해주며, 중앙 회전식 무기와 더불어 놀라운 화력 속도를 제공합니다. 또한 민첩성을 잃지 않게 해 줍니다."
+
+  car_fighter_equipment_3:0 "함대 방어 전투기"
+  car_fighter_equipment_3_short:0 "함대 방어 전투기"
+  car_fighter_equipment_3_desc:0 "기체가 짧아지고 날개 폭이 작아지면 우리 전투기들은 항모전단에서 발사할 수 있습니다. 슬프게도 이러한 조치는 대응력과 범위를 약간 줄입니다. 하지만 바다에서 타격할 수 있는 능력을 갖춰 보상받을 것으로 보입니다. 라디오 채널도 이제 우리 선박의 주파수에 맞춰 조정돼 목표물을 부를 수 있게 돼 해군 함정에 대한 실효성도 높아졌습니다."
+
+  car_fighter_equipment_4:0 "해상 제트기"
+  car_fighter_equipment_4_short:0 "해상 제트기"
+  car_fighter_equipment_4_desc:0 "항모 전투기들은 이륙을 위한 높은 파워와 착륙을 위한 좋은 성능을 요구합니다. 따라서 이륙을 위해 터보차저가 장착된 제트 엔진에 더 많은 공간을 할애하고 착륙 절차를 위해 더 낮은 스톨 속도를 조정하여 제트 전투기들이 항모에서 작동이 가능하도록 합니다."
+
+  car_fighter_equipment_5:0 "전략 투사 핵엔진 전투기"
+  car_fighter_equipment_5_short:0 "전략 투사 핵엔진 전투기"
+  car_fighter_equipment_5_desc:0 "착륙 기어를 보강하고, 항모 착륙을 위한 합금 와이어를 추가함으로써 최신형 전투기를 바다에서 발사할 수 있습니다."
+
+  long_fighter_equipment_3:0 "단엽 호위 전투기"
+  long_fighter_equipment_3_short:0 "단엽 호위 전투기"
+  long_fighter_equipment_3_desc:0 "우리 인프라가 파괴되는 모든 상황을 비교하고, 폭격기와 함께 적의 영토 깊숙이 침투할 수 있는 가능성을 제공하기 위해, 이 변종 전투기는 2차 장갑 연료 탱크를 위해 탄약 용량을 희생시켰습니다."
+
+  long_fighter_equipment_4:0 "경 제트기"
+  long_fighter_equipment_4_short:0 "경 제트기"
+  long_fighter_equipment_4_desc:0 "기내의 기관총 중 하나를 제거하면 탄약이 보관될 창고가 됩니다. 선내 구성품을 전방으로 이동시키면 효율이 높은 제트 엔진을 장착할 수 있습니다.이 말은 바로 전투기의 전략적인 범위를 넓힐 수 있습니다."
+
+  long_fighter_equipment_5:0 "장거리 제공 전투기"
+  long_fighter_equipment_5_short:0 "장거리 제공 전투기"
+  long_fighter_equipment_5_desc:0 "기마식 탄도 무기와 탄약 하중을 손상시키는 공대공 미사일 시스템에 더 초점을 맞추면, 우리 전투기들이 약간의 공습을 감수하고 사거리를 늘릴 수 있습니다."
+
+ # CAS
+  cas_equipment_1:0 "3엽 공격기"
+  cas_equipment_1_short:0 "3엽 공격기"
+  cas_equipment_1_desc:0 "3엽기는 복엽기에 비해 항공 자산의 운반 용량을 증가시킵니다. 이러한 디자인을 우리 공군에 통합함으로써, 250파운드짜리 고폭탄을 장착하기 위해 기체 아래 주탑과 결합된 37mm 수냉식 대포 하나로 무장한 CAS 제품을 제조할 수 있습니다. 수냉식 기관총이 장착된 후방의 포는 우리의 3엽기가 공중 위협으로부터 스스로를 방어할 수 있게 해줍니다."
+
+  cas_equipment_2:0 "단엽 공격기"
+  cas_equipment_2_short:0 "단엽 공격기"
+  cas_equipment_2_desc:0 "방탄 유리의 조종석과 가벼운 장갑, 전면 호에 얇은 도금을 제공함으로써, AA 사격하에 지상 지원 임무를 수행할 수 있도록 합니다. 가벼운 폭발물을 위한 내부 폭탄 베이와 무거운 화물을 싣는 외부 폭탄 베이 2개를 사용하고 기관총 4개와 후방 중장비총 1개로 구성된 내부 배치로 요격기에 대한 방어 능력이 향상됩니다."
+
+  cas_equipment_3:0 "제트 공격기"
+  cas_equipment_3_short:0 "제트 공격기"
+  cas_equipment_3_desc:0 "우선 무거운 회전식 오토캐논을 설계한 다음, 그 주위에 저드래그 동체를 만들어 기지로 사용함으로써, 높은 폭발성 포탄을 발사하는 하나의 중앙 25mm 주포로 엄청난 화력을 운반할 수 있게 합니다. 폭탄이나 로켓을 장착할 수 있는 날개탑 또한 여러 장소에서 목표물을 섬멸할 수 있게 해줍니다. 우리의 공격기들은 예상치 못한 공격으로 적의 지상 자산을 파괴할 수 있으며, 이로 인해 대공 방어망이 혼란에 빠질 수 있습니다."
+
+  cas_equipment_4:0 "원자력 공격기"
+  cas_equipment_4_short:0 "원자력 공격기"
+  cas_equipment_4_desc:0 "35mm 회전식 오토캐논 , 유도탄을 발사할 수 있도록 보강된 포목, 대규모 집속폭탄을 탑재할 수 있는 언더 퓨즈기, 지상군과의 직접 무선 교신 등으로 우리 지상공격기는 어느 적에게나 공포감을 안겨줍니다. 한 번의 폭격으로 전장 전체가 파괴되거나, 총성이 들리기 전에 수천 발의 포탄이 관통하는 장갑차가 있어도, 그들은 확실히 인상을 남길 수 있습니다."
+
+  high_cas_equipment:0 "시안-85 공격기"
+  high_cas_equipment_short:0 "시안-85 공격기"
+  high_cas_equipment_desc:0 ""
+
+  vb_gunship_equipment:0 "VB-02 건쉽"
+  vb_gunship_equipment_short:0 "VB-02 건쉽"
+  vb_gunship_equipment_desc:0 ""
+
+  hev_cas_equipment_2:0 "그라운드 파운더"
+  hev_cas_equipment_2_short:0 "그라운드 파운더"
+  hev_cas_equipment_2_desc:0 "중 CAS 비행기는 민첩성과 톤수 증가의 범위를 희생시키면서 더 나은 지상 지원을 제공할 수 있습니다. 대전차 소총 설계의 자동 개조를 통해 개조된 중형 기관총을 두 가지 더 무거운 변형으로 교체하면 대물 타겟에 대한 관통 성능과 대인 타겟에 대한 화력이 크게 향상될 것입니다."
+
+  hev_cas_equipment_3:0 "차단 제트 공격기"
+  hev_cas_equipment_3_short:0 "차단 제트 공격기"
+  hev_cas_equipment_3_desc:0 "6개의 오토개논은 이미 지상 공격을 위한 좋은 무기이지만, 우리는 무기를 더 추가 할 수 있습니다. 두 개의 윙 파일론을 강화하면 제트 공격기에게 37mm 자동 포대를 장착하여 더 강력한 대물 관통력을 얻을 수 있습니다."
+
+  hev_cas_equipment_4:0 "장갑 절멸자"
+  hev_cas_equipment_4_short:0 "장갑 절멸자"
+  hev_cas_equipment_4_desc:0 "중앙 회전식 오토캐논을 쌍둥이 포대에 57mm 자동 대포로 교체하면 우리 핵 공격기들의 화력이 크게 높아져 적의 탱크를 훨씬 쉽게 뚫어 파괴할 수 있게 됩니다."
+
+  car_cas_equipment_2:0 "해군 공격기"
+  car_cas_equipment_2_short:0 "해군 공격기"
+  car_cas_equipment_2_desc:0 "장갑 관통 폭탄과 같은 해상 전투에 더 적합한 무기와 항공 모함의 발사대에 맞게 전체 동체가 단축되면서 CAS 비행기를 발사하여 바다에서 공격 할 수 있습니다."
+
+  car_cas_equipment_3:0 "항모 공격기"
+  car_cas_equipment_3_short:0 "항모 공격기"
+  car_cas_equipment_3_desc:0 "날개폭과 재료 밀도 측면에서 기체의 추가 개조 및 경량화는 제트 공격기들이 항모 갑판으로부터 아무런 문제 없이 발사할 수 있게 해 줍니다."
+
+  car_cas_equipment_4:0 "영거리 발사 CAS"
+  car_cas_equipment_4_short:0 "영거리 발사 CAS"
+  car_cas_equipment_4_desc:0 "고성능 핵물질은 연료로서 효율성은 떨어지지만, 우리의 생명력 또한 크게 향상시킵니다. 이 높은 출력은 훨씬 짧은 활주로가 필요하기 때문에 우리 비행기가 빠르게 이륙할 수 있게 됩니다."
+
+  long_cas_equipment_2:0 "경 공격기"
+  long_cas_equipment_2_short:0 "경 공격기"
+  long_cas_equipment_2_desc:0 "폭발성 무기의 탑재량을 축소하고 내부 베이로 이동하면 CAS 항공기의 항력과 중량이 줄어들어 지상 공격 범위가 증가합니다."
+
+  long_cas_equipment_3:0 "장거리 지상지원 공격기"
+  long_cas_equipment_3_short:0 "Deep Strike Ground Support"
+  long_cas_equipment_3_desc:0 "우리 제트 공격기들의 폭발성 탑재물을 제거하고, 오직 적들에게 파괴적인 총구를 겨누는 것에만 초점을 맞추면, 우리 비행기가 훨씬 더 멀리 날아가고, 적진보다 더 멀리 떨어진 지상부대를 지원할 것입니다."
+
+  long_cas_equipment_4:0 "DAS 금제기"
+  long_cas_equipment_4_short:0 "DAS 금제기"
+  long_cas_equipment_4_desc:0 "우리의 경량 핵 공격기의 생산과 설계 과정을 단순화하기 위해, 입증된 25mm 회전식 오토캐논이 재설치되었습니다. 경량 전투기는 여전히 연료공기폭탄, 유도탄과 결합돼 있어 공격력을 크게 희생하지 않고 사거리를 개선할 수 있습니다."
+
+ # Strategic Bomber
+  strategic_bomber_equipment_1:0 "R-폭격기"
+  strategic_bomber_equipment_1_short:0 "R-폭격기"
+  strategic_bomber_equipment_1_desc:0 "지주로 보강된 단발형 디자인은 2개의 조종석 구성에 4개의 엔진과 결합되어 견고한 폭격기 디자인을 만들 수 있으며, 내부 폭탄 베이는 인상적인 폭발물과 장갑 터렛에 3개의 기관총을 장착할 수 있습니다. 이 구성을 통해 탄약과 연료 측면에서 적의 영토에서 큰 자율성은 물론 방어 기능도 가능합니다."
+
+  strategic_bomber_equipment_2:0 "회전식 엔진 폭격기"
+  strategic_bomber_equipment_2_short:0 "회전식 엔진 폭격기"
+  strategic_bomber_equipment_2_desc:0 "방어용 무기가 무거운 기관총으로 늘어남에 따라, 다양한 중 폭탄을 1톤 위로 운반할 수 있는 폭탄 베이와 함께, 이 터보프롭 폭격기 디자인은 적의 공장 전체를 파괴할 수 있습니다. 최종 개선 사항은 강철 도금의 보완으로 비행기의 중요한 부분을 보호합니다."
+
+  strategic_bomber_equipment_3:0 "제트 폭격기"
+  strategic_bomber_equipment_3_short:0 "제트 폭격기"
+  strategic_bomber_equipment_3_desc:0 "평범한 어둠 속에서도 정확한 비행을 위해 지형 스캔용 레이더와 결합 된 항공연료 무기와 같은, 보다 정교한 폭탄 적재는 폭격기의 전략적 능력을 향상시킵니다. 펄스 도플러 레이더 및 우주 관성 항법 시스템과 같은 장치는 우리의 폭격기가 목표물에 가장 빠른 길을 찾을 수있게 해주며, 후방을 향한 회전식 기관포는 적 전투기를 효과적으로 방어합니다."
+
+  strategic_bomber_equipment_4:0 "핵엔진 제트 폭격기"
+  strategic_bomber_equipment_4_short:0 "핵엔진 제트 폭격기"
+  strategic_bomber_equipment_4_desc:0 "놀라운 작동 범위, 높은 작전 성공률 및 멀티 스펙트럼 플레어 대응 시스템 추가가 모두 시게이트 엔지니어가 개발한 최신 저탄력 고속 동체 설계에 완벽하게 통합됩니다. 회전식 폭탄베이는 더 빨리 투하할 수 있으며, 통합 유도 글라이더 시스템은 우리 승무원들이 적의 전략적인 자산을 완벽하게 파악하고 타격할 수 있도록 해 줍니다."
+
+  hev_strategic_bomber_equipment_2:0 "중 터보프롭 폭격기"
+  hev_strategic_bomber_equipment_2_short:0 "중 터보프롭 폭격기"
+  hev_strategic_bomber_equipment_2_desc:0 "전략폭격기의 장갑 연료 탱크를 축소하면 내부 공간이 늘어나 추가 폭탄 및 더 높은 폭격 잠재력이 발휘될 것입니다."
+
+  hev_strategic_bomber_equipment_3:0 "전술 파괴자"
+  hev_strategic_bomber_equipment_3_short:0 "전술 파괴자"
+  hev_strategic_bomber_equipment_3_desc:0 "저탄력 동체 설계와 외부 폭탄 팩을 철탑에 추가시키는 것은 모든 폭격기가 더 많은 화물과 각 주행에서 더 효율적이 되도록 하는 좋은 방법입니다."
+
+  hev_strategic_bomber_equipment_4:0 "전략 절멸자"
+  hev_strategic_bomber_equipment_4_short:0 "전략 절멸자"
+  hev_strategic_bomber_equipment_4_desc:0 "폭탄 베이 전체를 제거하고 회전 낙하 시스템을 통해 폭발물을 10톤짜리 대형 고성능 폭탄으로 바꿀 수 있습니다. 이 거대한 장치는 단 한 번의 폭발로 도시 전체를 파괴할 수 있습니다."
+
+  nav_strategic_bomber_equipment_2:0 "어뢰 폭격기"
+  nav_strategic_bomber_equipment_2_short:0 "어뢰 폭격기"
+  nav_strategic_bomber_equipment_2_desc:0 "해군 기술이 점점 더 문제가 되면서 해법이 필요합니다. 우리 터보프롭 폭격기의 폭발적 탑재량을 두 개의 표면 어뢰로 대체하면서 접촉 시 적 함정에 거대한 선체 침투를 일으킵니다."
+
+  nav_strategic_bomber_equipment_3:0 "해군 순찰기"
+  nav_strategic_bomber_equipment_3_short:0 "해군 순찰기"
+  nav_strategic_bomber_equipment_3_desc:0 "적 AA가 정확해짐에 따라 어뢰 공격이 점점 더 어려워지고 있는 가운데, 우리는 새로운 해결책이 필요합니다. 글라이더 지느러미와 매우 간단한 목표 조준 능력을 갖춘 천공 폭탄은 얇은 적의 갑판에 침투할 수 있고 내부에 엄청난 양의 폭발물이 폭발할 수 있게 해줍니다."
+
+  nav_strategic_bomber_equipment_4:0 "핵엔진 해양 파괴자"
+  nav_strategic_bomber_equipment_4_short:0 "핵엔진 해양 파괴자"
+  nav_strategic_bomber_equipment_4_desc:0 "폭탄 베이를 늘리면 1분에 5발의 미사일을 발사할 수 있고, 그 미사일들은 정확한 목표 업링크와 집중적인 폭발 효과로 대함 임무용으로 특별히 만들어져 중무장한 함정의 선체를 뚫게 됩니다."
+
+  long_strategic_bomber_equipment_2:0 "장거리 폭격기"
+  long_strategic_bomber_equipment_2_short:0 "장거리 폭격기"
+  long_strategic_bomber_equipment_2_desc:0 "연료와 방어 탄약 용량이 증가함에 따라 우리는 적군보다 더 멀리 떨어져, 우리의 폭탄 무게와 엔진 효율을 희생시키면서 민감한 적군 기반시설을 타격할 수 있게 되었습니다."
+
+  long_strategic_bomber_equipment_3:0 "공격용 제트 폭격기"
+  long_strategic_bomber_equipment_3_short:0 "공격용 제트 폭격기"
+  long_strategic_bomber_equipment_3_desc:0 "새로운 중앙 연료 탱크와 비상 추진체에 연결된 두 개의 제트 엔진이 엔진 효율을 높여 전략적인 범위를 넓힙니다."
+
+  long_strategic_bomber_equipment_4:0 "핵심지역 공격기"
+  long_strategic_bomber_equipment_4_short:0 "핵심지역 공격기"
+  long_strategic_bomber_equipment_4_desc:0 "저탄력 기체가 더욱 개선되고 회전식 시스템이 경량화됨에 따라 이 폭격기는 우리 영토에서 믿을 수 없을 정도로 먼 거리에 있는 목표물을 타격할 수 있는 최첨단 장거리 폭격기입니다."
+
+ # Airship Blimps
+  blimp_equipment_1:0 "전투용 소형 비행선"
+  blimp_equipment_1_short:0 "전투용 소형 비행선"
+  blimp_equipment_1_desc:0 "이 항공기는 장갑 곤돌라와 과압 비강경 풍선으로 구성된 다목적 항공기로 제작 비용이 상당히 많이 듭니다. 투척용 포탄, 대공용 중기관총, 고폭탄도 탑재할수 있어 이것만으로도 자산이 하늘을 지배할 수 있습니다. 추력을 제공하는 단일 꼬리에 장착된 프로펠러 엔진으로는 빠르게 움직일 수 없습니다. 하지만 발사 지점 주변에 엄청난 범위의 화력 지원을 제공할 수 있습니다."
+
+  blimp_equipment_2:0 "급습 비행선"
+  blimp_equipment_2_short:0 "급습 비행선"
+  blimp_equipment_2_desc:0 "확장된 곤돌라에 강화한 장갑 도금과 자동포 무장,그리고 내부 폭탄 베이를 갖추면서 우리의  기체는 더욱 격추되기 어려워졌습니다. 기본적인 항공 레이더와 함께 총 적재 장치도 함께 탑재돼 대공 능력도 향상됩니다. 그리고 그들이 도망칠 수 있다고 생각하는 사람은 곤돌라 바닥에 놓여진 자동포 터렛이 그들을 재빨리 끌어내릴 것입니다. 또한 두 개의 터보프롭 엔진을 추가하면 전술적인 속도도 증가합니다."
+
+  blimp_equipment_3:0 "비행 요새"
+  blimp_equipment_3_short:0 "비행 요새"
+  blimp_equipment_3_desc:0 "거의 10대의 고급 전투기급의 가격이 처음에는 투자하기 어려운 것처럼 보일 것입니다. 하지만 회전식 자동포가 적의 비행기를 산산조각 내는 동안 갑판에 탑재된 박격포 터렛이 지상 목표물을 파괴하는 것을 보기 전까지는 아무도 진정한 기쁨을 경험하지 못할것 입니다. 합성 장갑판에 대항해 무용지물이 된 적의 대공포, 보기만 해도 목숨을 걸고 달려드는 병사들, 그들을 구하기 위해 적은 어떤 신이든 불러대며 울부짖을것 입니다. 예산 낭비라고 말하는 사람도 있겠지만, 몇 안 되는 대담한 사람들에게 그것은 꿈이 실현되는 것입니다."
+
+  blimp_equipment_4:0 "슈퍼 포트리스"
+  blimp_equipment_4_short:0 "슈퍼 포트리스"
+  blimp_equipment_4_desc:0 "백지 위임장이 우리의 실수를 개선하기 위해 예산으로서 엔지니어들에게 주어졌습니다. 그리고 횡령설이 나돌긴 했지만 그것은 소문일 뿐입니다. 모든 자동포가 경량화되고, 감지형 레이더가 추가되었고, 박격포가 저소음 곡사포로 업그레이드되면서, 우리의 힘에 대항할 수 있는 사람은 거의 없습니다. 곤돌라 전용 탱크 장갑판과 직접적인 미사일 타격을 막을 수 있는, 그리고 내부 격벽과 비상 공기 펌프를 갖춘 강화된 나노-케블러 발론으로는, 그 어떤 것도 우리를 방해할 수 없습니다."
+
+  cheap_blimp_equipment_1:0 "소형 제플린"
+  cheap_blimp_equipment_1_short:0 "소형 제플린"
+  cheap_blimp_equipment_1_desc:0 "'합리적인' 가격으로 제조할 수 있을 만큼 제조 기법을 개선하고 설계를 간소화할 수 있습니다. 전체 디자인을 하향 조정하고, 꼬리 프로펠러 엔진을 기존 항공기 모터로 교체하고, 무기의 수를 줄이면 우리의 소형 비행선이 다른 임무에 적합한 장거리 항공기로 변하게 됩니다."
+
+  cheap_blimp_equipment_2:0 "부대 지원 소형 비행선"
+  cheap_blimp_equipment_2_short:0 "부대 지원 소형 비행선"
+  cheap_blimp_equipment_2_desc:0 "공격용 무기의 수, 크기, 탄약 하중을 줄이면 한 달 동안의 항공예산을 모두 소모하지 않는 저렴한 변종을 만들 수 있습니다. 사양은 줄어들 것으로 예상되지만, 우리 항공기를 최대한 낮게 평가하기 위한 조치들이 취해졌습니다."
+
+  cheap_blimp_equipment_3:0 "최전선 공격자"
+  cheap_blimp_equipment_3_short:0 "최전선 공격자"
+  cheap_blimp_equipment_3_desc:0 "단순 가스 순환형 자동포로 회전식 디자인을 대체하고, 지상군 설계에서 채취한 효율적인 로켓 발사기를 위해 박격포-브라이치 터렛을 바꾸고, 복합 장갑을 경량 합금으로 바꾸면 우리 공중 함대의 건조 및 운용 비용이 상당히 절감됩니다."
+
+  cheap_blimp_equipment_4:0 "전략 범위 제플린"
+  cheap_blimp_equipment_4_short:0 "전략 범위 제플린"
+  cheap_blimp_equipment_4_desc:0 "횡령 혐의로 일부 기술자가 끌려간 만큼, 남은 기술자들로 손쓸 수밖에 없습니다. 거대한 하비처 터렛을 경전차포로 무장하고, 장갑의 두께를 합리적인 수준으로 줄이고, 용해된 에너지의 핵심을 보다 단순한 원자로로 대체함으로써 우리는 황무지의 가장 진보된 제플린 중 하나를 대량 생산할 수 있습니다. 효율적이면서도 목표물의 반을 타격할 수 있습니다."
+
+  ground_blimp_equipment_1:0 "보병지원용 소형 비행선"
+  ground_blimp_equipment_1_short:0 "보병지원용 소형 비행선"
+  ground_blimp_equipment_1_desc:0 "AA의 사격 자세 중 일부는 기관총의 하향 발사로 바뀌었고, 더 많은 양의 투척용 폭발탄이 전 승무원에게 주어졌기 때문에, 우리는 지상 목표물을 파괴하기 위한 우리의 노력을 집중할 수 있습니다."
+
+  ground_blimp_equipment_2:0 "전술 대장갑 비행선"
+  ground_blimp_equipment_2_short:0 "전술 대장갑 비행선"
+  ground_blimp_equipment_2_desc:0 "모든 자동포를 장갑을 관통하는 포탄으로 교체하고, 어깨 로켓 발사기를 증원된 포수들에게 줌으로써, 우리는 로켓과 포탄의 집중포화로 대부분의 지상 목표물을 빠르고 효율적으로 파괴할 수 있습니다."
+
+  ground_blimp_equipment_3:0 "비행 포병선"
+  ground_blimp_equipment_3_short:0 "비행 포병선"
+  ground_blimp_equipment_3_desc:0 "우리의 회전식 자동포 디자인은 파괴적이지만 장갑이 두꺼운 목표물에 대한 공격 능력은 부족합니다. 57mm 자동 대포로 업그레이드하면 지상 지원 화력이 크게 증가 할뿐만 아니라 지상에있는 모든 적 병력에게 엄청난 공포를 안겨줍니다."
+
+  ground_blimp_equipment_4:0 "포열 항공모함"
+  ground_blimp_equipment_4_short:0 "포열 항공모함"
+  ground_blimp_equipment_4_desc:0 "우리의 지상 공격 교리로 더 나아가, 우리는 자동 대포의 탄도를 더 높이면서 75mm의 놀라운 속도로 증가시켰습니다. 우리의 비행선을 비행포대처럼 변형시키면 적군에 대한 가장 파괴적인 공군이 됩니다."
+
+  air_blimp_equipment_1:0 "전술 항공범위 비행선"
+  air_blimp_equipment_1_short:0 "전술 항공범위 비행선"
+  air_blimp_equipment_1_desc:0 "폭발물이 버려지면, 남은 중량으로 총걸이가 달린 사중 기관총 터렛을 설치하여 적들에 대한 공중의 우위를 확보하고 지상에서의 아군을 보호할 수 있습니다."
+
+  air_blimp_equipment_2:0 "CAS 요격기"
+  air_blimp_equipment_2_short:0 "CAS 요격기"
+  air_blimp_equipment_2_desc:0 "적군의 공중 능력이 전장에서 더욱 두드러져짐에 따라, 우리의 실수들은 완벽한 해결책처럼 보입니다. 연료를 재충전하지 않고 필요할수 있는 만큼 지상군과 동행할 수 있으며, 이를 지원하기 위해 엄청난 탄약을 비축해 두면 하늘을 장악하려는 적군 항공기를 모두 해체할 수 있습니다. 폭탄 하중을 버리고 모든 터렛에 두 번째 자동포를 추가하는 것이 도움이 될 것입니다."
+
+  air_blimp_equipment_3:0 "공중 대공 포대"
+  air_blimp_equipment_3_short:0 "공중 대공 포대"
+  air_blimp_equipment_3_desc:0 "부드러운 발사 메커니즘, 강화 된 사격실, 2 개의 추가 배럴 및 끝없는 탄약 재고로 회전식 자동포를 업그레이드하면 선원들이 기내 레이더에서 감지 한 모든 공중 위협을 격추 할 수 있습니다."
+
+  air_blimp_equipment_4:0 "공중 우월 제플린"
+  air_blimp_equipment_4_short:0 "공중 우월 제플린"
+  air_blimp_equipment_4_desc:0 "적의 항공기로부터 우리의 군대를 보호하는 것이 가장 중요합니다. 이를 위해 기내 회전식 자동포는 75mm 크기의 대형 주포로 대체되었으며, 파편 포탄, 어깨 발사형 MANPAD 및 유도 미사일 포탑이 장착되어 범위 내에 있는 적의 항공기를 모조리 파괴 할 수 있습니다. 우리의 더 가벼운 무기를 위한 자동 표적 시스템은 포탄의 비를 내려 적의 전투기를 없애 버릴 것입니다."
+
+ # cargo planes
+  cargo_plane_equipment_1:0 "수송 글라이더"
+  cargo_plane_equipment_1_short:0 "수송 글라이더"
+  cargo_plane_equipment_1_desc:0 "싸고 가벼운 이 목재 운반용 글라이더는 평탄한 8x8 트럭의 등에 실려 듀얼 캐터펄트와 로켓 발사 시스템의 도움을 받아 발사되어 좋은 비행거리를 제공합니다. 그렇지 않으면 눈에 띄지 않을 뿐만 아니라 민첩성이 낮을수록 보급 구역에 갇혀 있는 우리 지상군에게 보급 상자를 떨어뜨리거나 적진의 후방에서 목숨을 걸고 싸우는 데에도 유용할 수 있습니다."
+
+  cargo_plane_equipment_2:0 "화물 비행기"
+  cargo_plane_equipment_2_short:0 "화물 비행기"
+  cargo_plane_equipment_2_desc:0 "쌍발 엔진 설계를 가진 동력 화물 비행기로, 이 수송기는 방어 목적을 위한 여러 개의 기관총을 포함하고 적대적인 환경에서 공급 감소를 관리할 수 있도록 증가된 최고 속도 제어기를 포함하고 있기 때문에 전투 작전에 훨씬 더 적합합니다. 낙하산이 개선된 더 나은 낙하 시스템은 탄약에서부터 소형 무기 또는 대전차 무기까지 더 큰 적재량을 제공할 수 있게 해줍니다."
+
+  cargo_plane_equipment_3:0 "드림리프터"
+  cargo_plane_equipment_3_short:0 "드림리프터"
+  cargo_plane_equipment_3_desc:0 "방어용 자동포와 놀랍도록 전략적인 사거리로 무장한 거대한 수송기들, 이 수송기는 몇 달 동안 전 대대를 무장시킬 수 있는 충분한 보급품을 수송할 수 있습니다. 더 쉽게 떨어뜨릴 수 있도록 평평한 지형을 탐지하는 지상 탐지 레이더는 각 공급 상자의 IFF 신호 장치와 결합되어 아군이 훨씬 빠르고 쉽게 찾을 수 있도록 합니다. 4개의 터보 프로펠러 엔진으로 속도가 빨라져 적의 대공포화를 더 쉽게 피할 수 있게 되었습니다."
+
+  vb_transport_plane_equipment:0 "VB-02 수송기"
+  vb_transport_plane_equipment_short:0 "VB-02 수송기"
+  vb_transport_plane_equipment_desc:0 ""

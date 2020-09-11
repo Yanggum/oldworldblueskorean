@@ -1,0 +1,12 @@
+﻿l_english:
+  spacer_tt: "\n "
+  annex_wargoal_against_owners_of_the_states_tt: "§Y이 주를 소유한 모든 사람들§!에 대한 §Y합병§! 전쟁 목표 획득"
+  # named threat
+  took_territory: "영토 소유권을 빼앗겼습니다."
+  returned_territory: "소유권이 주장 된 지역을 반환했습니다."
+  gauss_weapons_research_tt: "가우스 무기를 연구 할 수 있습니다.\n"
+  xian_fighter_research_tt: "시안-85 전투기를 연구 할 수 있습니다.\n"
+  vertibirds_research_tt:0 "버티 버드 항공기의 연구를 허용합니다.\n"
+  enclave_pa_research_tt:0 "엔클레이브 파워아머 모델을 연구 할 수 있습니다.\n"
+  plasma_weapons_research_tt:0 "플라즈마 무기를 연구 할 수 있습니다.\n"
+  not_allowed_to_release_Tlaloc:0 "틀라로크를 정상적으로 해제 할 수 없습니다."

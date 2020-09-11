@@ -1,0 +1,246 @@
+﻿l_english:
+ ncr_bureacracy:0 "구세계 정부"
+ ncr_bureacracy_desc:0 "NCR 정부는 대통령과 의회가 있는 구세계 시스템에 크게 기반을 두고 있습니다. 많은 공화국이 관료주의에 빠져 있기 때문에 정작 그들은 아무것도 할 수 없습니다."
+ revalued_ncr:0 "NCR 달러 재평가"
+ ncrbank:0 "NCR 중앙 은행"
+ ncrjustice:0 "대법원"
+ ncrmotroops:0 "군사 선전"
+ ncrcentral:0 "중앙집권식 국가"
+
+ hooverdamvictor:0 "후버댐의 승리자"
+ hooverdamvictor_desc:0 "이 나라는 후버 댐에서 승리하여 모하비 사막의 지배와 많은 명성을 획득했습니다."
+ ranger_jackson:0 "레인저 잭슨"
+ dennis_crocker:0 "데니스 크로커"
+ colonel_hsu:0 "수 대령"
+ colonel_moore:0 "무어 대령"
+ chief_hanlon:0 "한론 대장"
+ col_royez:0 "로이즈 대령"
+ chief_lee_oliver:0 "리 올리버 장군"
+ alice_mclafferty:0 "앨리스 맥래퍼티"
+ al_chestbreach:0 "알 체스트브레치"
+ joseph_dodge:0 "조셉 닷지"
+
+ oldworldmachines:0 "구세계 기계들"
+ oldworldmachines_desc:0 ""
+
+ oldworldarmour:0 "구세계 장비"
+ oldworldarmour_desc:0 ""
+
+ oldworldtheatre:0 "구세계 극장"
+ oldworldtheatre_desc:0 ""
+
+ denmotherpenalty:0 "덴 마더 처벌"
+ denmotherpenalty_desc:0 ""
+
+ long15:0 "Long 15"
+ long15_desc:0 ""
+
+ brahminbarons:0 "브라민 부호"
+ brahminbarons_desc:0 ""
+
+ ncrguns:0 "소화기 생산 개편"
+ ncrguns_desc:0 ""
+
+ ncrguns2:0 "소화기 수리"
+ ncrguns2_desc:0 ""
+
+ heavytroops:0 "중장갑병"
+ heavytroops_desc:0 ""
+
+ scavunion:0 "청소부 연합"
+ scavunion_desc:0 ""
+
+ allarewelcome:0 "모두 환영합니다."
+ allarewelcome_desc:0 ""
+
+ immigrationlimits:0 "이민 제한"
+ immigrationlimits_desc:0 ""
+
+ mutantlabour:0 "뮤턴트 노동력"
+ mutantlabour_desc:0 ""
+
+ flyingbears:0 "비상하는 곰"
+ flyingbears_desc:0 ""
+
+ hubdrugs:0 "허브 마약 거래"
+ hubdrugs_desc:0 ""
+
+ hubweapons:0 "허브 무기"
+ hubweapons_desc:0 ""
+
+ mechcore:0 "기계화된 핵심부"
+ mechcore_desc:0 ""
+
+ shockcomp:0 "충격 분대"
+ shockcomp_desc:0 ""
+
+ rapidadvance:0 "빠른 진보"
+ rapidadvance_desc:0 ""
+
+ onlythebest:0 "오직 최고만이"
+ onlythebest_desc:0 ""
+
+ gunrunnerliscense:0 "건 러너 라이센스"
+ gunrunnerliscense_desc:0 ""
+
+ drummandsarmy:0 "드러맨드의 군대"
+ drummandsarmy_desc:0 ""
+
+ blastfromthepast:0 "과거의 분노"
+ blastfromthepast_desc:0 ""
+
+ mobilearmy:0 "기동군"
+ mobilearmy_desc:0 ""
+
+ speartip:0 "스피어팁 전술"
+ speartip_desc:0 ""
+
+ bigjim:0 "빅 짐"
+ bigjim_desc:0 ""
+
+ jimdrills:0 "짐스 드릴스\n§YAll Infantry & Mot/Mech§!§W:§!\n    §WSoft attack:§! §G+5%§!\n    §WHard attack:§! §G+5%§!\n    §WDefence:§! §G+5%§!"
+ jimdrills_desc:0 ""
+
+ legacyofnavarro1:0 "나바로의 유산"
+ legacyofnavarro1_desc:0 ""
+
+ legacyofnavarro2:0 "나바로의 유산"
+ legacyofnavarro2_desc:0 ""
+
+ legacyofnavarro3:0 "나바로의 유산"
+ legacyofnavarro3_desc:0 ""
+
+ aradesh:0 "아라데쉬"
+ aradesh_desc:0 ""
+
+ seth:0 "Seth\n§YSpec Ops§!§W:§!\n    §WSoft attack:§! §G+5%§!\n    §WHard attack:§! §G+5%§!\n    §WDefence:§! §G+5%§!"
+ seth_desc:0 ""
+
+ tandi:0 "Tandi"
+ tandi_desc:0 ""
+
+ baronswar:0 "바론스워"
+ baronswar_desc:0 ""
+
+ baronswarbuyout:0 "부호 인수"
+ baronswarbuyout_desc:0 ""
+
+ ncrbarons:0 "바론스"
+ ncrbarons_desc:0 ""
+
+ baronofbarons:0 "바론스의 부호"
+ baronofbarons_desc:0 ""
+
+ rattletailrepaid:0 "래틀테일 반환"
+ rattletailrepaid_desc:0 ""
+
+ banditopayments:0 "반디토 지불"
+ banditopayments_desc:0 ""
+
+ brahminbill:0 "브라민 법안"
+ brahminbill_desc:0 ""
+
+ rationing:0 "배급제도"
+ rationing_desc:0 ""
+
+ oldworldmilitary:0 "구세계 군대"
+ oldworldmilitary_desc:0 ""
+
+ privatepolice:0 "사설 경찰\n§YMilitia§!§W:§!\n    §WSoft attack:§! §G+10%§!\n    §WHard attack:§! §G+10%§!\n    §WDefense:§! §G+10%§!"
+ privatepolice_desc:0 ""
+
+ militindustrial:0 "군수 공업 단지"
+ militindustrial_desc:0 ""
+
+ draftstandards:0 "초안 표준"
+ draftstandards_desc:0 ""
+
+ riverpatrols:0 "강 순찰대"
+ riverpatrols_desc:0 ""
+
+ nevtradeagreements:0 "네바다 무역 협정"
+ nevtradeagreements_desc:0 ""
+
+ monopoly:0 "독점 상품"
+ monopoly_desc:0 ""
+
+ newleague:0 "뉴 리그"
+ newleague_desc:0 ""
+
+ leagueradio:0 "리그 라디오"
+ leagueradio_desc:0 ""
+
+ ncrdraft:0 "드래프트"
+ ncrdraft_desc:0 ""
+
+ hundredeighteenthcore:0 "108 코어"
+ hundredeighteenthcore_desc:0 ""
+
+ theatoms:0 "아톰스"
+ theatoms_desc:0 ""
+
+ reorgranger:0 "레인저 재편성\n§YSpec Ops§!§W:§!\n    §WSoft attack:§! §G+5%§!\n    §WHard attack:§! §G+5%§!\n    §WDefense:§! §G+5%§!"
+ reorgranger_desc:0 ""
+
+ rangercore:0 "Ranger Core\n§YSpec Ops§!§W:§!\n    §WSoft attack:§! §G+10%§!\n    §WDefense:§! §G+10%§!"
+ rangercore_desc:0 ""
+
+ rangerlead:0 "레인저 리드\n§YSpec Ops§!§W:§! §WReconnaissance:§! §G+100%§!"
+ rangerlead_desc:0 ""
+
+ rangercanopeners:0 "레인저 캔 오프너\n§YSpec Ops§!§W: Hard Attack:§! §G+50%§!"
+ rangercanopeners_desc:0 ""
+
+ aaronkimball:0 "아론 킴볼"
+ aaronkimball_desc:0 ""
+
+ urbandraft:0 "도시 초안"
+ urbandraft_desc:0 ""
+
+ ncrmarch:0 "3월"
+ ncrmarch_desc:0 ""
+
+ jimdraft:0 "임명된 짐"
+ jimdraft_desc:0 ""
+
+ rangergenmossman:0 "레인저 모스맨"
+ rangergenmossman_desc:0 ""
+
+ ncrrangerprop:0 "레인저 프로펍"
+ ncrrangerprop_desc:0 ""
+
+ followerfunding:0 "추종자 기금"
+ followerfunding_desc:0 ""
+
+ ncrmint:0 "NCR 조폐국"
+ ncrmint_desc:0 ""
+
+ theboneyard:0 "본야드"
+ theboneyard_desc:0 ""
+
+ gizmoslegacy:0 "기즈모의 유산"
+ gizmoslegacy_desc:0 ""
+
+ gunrunnerexpanded:0 "건 러너의 확장"
+ gunrunnerexpanded_desc:0 ""
+
+ ncr_revolt_exhaustion_1:0 "가벼운 전쟁 소모"
+ ncr_revolt_exhaustion_1_desc:0 ""
+ ncr_revolt_exhaustion_2:0 "경미한 전쟁 소모"
+ ncr_revolt_exhaustion_2_desc:0 ""
+ ncr_revolt_exhaustion_3:0 "중간의 전쟁 소진"
+ ncr_revolt_exhaustion_3_desc:0 ""
+ ncr_revolt_exhaustion_4:0 "주요 전쟁 소모"
+ ncr_revolt_exhaustion_4_desc:0 ""
+ ncr_revolt_exhaustion_5:0 "극도의 전쟁 소모"
+ ncr_revolt_exhaustion_5_desc:0 ""
+ ncr_revolt_exhaustion_6:0 "치명적인 전쟁 소모"
+ ncr_revolt_exhaustion_6_desc:0 ""
+
+ ncr_revolts_development:0 "피닉스 연맹 개발"
+ ncr_revolts_development_desc:0 "피닉스 연맹과의 평화 협정에 따라 우리는 경제 회복을 돕기 위해 수입의 상당 부분을 그들에게 지불해야합니다. 그러나 이것은 우리를 돕기 위해 다시 되돌아 올 수 있습니다 - 그것은 무역 할 더 많은 개발 된 문명국을 의미 할 것입니다."
+
+ ncr_revolts_payments:0 "NCR의 배상금 지급"
+
+ opening_long_15:0 "15번 고속국도 개통"
+ opening_long_15_desc:0 "15번 고속국도를 다시 열고 모하비 황무지에 접근하려면 먼저 현지의 레이더들을 제거해야 합니다."

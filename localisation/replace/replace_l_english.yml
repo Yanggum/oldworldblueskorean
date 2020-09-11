@@ -1,0 +1,87 @@
+﻿l_english:
+  infantry_equipment: "보병 장비"
+  infantry_equipment_short: "보병 장비"
+  infantry_equipment_desc: ""
+
+ # Infantry Equipment
+  infantry_equipment_1: "파이프 총"
+  infantry_equipment_1_short: "파이프 총"
+  infantry_equipment_1_desc: "볼트 액션 파이프 권총으로 군대를 무장시키는 것은 보병 장비를 위해 지금 할 수있는 유일한일 입니다. 카트리지가 작동하는 것이 다소 효과적이지만 볼트를 순환시키는 과정은 느립니다. 새로운 장비 개발이 시급합니다."
+
+ # Support Equipment
+  support_equipment_1: "지원 장비"
+  support_equipment_1_desc: "의사소통, 병사 공급, 의료진에게 장비 제공 및 기타 다양한 기능을 제공하는 데 사용되는 다양한 도구와 장비입니다."
+
+ # Anti-tank Support
+  anti_tank_equipment_1: "대전차 소총"
+  anti_tank_equipment_1_short: "대전차 소총"
+  anti_tank_equipment_1_desc: "오래된 대구경 대전차 소총은 보병부대에 장갑 관통력을 제공하기 위해 활용될 수 있습니다. 이 총들이 장갑을 관통할 수 있는 능력이 제한되긴 하지만, 그것들은 여전히 목적을 달성할 수 있습니다."
+
+  anti_tank_equipment_2: "로켓 발사기"
+  anti_tank_equipment_2_short: "로켓 발사기"
+  anti_tank_equipment_2_desc: "로켓 발사기는 유도되지 않은 로켓 추진 발사체를 발사하는 장치입니다. 로켓 추진 설계로 장갑부대를 파괴하는 데 효과적이며, 탄두 형태의 무기 입니다."
+
+  anti_tank_equipment_3: "미사일 발사기"
+  anti_tank_equipment_3_short: "미사일 발사기"
+  anti_tank_equipment_3_desc: "유도 미사일이라고도하는 미사일은 로켓이라고하는 유도되지 않은 자체 추진 탄약과 대조되는 유도 자체 추진 시스템입니다. 유도 미사일 시스템은 대상이 피해를 입을 확률이 훨씬 높습니다."
+
+ # fighters
+  fighter_equipment_1: "글라이더"
+  fighter_equipment_1_short: "글라이더"
+  fighter_equipment_1_desc: "우리 엔지니어들은 여러 번의 스트레스 테스트를 거친 후 하늘에서 뛸 수있는 글라이더를 발명했습니다. 2개의 기관 단총, 지상공격용 수류탄 다발, 그리고 절실한 기도로 무장한 우리 조종사들은 이제 최전방 부대를 지원할 수 있게 되었습니다. 트럭 침대 위에 설치된 이동식 투석기 시스템도 우리 글라이더보다 트럭의 자율성이 더 크기 때문에 상당히 늘어난 범위를 제공합니다."
+
+  fighter_equipment_3: "단엽 전투기"
+  fighter_equipment_3_short: "단엽 전투기"
+  fighter_equipment_3_desc: "속도와 저항력이 우선시됨에 따라 이제 단엽기 디자인이 선호됩니다. 중량 용량이 증가함에 따라 50kg급 고폭탄을 두 개 장착할 수 있는 외부 스트럿은 물론 공기 냉각식 고경량 기관총 3발을 설치할 수 있습니다. 쌓아놓은 파워팩 유닛은 최고 속도를 높여 타격범위를 높일 수 있고, 적 공예에 대한 요격 기법을 구사합니다"
+
+ # Convoy
+  convoy_equipment: "수송 장비"
+  convoy_equipment_short: "수송 장비"
+  convoy_equipment_desc: ""
+
+  convoy_equipment_1: "수송선"
+  convoy_equipment_1_short: "수송선"
+  convoy_equipment_1_desc: ""
+
+ # States
+  STATE_743: "New Vegas"
+  STATE_744: "Goodsprings & Primm"
+  STATE_745: "Hidden Valley"
+  STATE_746: "Hoover Dam"
+  STATE_747: "Nellis Air Force Base"
+  STATE_748: "NCRCF"
+  STATE_749: "Nipton & Novac"
+  STATE_750: "Jacobstown"
+  STATE_751: "Red Rock Canyon"
+  STATE_752: "The Fort"
+  STATE_753: "Flagstaff"
+  STATE_754: "Zion National Park"
+  STATE_755: "New Canaan"
+  STATE_756: "Eagle Rock"
+  STATE_757: "Salt Lake"
+  STATE_758: "San Juan"
+  STATE_759: "The Divide"
+  STATE_760: "New Reno"
+  STATE_761: "Vault City"
+  STATE_762: "LA Boneyard"
+  STATE_763: "Arroyo"
+  STATE_764: "Dayglow"
+  STATE_765: "Navarro"
+  STATE_766: "Shady Sands"
+  STATE_767: "Necropolis"
+  STATE_768: "Sac-Town"
+  STATE_769: "San Francisco"
+  STATE_770: "North California"
+  STATE_771: "Maxson"
+  STATE_772: "Arizona Spillway"
+  STATE_773: "Two Sun"
+  STATE_774: "Malpais"
+  STATE_775: "The Reservation"
+  STATE_776: "Eastern New Mexico"
+  STATE_777: "Western New Mexico"
+  STATE_778: "Canyon City"
+  STATE_779: "Cheyenne Mountains"
+  STATE_780: "Mesa Verde"
+  STATE_781: "Boulder Dome"
+  STATE_782: "Dog City"
+  STATE_783: "Lost Hills"

@@ -1,0 +1,109 @@
+﻿l_english:
+ # ideas
+  brk_startup_natives: "현지 정착민의 유산"
+  brk_startup_natives_desc: ""
+
+  brk_startup_marines: "해병대의 유산"
+  brk_startup_marines_desc: ""
+
+  brk_startup_sailors: "선원의 유산"
+  brk_startup_sailors_desc: ""
+
+  brk_startup_fled: "유연함"
+  brk_startup_fled_desc: ""
+
+  brk_startup_sheltered: "보호됨"
+  brk_startup_sheltered_desc: ""
+
+  brk_startup_weathered: "풍화됨"
+  brk_startup_weathered_desc: ""
+
+  brk_startup_riches: "부의 전망"
+  brk_startup_riches_desc: ""
+
+  brk_startup_slaves: "노예의 전망"
+  brk_startup_slaves_desc: ""
+
+  brk_tech_adaptation: "기술적 적응"
+  brk_tech_adaptation_desc: ""
+
+  brk_ruler: "잔혹한 그레이븐"
+  brk_ruler_desc: ""
+
+  brk_ruler_1: "확실한 권한"
+  brk_ruler_1_desc: ""
+
+  brk_ruler_2: "노예 반대"
+  brk_ruler_2_desc: ""
+
+  brk_ruler_3_conquest: "트로피 와이프"
+  brk_ruler_3_conquest_desc: ""
+
+  brk_ruler_3_strength: "마셜 와이프"
+  brk_ruler_3_strength_desc: ""
+
+  brk_elites: "라그나르"
+  brk_elites_desc: ""
+
+  brk_elites_1: "결투"
+  brk_elites_1_desc: ""
+
+  brk_elites_2: "전사 의회"
+  brk_elites_2_desc: ""
+
+  brk_elites_2_offense: "공격 의회"
+  brk_elites_2_offense_desc: ""
+
+  brk_elites_2_defense: "방어 의회"
+  brk_elites_2_defense_desc: ""
+
+  brk_salvage_parties: "탐사 부대"
+  brk_salvage_parties_desc: ""
+
+  brk_slave: "노예"
+  brk_slave_desc: ""
+
+  brk_slave_1: "일하는 노예"
+  brk_slave_1_desc: ""
+
+  brk_slave_2: "노예 선발"
+  brk_slave_2_desc: ""
+
+  brk_slave_3: "노예 작업 일정"
+  brk_slave_3_desc: ""
+
+  brk_spikes: "대못"
+  brk_spikes_desc: ""
+
+  brk_spikes_1: "추가 대못"
+  brk_spikes_1_desc: ""
+
+  brk_plates: "강철판"
+  brk_plates_desc: ""
+
+  brk_plates_1: "더 많은 강철판"
+  brk_plates_1_desc: ""
+
+  brk_manu_drive: "노예 마스터"
+  brk_manu_drive_desc: ""
+
+  brk_manu_drive_1: "노예 마스터"
+  brk_manu_drive_1_desc: ""
+
+  brk_manu_drive_2: "노예 마스터"
+  brk_manu_drive_2_desc: ""
+
+  brk_naval_range: "바다의 주인"
+  brk_naval_range_desc: ""
+
+  brk_terrorized: "레이더 공포"
+  brk_terrorized_desc: ""
+
+  brk_coastal_terror: "해안의 공포"
+  brk_coastal_terror_desc: "우리의 배는 어디든 갈 수 있습니다! 경험 많은 선원들은 해안에서 흔하게 볼 수 있는데, 이들은 먼 땅에서 많은 약탈물들이 잡히기를 기다리거나, 물건을 실은 배들을 땀을 흘리며 약탈할 필요가 있을 때 유용합니다."
+
+  brk_raider_society: "레이더의 사회"
+  brk_raider_society_desc: "루트는 브로큰 코스트의 주민들에게 강력한 추진력입니다. 각지의 굳어진 습격자들 중 다수가 함께 모여서 전투에서 그들의 운명을 추구합니다. 이 습격자들은 추운 산에서 태어나 자라고, 차가운 바닷바람에 씻겨 추위에 극도로 저항합니다. 습격에 집중하는 모든 시간이 혁신을 만든다고 합니다."
+
+  brk_vic_patriotic_defence: "애국적인 방위"
+  brk_vic_patriotic_defence_desc: "레이더들이 우리나라를 위협합니다. 해안 공습과 과거 항만 급습 등을 거치면서 상황은 더 커졌습니다. 침략자들은 이제 우리를 노예로 만들려는 유일한 목적을 가지고 우리 섬의 일부를 점령합니다. 우리는 이런 일이 일어나도록 내버려 둘 수 없습니다. 우리는 맞서 싸워야 합니다."

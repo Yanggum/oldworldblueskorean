@@ -1,0 +1,120 @@
+﻿l_english:
+  tribal_nation: "부족 국가"
+  tribal_nation_desc: ""
+
+  tribal_defence: "부족 방어"
+  tribal_defence_desc: ""
+
+  tribalunity: "부족 통일"
+  tribalunity_desc: ""
+
+  tribal_tradition: "부족 전통"
+  tribal_tradition_desc: ""
+
+  war_chief1: "대족장 I"
+  war_chief1_desc: ""
+
+  war_chief2: "대족장 II"
+  war_chief2_desc: ""
+
+  high_shaman: "고위 주술사"
+  high_shaman_desc: ""
+
+  elder1: "장로 I"
+  elder1_desc: ""
+
+  elder2: "장로 II"
+  elder2_desc: ""
+
+  elder3: "장로 III"
+  elder3_desc: ""
+
+  highchief1: "고위족장 I"
+  highchief1_desc: ""
+
+  highchief2: "고위족장 II"
+  highchief2_desc: ""
+
+  highchief3: "고위족장 III"
+  highchief3_desc: ""
+
+  elders: "장로"
+  elders_desc: ""
+
+  outsideragreement: "외부인 합의"
+  outsideragreement_desc: ""
+
+  tribal_volunteers: "부족 자원병"
+  tribal_volunteers_desc: ""
+
+  tribal_mercenaries: "부족 용병"
+  tribal_mercenaries_desc: ""
+
+  tribalyouth: "부족 청년"
+  tribalyouth_desc: ""
+
+  tribalchamps: "부족 챔피언"
+  tribalchamps_desc: ""
+
+  healingpowder: "치유 가루"
+  healingpowder_desc: ""
+
+  tribalsecrets: "부족 비밀"
+  tribalsecrets_desc: ""
+
+  tribalmuster: "부족 소집"
+  tribalmuster_desc: ""
+
+  tribalhoundmasters: "사냥개 주인"
+  tribalhoundmasters_desc: ""
+
+  tribalskirmish: "부족 전투 전술"
+  tribalskirmish_desc: ""
+
+  tribalfervor: "부족 열정"
+  tribalfervor_desc: ""
+
+  tribalfragprod: "프래그팟"
+  tribalfragprod_desc: ""
+
+  spirits: "영혼들"
+  spirits_desc: ""
+
+  sacredlands: "성스러운 땅"
+  sacredlands_desc: ""
+
+  tribalwasteland: "황무지"
+  tribalwasteland_desc: ""
+
+  tribaldrums: "부족 전쟁북"
+  tribaldrums_desc: ""
+
+  slipperyenemies: "약삭빠른 적"
+  slipperyenemies_desc: ""
+
+  rivergods: "강의 신"
+  rivergods_desc: ""
+
+  sungods: "태양의 신"
+  sungods_desc: ""
+
+  mountaingods: "산의 신"
+  mountaingods_desc: ""
+
+  warlegend: "전쟁의 전설"
+  warlegend_desc: ""
+
+  shamanlegend: "주술사의 전설"
+  shamanlegend_desc: ""
+
+  builderlegend: "건축가의 전설"
+  builderlegend_desc: ""
+
+  erawar: "세대 전쟁"
+  erawar_desc: ""
+
+  eramigration: "세대 전환"
+  eramigration_desc: ""
+
+  eraprosperity: "세대 번영"
+  eraprosperity_desc: ""

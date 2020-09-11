@@ -1,0 +1,132 @@
+﻿l_english:
+  settler_nation: "정착민 국가"
+  settler_nation_desc: ""
+
+  erect_palisade: "울타리 건설"
+  erect_palisade_desc: ""
+
+  local_pride: "지역 자존심"
+  local_pride_desc: ""
+
+  labor_treaties: "노동 조약"
+  labor_treaties_desc: ""
+
+  new_schools: "새로운 학교"
+  new_schools_desc: ""
+
+  firefighter_protection: "소방관 보호"
+  firefighter_protection_desc: ""
+
+  police_protection: "경찰 보호"
+  police_protection_desc: ""
+
+  tato_farming: "타토 농업"
+  tato_farming_desc: ""
+
+  brahmin_herding: "브라민 목장"
+  brahmin_herding_desc: ""
+
+  enforced_trade_laws: "강제 무역법"
+  enforced_trade_laws_desc: ""
+
+  construction_protection: "건설 보호"
+  construction_protection_desc: ""
+
+  wall_construction: "벽 건설"
+  wall_construction_desc: ""
+
+  established_armory: "병기고 창설\n§Y민병대§!§W:§!\n    §W대인 공격:§! §G+5%§!\n    §W방어:§! §G+5%§!"
+  established_armory_desc: ""
+
+  chem_lab: "화학 실험실"
+  chem_lab_desc: ""
+
+  settler_robco: "롭코"
+  settler_robco_desc: ""
+
+  oligarchical_power: "과두 정부"
+  oligarchical_power_desc: ""
+
+  settler_monopoly: "화해 독점"
+  settler_monopoly_desc: ""
+
+  eliminating_rivals: "라이벌 제거"
+  eliminating_rivals_desc: ""
+
+  settlerbodyguards: "개인 경호원"
+  settlerbodyguards_desc: ""
+
+  loyalty: "충의"
+  loyalty_desc: ""
+
+  settler_subsidized_weapon_manufacturers: "보조 무기 제조\n§Y민병대§!§W:§!\n    §W대인 공격:§! §G+5%§!\n    §W방어:§! §G+5%§!\n"
+  settler_subsidized_weapon_manufacturers_desc: ""
+
+  militia_posters: "민병대 선전"
+  militia_posters_desc: ""
+
+  encourage_women: "여성 서비스 권장"
+  encourage_women_desc: ""
+
+  militia_drilling: "민병대 훈련"
+  militia_drilling_desc: ""
+
+  marching_drills: "행군 훈련"
+  marching_drills_desc: ""
+
+  settler_old_tactics: "구세계 전술"
+  settler_old_tactics_desc: ""
+
+  settler_militia_organization: "민병대 조직"
+  settler_militia_organization_desc: ""
+
+  settler_standardized_military: "표준화된 군대"
+  settler_standardized_military_desc: ""
+
+  settler_fallback_tactics: "후퇴 전술"
+  settler_fallback_tactics_desc: ""
+
+  settler_tactical_awareness: "전술적 인식"
+  settler_tactical_awareness_desc: ""
+
+  settler_point_defence: "거점 방어"
+  settler_point_defence_desc: ""
+
+  settler_wasteland_settlers: "황무지 정착민"
+  settler_wasteland_settlers_desc: ""
+
+  settler_long_distance_movements: "장거리 이동"
+  settler_long_distance_movements_desc: ""
+
+  settler_medical_protection: "의료 보호"
+  settler_medical_protection_desc: ""
+
+  settler_militia_commanders: "민병대 지휘관"
+  settler_militia_commanders_desc: ""
+
+  caravanmilitia: "캐러밴 민병대\n§Y민병대§!§W:§!\n    §W대인 공격:§! §G+5%§!\n    §W방어:§! §G+5%§!\n"
+  caravanmilitia_desc: ""
+
+  settlerdefendingwitha: "용병의 도시"
+  settlerdefendingwitha_desc: ""
+
+  settlerdefendingwithb: "약탈자의 도시"
+  settlerdefendingwithb_desc: ""
+
+  settlerdefendingwithc: "범죄 도시"
+  settlerdefendingwithc_desc: ""
+
+  settler_council_of_minds: "마음의 평의회"
+  settler_council_of_minds_desc: ""
+
+  settlercleanwater: "깨끗한 물"
+  settlercleanwater_desc: ""
+
+  settlerpowerful: "강력한"
+  settlerpowerful_desc: ""
+
+  settleradvanced: "진보된"
+  settleradvanced_desc: ""
+
+  settlerwealthy: "풍부한"
+  settlerwealthy_desc: ""
